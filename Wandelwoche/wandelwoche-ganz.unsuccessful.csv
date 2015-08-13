@@ -1,0 +1,5 @@
+"name","short description","addr:country","addr:orig_street","addr:housenumber","addr:postcode","addr:city","contact:phone","contact:email","contact:website","identity","main tag",lat,lon,addr:street,place
+"Akademie für Suffizienz","","Germany","Gross Pankower Weg","7","16928","Reckenthin","+49 176 20362434","corinna@akademie-suffizienz.de","http://akademie-suffizienz.de","commons;demonetized_economy;subsistence_economy","project centre",,,""
+"Gekko Getränkekollektiv","","Germany","Köpeniker Strasse","26-29","10997","Berlin","+49 30 220128050","info@gekko-berlin.de","http://gekko-berlin.de","solidarity_economy","Fair Trade;beverage cooperative",,,""
+"Mietshäusersyndikat Berlin-Brandenburg","","Germany","","","","","","berlin-brandenburg@syndikat.org","http://syndikat.blogsport.eu/","solidarity_economy;subsistence_economy","advice centre;self help contact point",,,""
+"OLiB Organischer Landbau in Bienenwerder","","Germany","Bienenwerder","2b","15374","Müncheberg (Mark)","+49 33432 747333","bienenwerder@web.de","http://olib-ev.org","solidarity_economy","Community Supported Agriculture;organic farming",,,""

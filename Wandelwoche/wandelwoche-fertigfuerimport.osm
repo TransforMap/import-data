@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='52.7645923' minlon='13.6129135' maxlat='52.7692613' maxlon='13.6210624' origin='CGImap 0.4.0 (21150 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.7701104' minlon='13.6081553' maxlat='52.7748097' maxlon='13.61691' origin='CGImap 0.4.0 (24332 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5571996' minlon='13.3843444' maxlat='52.558642' maxlon='13.3866016' origin='CGImap 0.4.0 (2733 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5573383' minlon='13.383504' maxlat='52.558642' maxlon='13.3843444' origin='CGImap 0.4.0 (22877 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.558642' minlon='13.383504' maxlat='52.5591085' maxlon='13.3862742' origin='CGImap 0.4.0 (23739 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5572032' minlon='13.3840462' maxlat='52.5593908' maxlon='13.3874695' origin='CGImap 0.4.0 (2213 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5311528' minlon='13.407563' maxlat='52.5317125' maxlon='13.4084382' origin='CGImap 0.4.0 (19203 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5503798' minlon='13.3631837' maxlat='52.5507973' maxlon='13.3639026' origin='CGImap 0.4.0 (29682 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5405592' minlon='13.3475469' maxlat='52.541152' maxlon='13.3484741' origin='CGImap 0.4.0 (10060 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5153003' minlon='13.3257186' maxlat='52.5161425' maxlon='13.327167' origin='CGImap 0.4.0 (19212 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4969104' minlon='13.3651351' maxlat='52.4978583' maxlon='13.3666164' origin='CGImap 0.4.0 (24736 thorn-02.openstreetmap.org)' />
+  <node id='-10875' action='modify' visible='true' lat='52.4974278128' lon='13.36596183295'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:orig_street' v='Bülowstrasse' />
+    <tag k='addr:postcode' v='10783' />
+    <tag k='addr:street' v='Bülowstraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='garten@allmende-kontor.de;severinhalder@googlemail.com;gerda-muennich-im-allmende-kontor@gmx.de' />
+    <tag k='contact:website' v='http://allmende-kontor.de' />
+    <tag k='identity' v='commons' />
+    <tag k='name' v='Allmende-Kontor' />
+    <tag k='note' v='Vereinssitz Allmende-Kontor' />
+  </node>
+  <node id='-10351' action='modify' visible='true' lat='52.51578239117' lon='13.32629439159'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:orig_street' v='Einsteinufer' />
+    <tag k='addr:postcode' v='10587' />
+    <tag k='addr:street' v='Einsteinufer' />
+    <tag k='contact:website' v='http://ula.blogsport.de' />
+    <tag k='identity' v='solidarity_economy;degrowth' />
+    <tag k='name' v='Ula - Die erste Umsonstlädin' />
+    <tag k='payment:none' v='yes' />
+    <tag k='shop' v='yes' />
+  </node>
+  <node id='-10333' action='modify' visible='true' lat='52.54081040812' lon='13.34780448636'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='13353' />
+    <tag k='addr:street' v='Föhrer Straße' />
+    <tag k='contact:email' v='info@lavidaver.de' />
+    <tag k='contact:website' v='http://lavidaver.de/' />
+    <tag k='description' v='collective housing project' />
+    <tag k='identity' v='solidarity_economy;subsistence_economy' />
+    <tag k='name' v='La vida verde' />
+    <tag k='provides' v='housing' />
+  </node>
+  <node id='-2883' action='modify' visible='true' lat='52.55789325179' lon='13.38511924815'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='58D' />
+    <tag k='addr:postcode' v='13359' />
+    <tag k='addr:street' v='Prinzenallee' />
+    <tag k='contact:email' v='dagmarrehse@gmx.de' />
+    <tag k='contact:phone' v='+49 157 75348418' />
+    <tag k='contact:website' v='http://handgewebtinberlin.wordpress.com' />
+    <tag k='craft' v='weaver' />
+    <tag k='description' v='workshop for manufacture or repair of goods' />
+    <tag k='identity' v='p2p_economy' />
+    <tag k='interaction' v='diy_and_dit' />
+    <tag k='name' v='handgewebt in Berlin' />
+    <tag k='provides' v='objects_of_utility' />
+    <tag k='shop' v='fabric' />
+  </node>
+  <node id='2390734924' action='modify' timestamp='2015-08-01T22:28:08Z' uid='290680' user='wheelmap_visitor' visible='true' version='6' changeset='33034343' lat='52.550607' lon='13.363522'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='10a' />
+    <tag k='addr:postcode' v='13347' />
+    <tag k='addr:street' v='Hochstädter Straße' />
+    <tag k='addr:suburb' v='Wedding' />
+    <tag k='amenity' v='pub' />
+    <tag k='contact:email' v='cafecralle@riseup.net' />
+    <tag k='contact:phone' v='+49 30 4553001' />
+    <tag k='contact:website' v='https://cafecralle.wordpress.com' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Café Cralle' />
+    <tag k='source' v='Dakota 20' />
+    <tag k='website' v='http://cafecralle.wordpress.com/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2728580880' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7728401' lon='13.6134015' />
+  <node id='2728580883' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.773077' lon='13.613203' />
+  <node id='2728580885' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7730348' lon='13.6118994' />
+  <node id='2728580888' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7717545' lon='13.6119236' />
+  <node id='2728580891' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7717918' lon='13.614308' />
+  <node id='2728580894' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7727784' lon='13.6142437' />
+  <node id='2728580896' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7717626' lon='13.6136026' />
+  <node id='2728580899' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7711362' lon='13.6137072' />
+  <node id='2728580901' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7710973' lon='13.6129079' />
+  <node id='3024293759' timestamp='2014-08-18T11:11:50Z' uid='1091851' user='WebMacke' visible='true' version='1' changeset='24829495' lat='52.7718355' lon='13.6143052'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='3145452858' action='modify' timestamp='2015-02-11T12:00:24Z' uid='42705' user='MorbZ' visible='true' version='2' changeset='28771631' lat='52.5313872706' lon='13.40807975599'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:postcode' v='10119' />
+    <tag k='addr:street' v='Fehrbelliner Straße' />
+    <tag k='addr:suburb' v='Prenzlauer Berg' />
+    <tag k='contact:email' v='hallo@leila-berlin.de' />
+    <tag k='contact:website' v='http://leila-berlin.de' />
+    <tag k='identity' v='collaborative_economy;transition_initiative;economy_for_the_common_good;degrowth' />
+    <tag k='interaction' v='sharing;rebuying_reselling;lending' />
+    <tag k='name' v='Leila Berlin' />
+    <tag k='payment:none' v='yes' />
+    <tag k='provides' v='objects_of_utility;clothes' />
+    <tag k='shop' v='yes' />
+  </node>
+  <node id='3683748516' action='delete' timestamp='2015-08-06T10:45:42Z' uid='1332377' user='ecolopirate' visible='true' version='1' changeset='33151791' lat='52.5313886' lon='13.4080799'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:postcode' v='10119' />
+    <tag k='addr:street' v='Fehrbelliner Straße' />
+    <tag k='identity' v='collaborative_economy;transition_initiative' />
+    <tag k='interaction' v='sharing;rebuying_reselling;lending' />
+    <tag k='name' v='Leila - all-sharing-shop' />
+    <tag k='provides' v='objects_of_utility;clothes' />
+  </node>
+  <way id='267398834' action='modify' timestamp='2014-08-18T11:11:52Z' uid='1091851' user='WebMacke' visible='true' version='2' changeset='24829495'>
+    <nd ref='2728580880' />
+    <nd ref='2728580883' />
+    <nd ref='2728580885' />
+    <nd ref='2728580888' />
+    <nd ref='2728580901' />
+    <nd ref='2728580899' />
+    <nd ref='2728580896' />
+    <nd ref='2728580891' />
+    <nd ref='3024293759' />
+    <nd ref='2728580894' />
+    <nd ref='2728580880' />
+    <tag k='addr:city' v='Biesenthal' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='45-46' />
+    <tag k='addr:postcode' v='16359' />
+    <tag k='addr:street' v='Ruhlsdorfer Straße' />
+    <tag k='contact:email' v='info@wukania.net' />
+    <tag k='contact:phone' v='+49 3337 431926' />
+    <tag k='contact:website' v='http://wukania.net' />
+    <tag k='description' v='collective housing;multigenerational housing project' />
+    <tag k='identity' v='commons;p2p_economy' />
+    <tag k='interaction' v='cousing' />
+    <tag k='landuse' v='residential' />
+    <tag k='name' v='Wukania Projektehof' />
+    <tag k='operator' v='Wukania e.V.' />
+    <tag k='provides' v='housing' />
+    <tag k='website' v='http://www.wukania.net' />
+  </way>
+</osm>

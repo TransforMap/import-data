@@ -11,47 +11,885 @@
   <bounds minlat='52.5405592' minlon='13.3475469' maxlat='52.541152' maxlon='13.3484741' origin='CGImap 0.4.0 (10060 thorn-01.openstreetmap.org)' />
   <bounds minlat='52.5153003' minlon='13.3257186' maxlat='52.5161425' maxlon='13.327167' origin='CGImap 0.4.0 (19212 thorn-01.openstreetmap.org)' />
   <bounds minlat='52.4969104' minlon='13.3651351' maxlat='52.4978583' maxlon='13.3666164' origin='CGImap 0.4.0 (24736 thorn-02.openstreetmap.org)' />
-  <node id='-10875' action='modify' visible='true' lat='52.4974278128' lon='13.36596183295'>
+  <bounds minlat='53.3252471' minlon='13.8851953' maxlat='53.3286048' maxlon='13.8944864' origin='CGImap 0.4.0 (21150 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3286048' minlon='13.8868216' maxlat='53.3311368' maxlon='13.8948858' origin='CGImap 0.4.0 (2213 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.3272024' minlon='13.8944864' maxlat='53.3286048' maxlon='13.8948858' origin='CGImap 0.4.0 (23156 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3272024' minlon='13.8944864' maxlat='53.3286048' maxlon='13.8948858' origin='OpenStreetMap server' />
+  <bounds minlat='53.3286048' minlon='13.8845782' maxlat='53.3300148' maxlon='13.8868216' origin='CGImap 0.4.0 (23156 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3300148' minlon='13.8860666' maxlat='53.3305624' maxlon='13.8868216' origin='CGImap 0.4.0 (19117 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3226996' minlon='13.8845782' maxlat='53.3286048' maxlon='13.8851953' origin='CGImap 0.4.0 (11619 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3226996' minlon='13.8821694' maxlat='53.3299071' maxlon='13.8845782' origin='CGImap 0.4.0 (29682 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3226996' minlon='13.8851953' maxlat='53.3252471' maxlon='13.8935739' origin='CGImap 0.4.0 (30120 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3300148' minlon='13.8849014' maxlat='53.3310435' maxlon='13.8868216' origin='CGImap 0.4.0 (25530 thorn-01.openstreetmap.org)' />
+  <bounds minlat='53.3238362' minlon='13.8935739' maxlat='53.3252471' maxlon='13.8944864' origin='CGImap 0.4.0 (1866 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.3238362' minlon='13.8944864' maxlat='53.3272024' maxlon='13.8948858' origin='CGImap 0.4.0 (21651 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3238362' minlon='13.8948858' maxlat='53.3310435' maxlon='13.8963059' origin='CGImap 0.4.0 (5042 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.32296' minlon='13.8935739' maxlat='53.3238362' maxlon='13.895126' origin='CGImap 0.4.0 (28519 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3310435' minlon='13.8849014' maxlat='53.3323513' maxlon='13.8868216' origin='CGImap 0.4.0 (10060 thorn-01.openstreetmap.org)' />
+  <bounds minlat='53.3299071' minlon='13.8821694' maxlat='53.3323513' maxlon='13.8849014' origin='CGImap 0.4.0 (26685 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.3311368' minlon='13.8868216' maxlat='53.3323513' maxlon='13.8933188' origin='CGImap 0.4.0 (11619 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3311368' minlon='13.8933188' maxlat='53.3323513' maxlon='13.8956311' origin='CGImap 0.4.0 (30700 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3323513' minlon='13.8842266' maxlat='53.3336977' maxlon='13.8956311' origin='CGImap 0.4.0 (26685 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.3310435' minlon='13.8948858' maxlat='53.3311368' maxlon='13.8990222' origin='CGImap 0.4.0 (7424 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.3311368' minlon='13.8956311' maxlat='53.3336977' maxlon='13.8990222' origin='CGImap 0.4.0 (8984 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.3277414' minlon='13.8963059' maxlat='53.3310435' maxlon='13.8990222' origin='CGImap 0.4.0 (8970 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.3336977' minlon='13.8876177' maxlat='53.3349482' maxlon='13.8990222' origin='CGImap 0.4.0 (19117 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3259193' minlon='13.8963059' maxlat='53.3277414' maxlon='13.8973107' origin='CGImap 0.4.0 (1975 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.3323513' minlon='13.8736446' maxlat='53.3353661' maxlon='13.8964534' origin='CGImap 0.4.0 (19685 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.3209516' minlon='13.8821694' maxlat='53.32296' maxlon='13.8964534' origin='CGImap 0.4.0 (31275 thorn-01.openstreetmap.org)' />
+  <bounds minlat='53.3209516' minlon='13.8736446' maxlat='53.3323513' maxlon='13.8821694' origin='CGImap 0.4.0 (23154 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.0900938' minlon='13.4946871' maxlat='53.0944364' maxlon='13.503077' origin='CGImap 0.4.0 (3692 thorn-01.openstreetmap.org)' />
+  <bounds minlat='53.088514' minlon='13.4957004' maxlat='53.0900938' maxlon='13.5029823' origin='CGImap 0.4.0 (23739 thorn-01.openstreetmap.org)' />
+  <bounds minlat='53.0892559' minlon='13.5029823' maxlat='53.0900938' maxlon='13.503077' origin='CGImap 0.4.0 (6438 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.0892559' minlon='13.5029823' maxlat='53.0900938' maxlon='13.503077' origin='OpenStreetMap server' />
+  <bounds minlat='53.0885915' minlon='13.4946871' maxlat='53.0900938' maxlon='13.4957004' origin='CGImap 0.4.0 (6330 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.0885915' minlon='13.4946871' maxlat='53.0900938' maxlon='13.4957004' origin='OpenStreetMap server' />
+  <bounds minlat='53.0885915' minlon='13.4938881' maxlat='53.093219' maxlon='13.4946871' origin='CGImap 0.4.0 (24736 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.0896677' minlon='13.503077' maxlat='53.094295' maxlon='13.5055888' origin='CGImap 0.4.0 (24322 thorn-02.openstreetmap.org)' />
+  <bounds minlat='53.0872403' minlon='13.494526' maxlat='53.0896677' maxlon='13.5055888' origin='CGImap 0.4.0 (29879 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.9782379' minlon='13.7570765' maxlat='52.9805576' maxlon='13.7607174' origin='CGImap 0.4.0 (19230 thorn-03.openstreetmap.org)' />
+  <bounds minlat='53.0700385' minlon='12.0821528' maxlat='53.071196' maxlon='12.0839733' origin='CGImap 0.4.0 (24190 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.9160078' minlon='12.25362' maxlat='52.9225781' maxlon='12.2639184' origin='CGImap 0.4.0 (25560 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.1537443' minlon='12.5851213' maxlat='52.1604297' maxlon='12.5954196' origin='CGImap 0.4.0 (28519 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.3980125' minlon='13.0496695' maxlat='52.4003633' maxlon='13.0533105' origin='CGImap 0.4.0 (30700 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.3991076' minlon='13.054646' maxlat='52.3995231' maxlon='13.0552896' origin='CGImap 0.4.0 (2213 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.3989265' minlon='13.054646' maxlat='52.3991076' maxlon='13.0552896' origin='CGImap 0.4.0 (21371 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.3989265' minlon='13.0552896' maxlat='52.3995231' maxlon='13.0555623' origin='CGImap 0.4.0 (24195 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.3989265' minlon='13.054275' maxlat='52.3995231' maxlon='13.054646' origin='CGImap 0.4.0 (8969 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.3995231' minlon='13.054275' maxlat='52.3997577' maxlon='13.0555623' origin='CGImap 0.4.0 (26632 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.3986201' minlon='13.054275' maxlat='52.3989265' maxlon='13.0555623' origin='CGImap 0.4.0 (23154 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.3870744' minlon='13.073952' maxlat='52.3917771' maxlon='13.081234' origin='CGImap 0.4.0 (25544 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.3943208' minlon='13.1179985' maxlat='52.3959832' maxlon='13.1205731' origin='CGImap 0.4.0 (6438 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.3944746' minlon='13.1205731' maxlat='52.3959832' maxlon='13.1208275' origin='CGImap 0.4.0 (3758 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.3959832' minlon='13.1182529' maxlat='52.396137' maxlon='13.1208275' origin='CGImap 0.4.0 (20095 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5227272' minlon='13.2001645' maxlat='52.5235561' maxlon='13.2014517' origin='CGImap 0.4.0 (2733 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4866188' minlon='13.3275021' maxlat='52.4874482' maxlon='13.3287894' origin='CGImap 0.4.0 (10173 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4866348' minlon='13.3287894' maxlat='52.4874482' maxlon='13.3290438' origin='CGImap 0.4.0 (25823 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.486797' minlon='13.3583614' maxlat='52.4872118' maxlon='13.3590049' origin='CGImap 0.4.0 (22594 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5058172' minlon='13.3905087' maxlat='52.5074754' maxlon='13.3930833' origin='CGImap 0.4.0 (24332 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5055703' minlon='13.3905087' maxlat='52.5058172' maxlon='13.3926345' origin='CGImap 0.4.0 (6330 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5055703' minlon='13.3900598' maxlat='52.5072284' maxlon='13.3905087' origin='CGImap 0.4.0 (22594 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4988991' minlon='13.3998436' maxlat='52.4997284' maxlon='13.401131' origin='CGImap 0.4.0 (31404 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4988388' minlon='13.4113156' maxlat='52.4994253' maxlon='13.4122258' origin='CGImap 0.4.0 (30120 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5016535' minlon='13.409283' maxlat='52.5039986' maxlon='13.412924' origin='CGImap 0.4.0 (24322 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5024218' minlon='13.413315' maxlat='52.503251' maxlon='13.4146023' origin='CGImap 0.4.0 (15157 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5013219' minlon='13.4137977' maxlat='52.5021511' maxlon='13.415085' origin='CGImap 0.4.0 (28519 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5031097' minlon='13.4185149' maxlat='52.5039389' maxlon='13.4198022' origin='CGImap 0.4.0 (7415 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5034026' minlon='13.4212326' maxlat='52.5067191' maxlon='13.4263817' origin='CGImap 0.4.0 (25530 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5057545' minlon='13.428728' maxlat='52.5074127' maxlon='13.4313026' origin='CGImap 0.4.0 (16793 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5074127' minlon='13.4287543' maxlat='52.5076566' maxlon='13.4313026' origin='CGImap 0.4.0 (19117 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5056853' minlon='13.4313026' maxlat='52.5076566' maxlon='13.431714' origin='CGImap 0.4.0 (23154 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5056853' minlon='13.4280731' maxlat='52.5076566' maxlon='13.4287543' origin='CGImap 0.4.0 (20282 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5076566' minlon='13.4280731' maxlat='52.5080303' maxlon='13.431714' origin='CGImap 0.4.0 (23738 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5080303' minlon='13.4280934' maxlat='52.5082761' maxlon='13.4317344' origin='CGImap 0.4.0 (5042 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5087591' minlon='13.4453447' maxlat='52.5099315' maxlon='13.4471652' origin='CGImap 0.4.0 (23154 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5082245' minlon='13.4453447' maxlat='52.5087591' maxlon='13.4471652' origin='CGImap 0.4.0 (15177 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5082245' minlon='13.4471652' maxlat='52.5099315' maxlon='13.4480737' origin='CGImap 0.4.0 (10067 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5082245' minlon='13.4444327' maxlat='52.5099315' maxlon='13.4453447' origin='CGImap 0.4.0 (19685 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5099315' minlon='13.4444327' maxlat='52.5105694' maxlon='13.4480737' origin='CGImap 0.4.0 (25544 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5072886' minlon='13.4455188' maxlat='52.5082245' maxlon='13.4480737' origin='CGImap 0.4.0 (30120 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5072886' minlon='13.4480737' maxlat='52.5096337' maxlon='13.4491597' origin='CGImap 0.4.0 (2357 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5069665' minlon='13.4463333' maxlat='52.5072886' maxlon='13.4491597' origin='CGImap 0.4.0 (23155 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5069665' minlon='13.4491597' maxlat='52.5093114' maxlon='13.4499743' origin='CGImap 0.4.0 (19126 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5065884' minlon='13.4468831' maxlat='52.5069665' maxlon='13.4499743' origin='CGImap 0.4.0 (20099 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5065884' minlon='13.4499743' maxlat='52.5089333' maxlon='13.4505241' origin='CGImap 0.4.0 (10060 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5079869' minlon='13.4449622' maxlat='52.5082245' maxlon='13.4455188' origin='CGImap 0.4.0 (3758 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5096337' minlon='13.4480737' maxlat='52.5103318' maxlon='13.4486031' origin='CGImap 0.4.0 (23156 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5086046' minlon='13.4440017' maxlat='52.5105694' maxlon='13.4444327' origin='CGImap 0.4.0 (10173 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5105694' minlon='13.4440017' maxlat='52.5109494' maxlon='13.4476427' origin='CGImap 0.4.0 (2179 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5090838' minlon='13.4434044' maxlat='52.5109494' maxlon='13.4440017' origin='CGImap 0.4.0 (26685 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5109494' minlon='13.4434044' maxlat='52.5114287' maxlon='13.4470453' origin='CGImap 0.4.0 (25529 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5085284' minlon='13.4508963' maxlat='52.5101865' maxlon='13.4534709' origin='CGImap 0.4.0 (26632 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5036883' minlon='13.4493709' maxlat='52.5060334' maxlon='13.4530119' origin='CGImap 0.4.0 (19117 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4982563' minlon='13.4473622' maxlat='52.4990856' maxlon='13.4486496' origin='CGImap 0.4.0 (8971 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4972108' minlon='13.4421552' maxlat='52.4983835' maxlon='13.4439757' origin='CGImap 0.4.0 (19685 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4932351' minlon='13.4388716' maxlat='52.4943511' maxlon='13.4406035' origin='CGImap 0.4.0 (23762 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4916785' minlon='13.4360831' maxlat='52.4927944' maxlon='13.4378151' origin='CGImap 0.4.0 (31275 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4948718' minlon='13.4314981' maxlat='52.495661' maxlon='13.4327229' origin='CGImap 0.4.0 (5232 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4955249' minlon='13.4284021' maxlat='52.4960829' maxlon='13.4292682' origin='CGImap 0.4.0 (10067 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4953255' minlon='13.4252686' maxlat='52.4964414' maxlon='13.4270006' origin='CGImap 0.4.0 (19685 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4950989' minlon='13.4270006' maxlat='52.4964414' maxlon='13.4272878' origin='CGImap 0.4.0 (19230 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4950989' minlon='13.4252686' maxlat='52.4953255' maxlon='13.4270006' origin='CGImap 0.4.0 (23155 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4964414' minlon='13.4248383' maxlat='52.4966769' maxlon='13.4272878' origin='CGImap 0.4.0 (1975 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4950989' minlon='13.4248383' maxlat='52.4964414' maxlon='13.4252686' origin='CGImap 0.4.0 (19222 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4968273' minlon='13.42763' maxlat='52.4979432' maxlon='13.4280934' origin='CGImap 0.4.0 (2610 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4968273' minlon='13.4280934' maxlat='52.4979432' maxlon='13.429362' origin='CGImap 0.4.0 (6438 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5006876' minlon='13.4301717' maxlat='52.5012454' maxlon='13.4310378' origin='CGImap 0.4.0 (23762 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5005053' minlon='13.4201938' maxlat='52.5010632' maxlon='13.4210599' origin='CGImap 0.4.0 (2610 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5002652' minlon='13.4201938' maxlat='52.5005053' maxlon='13.4210599' origin='CGImap 0.4.0 (24687 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5010632' minlon='13.4201938' maxlat='52.5013809' maxlon='13.4210599' origin='CGImap 0.4.0 (29682 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5002652' minlon='13.4210599' maxlat='52.5013809' maxlon='13.4214921' origin='CGImap 0.4.0 (21712 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5002652' minlon='13.4197601' maxlat='52.5013809' maxlon='13.4201938' origin='CGImap 0.4.0 (26632 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5005508' minlon='13.4214921' maxlat='52.5009453' maxlon='13.4220682' origin='CGImap 0.4.0 (3758 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.500155' minlon='13.4216668' maxlat='52.5005508' maxlon='13.4220682' origin='CGImap 0.4.0 (22877 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.500155' minlon='13.4220682' maxlat='52.5007129' maxlon='13.4225329' origin='CGImap 0.4.0 (25021 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.500497' minlon='13.4229209' maxlat='52.5007761' maxlon='13.423354' origin='CGImap 0.4.0 (24195 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4972048' minlon='13.4180657' maxlat='52.4979938' maxlon='13.4192906' origin='CGImap 0.4.0 (23069 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4912565' minlon='13.4094193' maxlat='52.4918144' maxlon='13.4102854' origin='CGImap 0.4.0 (25560 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4912565' minlon='13.4092082' maxlat='52.4918144' maxlon='13.4094193' origin='CGImap 0.4.0 (19222 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4910852' minlon='13.4102854' maxlat='52.4918144' maxlon='13.410433' origin='CGImap 0.4.0 (20282 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4910852' minlon='13.4092082' maxlat='52.4912565' maxlon='13.4102854' origin='CGImap 0.4.0 (20095 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4895466' minlon='13.4216424' maxlat='52.4903359' maxlon='13.4228673' origin='CGImap 0.4.0 (3758 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4899416' minlon='13.4249551' maxlat='52.4904996' maxlon='13.4258212' origin='CGImap 0.4.0 (29879 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4898449' minlon='13.4258212' maxlat='52.4904996' maxlon='13.4259397' origin='CGImap 0.4.0 (21722 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4899416' minlon='13.4247149' maxlat='52.4904996' maxlon='13.4249551' origin='CGImap 0.4.0 (12375 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4898449' minlon='13.4247149' maxlat='52.4899416' maxlon='13.4258212' origin='CGImap 0.4.0 (10060 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4904996' minlon='13.4247149' maxlat='52.4906342' maxlon='13.4259397' origin='CGImap 0.4.0 (21712 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4909871' minlon='13.42771' maxlat='52.4915451' maxlon='13.4285761' origin='CGImap 0.4.0 (21651 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4871597' minlon='13.4272285' maxlat='52.4879489' maxlon='13.4284534' origin='CGImap 0.4.0 (23739 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4871103' minlon='13.4284534' maxlat='52.4878996' maxlon='13.4285915' origin='CGImap 0.4.0 (15157 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4862565' minlon='13.4305118' maxlat='52.4868145' maxlon='13.4313779' origin='CGImap 0.4.0 (28519 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4850224' minlon='13.4268347' maxlat='52.4855805' maxlon='13.4277008' origin='CGImap 0.4.0 (25560 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4828282' minlon='13.4409557' maxlat='52.4836175' maxlon='13.4421806' origin='CGImap 0.4.0 (10072 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4778448' minlon='13.4423185' maxlat='52.4786341' maxlon='13.4435434' origin='CGImap 0.4.0 (8971 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4749743' minlon='13.4522443' maxlat='52.4753691' maxlon='13.4528566' origin='CGImap 0.4.0 (12375 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4749046' minlon='13.4522443' maxlat='52.4749743' maxlon='13.4528566' origin='CGImap 0.4.0 (10060 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4749046' minlon='13.4528566' maxlat='52.4753691' maxlon='13.4529703' origin='CGImap 0.4.0 (19212 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4749046' minlon='13.4521042' maxlat='52.4753691' maxlon='13.4522443' origin='CGImap 0.4.0 (21722 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4753691' minlon='13.4521042' maxlat='52.4754627' maxlon='13.4529703' origin='CGImap 0.4.0 (10067 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4749046' minlon='13.4529703' maxlat='52.4754627' maxlon='13.4531149' origin='CGImap 0.4.0 (25530 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4748092' minlon='13.4521042' maxlat='52.4749046' maxlon='13.4531149' origin='CGImap 0.4.0 (8186 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4748092' minlon='13.4518901' maxlat='52.4754627' maxlon='13.4521042' origin='CGImap 0.4.0 (8970 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4754627' minlon='13.4518901' maxlat='52.4755987' maxlon='13.4531149' origin='CGImap 0.4.0 (8568 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4736338' minlon='13.4425012' maxlat='52.4744233' maxlon='13.443726' origin='CGImap 0.4.0 (24322 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4911965' minlon='13.3872965' maxlat='52.4923124' maxlon='13.3890285' origin='CGImap 0.4.0 (21150 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4923124' minlon='13.3876355' maxlat='52.4924157' maxlon='13.3893675' origin='CGImap 0.4.0 (24687 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4912997' minlon='13.3890285' maxlat='52.4923124' maxlon='13.3893675' origin='CGImap 0.4.0 (10173 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4910815' minlon='13.3872965' maxlat='52.4911965' maxlon='13.3885296' origin='CGImap 0.4.0 (29682 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4910815' minlon='13.3867976' maxlat='52.4921974' maxlon='13.3872965' origin='CGImap 0.4.0 (20099 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4923124' minlon='13.3872965' maxlat='52.4924157' maxlon='13.3876355' origin='CGImap 0.4.0 (23762 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4183606' minlon='13.4967902' maxlat='52.4199414' maxlon='13.4992397' origin='CGImap 0.4.0 (18336 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4589019' minlon='13.5337896' maxlat='52.4596915' maxlon='13.5350144' origin='CGImap 0.4.0 (6438 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4588091' minlon='13.5334092' maxlat='52.4596915' maxlon='13.5337896' origin='CGImap 0.4.0 (30700 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4596915' minlon='13.5334092' maxlat='52.459926' maxlon='13.5351412' origin='CGImap 0.4.0 (24687 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4588081' minlon='13.5337896' maxlat='52.4589019' maxlon='13.5350144' origin='CGImap 0.4.0 (20024 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4576613' minlon='13.5334092' maxlat='52.4588091' maxlon='13.5350144' origin='CGImap 0.4.0 (29682 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4576613' minlon='13.5350144' maxlat='52.459926' maxlon='13.5361124' origin='CGImap 0.4.0 (23154 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.459926' minlon='13.5312134' maxlat='52.46082' maxlon='13.5361124' origin='CGImap 0.4.0 (20282 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4576613' minlon='13.5312134' maxlat='52.459926' maxlon='13.5334092' origin='CGImap 0.4.0 (21150 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4815513' minlon='13.4642297' maxlat='52.4831299' maxlon='13.4666791' origin='CGImap 0.4.0 (8971 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4808243' minlon='13.4642297' maxlat='52.4815513' maxlon='13.4666791' origin='CGImap 0.4.0 (8568 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4831299' minlon='13.4642297' maxlat='52.4839814' maxlon='13.4666791' origin='CGImap 0.4.0 (8186 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4808243' minlon='13.4666791' maxlat='52.4839814' maxlon='13.4677283' origin='CGImap 0.4.0 (20095 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4808243' minlon='13.4628293' maxlat='52.4839814' maxlon='13.4642297' origin='CGImap 0.4.0 (23155 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5132632' minlon='13.4600167' maxlat='52.5140519' maxlon='13.4612416' origin='CGImap 0.4.0 (18336 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5161323' minlon='13.4678546' maxlat='52.5165267' maxlon='13.468467' origin='CGImap 0.4.0 (2213 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5159323' minlon='13.4675284' maxlat='52.5165267' maxlon='13.4678546' origin='CGImap 0.4.0 (24332 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5159323' minlon='13.4678546' maxlat='52.5161323' maxlon='13.468467' origin='CGImap 0.4.0 (2357 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5159323' minlon='13.468467' maxlat='52.5165267' maxlon='13.4687532' origin='CGImap 0.4.0 (25530 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5165267' minlon='13.4675284' maxlat='52.5167209' maxlon='13.4687532' origin='CGImap 0.4.0 (8984 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4576775' minlon='13.7039721' maxlat='52.4582359' maxlon='13.7048382' origin='CGImap 0.4.0 (5235 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5471788' minlon='13.8504336' maxlat='52.5516368' maxlon='13.8573618' origin='CGImap 0.4.0 (24736 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.545765' minlon='13.8573618' maxlat='52.5516368' maxlon='13.8584473' origin='CGImap 0.4.0 (25021 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.545765' minlon='13.8504336' maxlat='52.5471788' maxlon='13.8573618' origin='CGImap 0.4.0 (1866 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.545765' minlon='13.8486493' maxlat='52.5516368' maxlon='13.8504336' origin='CGImap 0.4.0 (8971 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.5462482' minlon='13.8584473' maxlat='52.5516368' maxlon='13.8592784' origin='CGImap 0.4.0 (30700 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.5516368' minlon='13.8494804' maxlat='52.5525528' maxlon='13.8592784' origin='CGImap 0.4.0 (25530 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.545177' minlon='13.8486493' maxlat='52.5462482' maxlon='13.8592784' origin='CGImap 0.4.0 (21712 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.545177' minlon='13.8475117' maxlat='52.5525528' maxlon='13.8494804' origin='CGImap 0.4.0 (7404 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.545177' minlon='13.8592784' maxlat='52.5525528' maxlon='13.8613682' origin='CGImap 0.4.0 (10060 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.5525528' minlon='13.8475117' maxlat='52.554093' maxlon='13.8613682' origin='CGImap 0.4.0 (3692 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4855994' minlon='14.0523556' maxlat='52.4878316' maxlon='14.0558198' origin='CGImap 0.4.0 (19203 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4853081' minlon='14.0523556' maxlat='52.4855994' maxlon='14.0558198' origin='CGImap 0.4.0 (18336 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4853081' minlon='14.0523556' maxlat='52.4855994' maxlon='14.0558198' origin='OpenStreetMap server' />
+  <bounds minlat='52.4853081' minlon='14.0558198' maxlat='52.4884648' maxlon='14.0565105' origin='CGImap 0.4.0 (24190 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4878316' minlon='14.0523556' maxlat='52.4884648' maxlon='14.0558198' origin='CGImap 0.4.0 (23068 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4878316' minlon='14.0523556' maxlat='52.4884648' maxlon='14.0558198' origin='OpenStreetMap server' />
+  <bounds minlat='52.4853081' minlon='14.0516113' maxlat='52.4884648' maxlon='14.0523556' origin='CGImap 0.4.0 (5232 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4849239' minlon='14.0516113' maxlat='52.4853081' maxlon='14.0565105' origin='CGImap 0.4.0 (23155 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4849239' minlon='14.0516113' maxlat='52.4853081' maxlon='14.0565105' origin='OpenStreetMap server' />
+  <bounds minlat='52.4849239' minlon='14.0565105' maxlat='52.4884648' maxlon='14.0573435' origin='CGImap 0.4.0 (12375 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4849239' minlon='14.0504151' maxlat='52.4884648' maxlon='14.0516113' origin='CGImap 0.4.0 (4511 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4884648' minlon='14.0504151' maxlat='52.4893882' maxlon='14.0573435' origin='CGImap 0.4.0 (21712 thorn-01.openstreetmap.org)' />
+  <bounds minlat='52.4845016' minlon='14.0514977' maxlat='52.4849239' maxlon='14.0563969' origin='CGImap 0.4.0 (30700 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4831073' minlon='14.0504151' maxlat='52.4849239' maxlon='14.0514977' origin='CGImap 0.4.0 (23156 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4831073' minlon='14.0495955' maxlat='52.4875716' maxlon='14.0504151' origin='CGImap 0.4.0 (31404 thorn-03.openstreetmap.org)' />
+  <bounds minlat='52.4831073' minlon='14.0514977' maxlat='52.4845016' maxlon='14.0565239' origin='CGImap 0.4.0 (1975 thorn-02.openstreetmap.org)' />
+  <bounds minlat='52.4831073' minlon='14.0514977' maxlat='52.4845016' maxlon='14.0565239' origin='OpenStreetMap server' />
+  <node id='-51478' action='modify' visible='true' lat='52.48714095023' lon='14.05271869033' />
+  <node id='-51476' action='modify' visible='true' lat='52.48776526558' lon='14.05328970596' />
+  <node id='-51474' action='modify' visible='true' lat='52.48691713242' lon='14.05448615264' />
+  <node id='-51472' action='modify' visible='true' lat='52.48670023016' lon='14.055262473' />
+  <node id='-51470' action='modify' visible='true' lat='52.48635262817' lon='14.05517570779' />
+  <node id='-51469' action='modify' visible='true' lat='52.48577921014' lon='14.05383460216' />
+  <node id='-47820' action='modify' visible='true' lat='52.45790229958' lon='13.70443330206'>
+    <tag k='addr:city' v='Schöneiche' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='15566' />
+    <tag k='addr:street' v='Bismarckstraße' />
+    <tag k='contact:email' v='heikemeves@arcor.de' />
+    <tag k='contact:phone' v='+49 30 64095979' />
+    <tag k='contact:website' v='http://wohnprojekt-schoeneiche.de' />
+    <tag k='identity' v='commons;transition initiative' />
+    <tag k='name' v='Wohnprojekt Schöneiche' />
+    <tag k='provides' v='housing;learning_opportunities;community;participation' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-47600' action='modify' visible='true' lat='52.51632432089' lon='13.46810063902'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='74' />
-    <tag k='addr:orig_street' v='Bülowstrasse' />
-    <tag k='addr:postcode' v='10783' />
-    <tag k='addr:street' v='Bülowstraße' />
-    <tag k='club' v='yes' />
-    <tag k='contact:email' v='garten@allmende-kontor.de;severinhalder@googlemail.com;gerda-muennich-im-allmende-kontor@gmx.de' />
-    <tag k='contact:website' v='http://allmende-kontor.de' />
-    <tag k='identity' v='commons' />
-    <tag k='name' v='Allmende-Kontor' />
-    <tag k='note' v='Vereinssitz Allmende-Kontor' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='10247' />
+    <tag k='addr:street' v='Voigtstraße' />
+    <tag k='contact:email' v='info@spentcollective.de' />
+    <tag k='contact:facebook' v='https://www.facebook.com/spentcollective' />
+    <tag k='contact:phone' v='+49 178 7108005' />
+    <tag k='contact:twitter' v='https://twitter.com/SpentCollectiv1' />
+    <tag k='contact:website' v='http://spentcollective.de' />
+    <tag k='contact:youtube' v='https://www.youtube.com/channel/UC5VBMoJZeelRRLxcL_qA9hA' />
+    <tag k='description' v='brewers&apos; collective;beverage collective' />
+    <tag k='diet:vegan' v='yes' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Spent Brewers Collective' />
+    <tag k='office' v='company' />
+    <tag k='provides' v='food+drink' />
+    <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-10351' action='modify' visible='true' lat='52.51578239117' lon='13.32629439159'>
+  <node id='-47532' action='modify' visible='true' lat='52.51368060973' lon='13.46059887437'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='10247' />
+    <tag k='addr:street' v='Kreutzigerstraße' />
+    <tag k='contact:email' v='buero@sogeg.de' />
+    <tag k='contact:fax' v='+49 30 293 65 718' />
+    <tag k='contact:phone' v='+49 30 54719690' />
+    <tag k='contact:website' v='http://sogeg.de' />
+    <tag k='craft' v='metal_construction' />
+    <tag k='identity' v='commons;solidarity_economy;subsistence_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='SOG - Selbstverwaltete Ostberliner GenossInnenschaft eG' />
+    <tag k='office' v='yes' />
+    <tag k='provides' v='housing' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-46887' action='modify' visible='true' lat='52.48226214775' lon='13.46552209711'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='12435' />
+    <tag k='addr:street' v='Karpfenteichstraße' />
+    <tag k='contact:email' v='netzwerk@werkstatt-lastenrad.de' />
+    <tag k='contact:website' v='http://werkstatt-lastenrad.de' />
+    <tag k='identity' v='commons;p2p_economy' />
+    <tag k='interaction' v='diy_and_dit' />
+    <tag k='name' v='Wikiprojekt Werkstatt-Lastenrad' />
+    <tag k='opening_hours' v='Mo,We 16:00-22:00' />
+    <tag k='operator' v='Berliner Lastenrad-Netzwerk' />
+    <tag k='service:bicycle:diy' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-45435' action='modify' visible='true' lat='52.4593596289' lon='13.53435136693'>
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='berlin-brandenburg@syndikat.org' />
+    <tag k='contact:website' v='http://syndikat.blogsport.eu/' />
+    <tag k='description' v='advice centre;self help contact point' />
+    <tag k='identity' v='solidarity_economy;subsistence_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Mietshäusersyndikat Berlin-Brandenburg' />
+    <tag k='note' v='Sitz' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='topic' v='housing' />
+  </node>
+  <node id='-44959' action='modify' visible='true' lat='52.41911009731' lon='13.4979200705'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='174' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Köpenicker Straße' />
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:email' v='office@forumkreuzberg.de' />
+    <tag k='contact:phone' v='+49 30 6110890' />
+    <tag k='contact:website' v='http://www.forumkreuzberg.de' />
+    <tag k='description' v='housing cooperative' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Forum Kreuzberg' />
+    <tag k='provides' v='housing' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-43697' action='modify' visible='true' lat='52.49201087253' lon='13.38833497783'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='2a' />
+    <tag k='addr:postcode' v='10961' />
+    <tag k='addr:street' v='Gneisenaustraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='mail@netzwerk-selbsthilfe.de' />
+    <tag k='contact:phone' v='+49 30 6913072' />
+    <tag k='contact:website' v='http://netzwerk-selbsthilfe.de' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='main tag' v='Advice centre;Self help contact point;project funding' />
+    <tag k='name' v='Netzwerk Selbsthilfe e.V.' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-43694' action='modify' visible='true' lat='52.49160246188' lon='13.38759860932'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='10961' />
+    <tag k='addr:street' v='Mehringdamm' />
+    <tag k='charity' v='yes' />
+    <tag k='contact:email' v='buero@buechertisch.org' />
+    <tag k='contact:phone' v='+49 30 61209996' />
+    <tag k='contact:website' v='http://buechertisch.org' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Berliner Büchertisch' />
+    <tag k='shop' v='books' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-42681' action='modify' visible='true' lat='52.47514633125' lon='13.45252968191'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='12055' />
+    <tag k='addr:street' v='Mareschstraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='email@trial-error.org' />
+    <tag k='contact:website' v='http://trial-error.org/' />
+    <tag k='identity' v='p2p_economy;demonetized_economy' />
+    <tag k='interaction' v='bartering;diy_and_dit' />
+    <tag k='main tag' v='DIY, handicraft, open-source, upcycling' />
+    <tag k='name' v='Trial &amp; Error Kulturlabor' />
+    <tag k='operator' v='Kulturlabor Trial&amp;Error e.V.' />
+    <tag k='provides' v='food+drink;culture;spaces;learning_opportunities;participation' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://kulturlabortrialerror.jimdo.com' />
+  </node>
+  <node id='-42479' action='modify' visible='true' lat='52.47821367611' lon='13.4430391238'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:postcode' v='12043' />
+    <tag k='addr:street' v='Donaustraße' />
+    <tag k='amenity' v='theatre' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='kkwm@ida-nowhere.com' />
+    <tag k='contact:phone' v='+49 163 4921813' />
+    <tag k='contact:website' v='http://www.ida-nowhere.com' />
+    <tag k='description' v='offener Raum, als selbstverwaltetes Kollektiv' />
+    <tag k='diet:vegan' v='yes' />
+    <tag k='diet:vegetarian' v='only' />
+    <tag k='fee' v='no' />
+    <tag k='identity' v='demonetized_economy;commons' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Ida Nowhere' />
+    <tag k='opening_hours' v='Sa 18:00+' />
+    <tag k='operator' v='eiliges Kanonenohr e.V.' />
+    <tag k='provides' v='food+drink;culture;spaces' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-41803' action='modify' visible='true' lat='52.48526449571' lon='13.4272548377'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='12043' />
+    <tag k='addr:street' v='Karl-Marx-Straße' />
+    <tag k='contact:email' v='metallbau@drittwerk.de' />
+    <tag k='contact:fax' v='+49 30 6941700' />
+    <tag k='contact:phone' v='+49 30 6927144' />
+    <tag k='contact:website' v='http://drittwerk.de' />
+    <tag k='craft' v='metal_construction' />
+    <tag k='description' v='metallworking collective' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Drittwerk' />
+    <tag k='official_name' v='drittwerk GmbH' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-41263' action='modify' visible='true' lat='52.48745093367' lon='13.42816210664'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='3a' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Friedelstraße' />
+    <tag k='contact:email' v='friedelpraxis@gmx.de' />
+    <tag k='contact:phone' v='+49 30 42027404' />
+    <tag k='contact:website' v='http://shiatsu-tcm-praxis.de' />
+    <tag k='health_facility:type' v='office' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='massage' v='shiatsu' />
+    <tag k='medical_system:chinese' v='yes' />
+    <tag k='name' v='Friedelpraxis' />
+    <tag k='office' v='therapist' />
+    <tag k='provides' v='health' />
+    <tag k='shop' v='massage' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-41133' action='modify' visible='true' lat='52.49123932154' lon='13.42819378547'>
+    <tag k='access' v='public' />
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Pflügerstraße' />
+    <tag k='contact:email' v='druckerei@sdw-neukoelln.de' />
+    <tag k='contact:phone' v='+49 30 51059745' />
+    <tag k='contact:website' v='http://sdw-neukoelln.de' />
+    <tag k='fair_trade' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='identity' v='solidarity_economy;p2p_economy' />
+    <tag k='interaction' v='diy_and_dit;buying_and_selling' />
+    <tag k='name' v='Siebdruckwerkstatt Neukölln' />
+    <tag k='opening_hours' v='Tu 11:00-19:00 We-Fr 10:00-19:00' />
+    <tag k='organic' v='yes' />
+    <tag k='provides' v='culture;spaces;objects_of_utility;learning_opportunities' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-40656' action='modify' visible='true' lat='52.49018462994' lon='13.42548849416'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='25' />
-    <tag k='addr:orig_street' v='Einsteinufer' />
-    <tag k='addr:postcode' v='10587' />
-    <tag k='addr:street' v='Einsteinufer' />
-    <tag k='contact:website' v='http://ula.blogsport.de' />
-    <tag k='identity' v='solidarity_economy;degrowth' />
-    <tag k='name' v='Ula - Die erste Umsonstlädin' />
-    <tag k='payment:none' v='yes' />
-    <tag k='shop' v='yes' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Lenaustraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='info@die-dezentrale.org' />
+    <tag k='contact:facebook' v='https://www.facebook.com/diedezentrale' />
+    <tag k='contact:google_plus' v='https://plus.google.com/115002760022100564436' />
+    <tag k='contact:phone' v='+49 30 6162144' />
+    <tag k='contact:twitter' v='https://twitter.com/fastlinemedia' />
+    <tag k='contact:website' v='http://die-dezentrale.org' />
+    <tag k='description' v='network and sustainable business incubator' />
+    <tag k='identity' v='economy_for_the_common_good;commons' />
+    <tag k='name' v='Die Dezentrale' />
+    <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-10333' action='modify' visible='true' lat='52.54081040812' lon='13.34780448636'>
+  <node id='-40655' action='modify' visible='true' lat='52.49017160459' lon='13.42541106749'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Lenaustraße' />
+    <tag k='contact:email' v='info@chasinho.org' />
+    <tag k='contact:website' v='http://chasinho.org/' />
+    <tag k='fair_trade' v='only' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Chasino' />
+    <tag k='organic' v='only' />
+    <tag k='shop' v='tea' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-40250' action='modify' visible='true' lat='52.49152154084' lon='13.40995963394'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='10967' />
+    <tag k='addr:street' v='Freiligrathstraße' />
+    <tag k='contact:email' v='office@martinakolarek.com' />
+    <tag k='contact:phone' v='+49 30 61655752' />
+    <tag k='contact:website' v='http://die-boden-schafft.de/activities.aspx' />
+    <tag k='description' v='consulting service' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='name' v='Die Boden schafft Berlin' />
+    <tag k='office' v='company' />
+    <tag k='provides' v='learning_opportunities' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-35473' action='modify' visible='true' lat='52.50075706585' lon='13.42065631106'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='contact:email' v='info@quartiermeister.org' />
+    <tag k='contact:phone' v='+49 178 1897899;+49 176 55167588' />
+    <tag k='contact:website' v='http://quartiermeister.org/de/' />
+    <tag k='description' v='sozial verträgliches Bier' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Quartiermeister' />
+    <tag k='office' v='company' />
+    <tag k='regional' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-35472' action='modify' visible='true' lat='52.50078998703' lon='13.42065307911'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='contact:email' v='info@fairbindung.org' />
+    <tag k='contact:phone' v='+49 30 577044752' />
+    <tag k='contact:website' v='http://fairbindung.org' />
+    <tag k='fair_trade' v='only' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Fairbindung' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='Verein FairBindung e.V.' />
+    <tag k='provides' v='learning_opportunities' />
+    <tag k='shop' v='coffee' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-35471' action='modify' visible='true' lat='52.5007703343' lon='13.42061594773'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='contact:email' v='info@ecobasa.org' />
+    <tag k='contact:website' v='http://ecobasa.org' />
+    <tag k='description' v='Postanschrift' />
+    <tag k='identity' v='demonetized_economy;p2p_economy' />
+    <tag k='name' v='Ecobasa' />
+    <tag k='office' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-35356' action='modify' visible='true' lat='52.50100964783' lon='13.4305677782'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Lausitzer Platz' />
+    <tag k='contact:email' v='info@hinkelstein-druck.de' />
+    <tag k='contact:phone' v='+49 30 4224853' />
+    <tag k='contact:website' v='http://hinkelstein-druck.de' />
+    <tag k='craft' v='printing' />
+    <tag k='description' v='printing cooperative' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Hinkelsteindruck' />
+    <tag k='office' v='company' />
+    <tag k='organic' v='only' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-35064' action='modify' visible='true' lat='52.49737898078' lon='13.42857290069'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Lausitzer Straße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='post@umbruch-bildarchiv.de' />
+    <tag k='contact:phone' v='+49 30 6123037' />
+    <tag k='contact:website' v='http://umbruch-bildarchiv.de' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='interaction' v='cousing' />
+    <tag k='main tag' v='media platform;political work;anti-racism' />
+    <tag k='name' v='Umbruch-Bildarchiv' />
+    <tag k='operator' v='Umbruch Bildarchiv e.V.' />
+    <tag k='provides' v='culture;learning_opportunities;participation' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-34301' action='modify' visible='true' lat='52.49525286452' lon='13.43217337414'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Reichenberger Straße' />
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:phone' v='+49 30 6126643' />
+    <tag k='contact:website' v='http://praxiskollektiv.de/' />
+    <tag k='description' v='naturopathic practice' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:decision_making' v='by_vote' />
+    <tag k='mode_of_organisation:hierarchy_chef' v='flat_hierarchy' />
+    <tag k='mode_of_organisation:members' v='closed' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='praxiskollektiv: reiche121' />
+    <tag k='opening_hours' v='Mo 08:00-11:30,14:00-17:30; Tu 08:00-11:30,14:00-15:00; Th 08:00-11:30,14:00-17:30; Fr 08:00-11:30' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='start_date' v='1979' />
+  </node>
+  <node id='-34052' action='modify' visible='true' lat='52.4923586636' lon='13.43663469709'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Glogauer Straße' />
+    <tag k='contact:email' v='email@fairmondo.de' />
+    <tag k='contact:phone' v='+49 30 89615845' />
+    <tag k='contact:website' v='https://fairmondo.de' />
+    <tag k='description' v='consumer cooperative;online platform' />
+    <tag k='identity' v='solidarity_economy;economy_for_the_common_good' />
+    <tag k='name' v='Fairmondo' />
+    <tag k='office' v='company' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-32181' action='modify' visible='true' lat='52.49772204834' lon='13.4427727141'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='20a' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Cuvrystraße' />
+    <tag k='contact:phone' v='+40 30 6126337' />
+    <tag k='description' v='taxi collective' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Kreuzberger Taxi-Genossenschaft' />
+    <tag k='office' v='company' />
+    <tag k='provides' v='mobility' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-32154' action='modify' visible='true' lat='52.4985581154' lon='13.44808881705'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='27b' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Schlesische Straße' />
+    <tag k='contact:email' v='info@cucula.org' />
+    <tag k='contact:phone' v='+49 30 61776730' />
+    <tag k='contact:website' v='http://cucula.org' />
+    <tag k='description' v='woodwork collective with refugees' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='cucula' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='CUCULA e. V.' />
+    <tag k='provides' v='learning_opportunities;community' />
+    <tag k='social_facility:for' v='refugees' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-30585' action='modify' visible='true' lat='52.50928620542' lon='13.45267449212'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='59a' />
+    <tag k='addr:postcode' v='10243' />
+    <tag k='addr:street' v='Warschauer Straße' />
+    <tag k='contact:email' v='info@fahrwerk-berlin.de' />
+    <tag k='contact:phone' v='+49 30 40585100' />
+    <tag k='contact:website' v='http://fahrwerk-berlin.de' />
+    <tag k='description' v='environmentally friendly courier collective' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Fahrwerk' />
+    <tag k='office' v='company' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='start_date' v='2009' />
+  </node>
+  <node id='-26419' action='modify' visible='true' lat='52.50931427586' lon='13.44620389375'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:orig_street' v='Helsingforser Strasse' />
+    <tag k='addr:postcode' v='10243' />
+    <tag k='addr:street' v='Helsingforser Straße' />
+    <tag k='contact:email' v='bella@gleisbeet.de' />
+    <tag k='contact:website' v='http://gleisbeet.de' />
+    <tag k='garden:type' v='community' />
+    <tag k='identity' v='commons;permaculture;subsistence_economy' />
+    <tag k='leisure' v='garden' />
+    <tag k='name' v='GleisBeet' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-25529' action='modify' visible='true' lat='52.50680218573' lon='13.4304244572'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='26-29' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Köpeniker Straße' />
+    <tag k='contact:email' v='info@gekko-berlin.de' />
+    <tag k='contact:phone' v='+49 30 220128050' />
+    <tag k='contact:website' v='http://gekko-berlin.de' />
+    <tag k='fair_trade' v='only' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Gekko Getränkekollektiv' />
+    <tag k='shop' v='beverages' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-23612' action='modify' visible='true' lat='52.50349713814' lon='13.41914961477'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Waldemarstraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='heilehaus@gmx.de' />
+    <tag k='contact:phone' v='+49 30 6154747' />
+    <tag k='contact:website' v='http://heilehaus-berlin.de' />
+    <tag k='identity' v='solidarity_economy;p2p_economy' />
+    <tag k='name' v='Heilehaus' />
+    <tag k='operator' v='Heilehaus e.V.' />
+    <tag k='provides' v='health;learning_opportunities' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-21872' action='modify' visible='true' lat='52.49925505724' lon='13.40054738597'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='10969' />
+    <tag k='addr:street' v='Alexandrinenstraße' />
+    <tag k='contact:email' v='repaircafe@kunst-stoffe-berlin.de' />
+    <tag k='contact:website' v='http://repaircafe.org/de/geschehen/repair-cafe-berlin-kreuzberg/' />
+    <tag k='identity' v='subsistence_economy;degrowth' />
+    <tag k='interaction' v='diy_and_dit' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='name' v='Repair Café Kreuzberg' />
+    <tag k='opening_hours' v='Mo[1] 16:00-20:00' />
+    <tag k='provides' v='objects_of_utility;learning_opportunities' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='https://www.kunst-stoffe-berlin.de/repair-cafe-de' />
+  </node>
+  <node id='-20864' action='modify' visible='true' lat='52.50661295337' lon='13.39166129921'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='10923' />
+    <tag k='addr:street' v='Rudi-Dutschke-Straße' />
+    <tag k='contact:email' v='geno@taz.de' />
+    <tag k='contact:phone' v='+49 30 25902213' />
+    <tag k='contact:website' v='http://www.taz.de/!p4271/' />
+    <tag k='description' v='publishing cooperative' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='TAZ Genossenschaft' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-20781' action='modify' visible='true' lat='52.48700251877' lon='13.35880679335'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='6' />
-    <tag k='addr:postcode' v='13353' />
-    <tag k='addr:street' v='Föhrer Straße' />
-    <tag k='contact:email' v='info@lavidaver.de' />
-    <tag k='contact:website' v='http://lavidaver.de/' />
-    <tag k='description' v='collective housing project' />
-    <tag k='identity' v='solidarity_economy;subsistence_economy' />
-    <tag k='name' v='La vida verde' />
-    <tag k='provides' v='housing' />
+    <tag k='addr:postcode' v='10827' />
+    <tag k='addr:street' v='Crellestraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='info@netz-bb.de' />
+    <tag k='contact:website' v='http://netz-bb.de' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='NETZ für Selbstverwaltung und Kooperation Berlin-Brandenburg' />
+    <tag k='operator' v='NETZ für Selbstverwaltung und Kooperation Berlin-Brandenburg e.V.' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='topic' v='housing;participation;telecommunication' />
   </node>
-  <node id='-2883' action='modify' visible='true' lat='52.55789325179' lon='13.38511924815'>
+  <node id='-20502' action='modify' visible='true' lat='52.48701943364' lon='13.32841087943'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='13189' />
+    <tag k='addr:street' v='Berliner Straße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='info@kunst-stoffe-berlin.de' />
+    <tag k='contact:phone' v='+49 30 34089840' />
+    <tag k='contact:website' v='http://kunst-stoffe-berlin.de' />
+    <tag k='identity' v='economy_for_the_common_good;degrowth' />
+    <tag k='name' v='Kunst-Stoffe Berlin' />
+    <tag k='note' v='Postanschrift' />
+    <tag k='operator' v='Zentralstelle für wiederverwendbare Materialien - e.V.' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='topic' v='culture;objects_of_utility;learning_opportunities;participation' />
+  </node>
+  <node id='-20313' action='modify' visible='true' lat='52.5231469' lon='13.2008561'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='10405' />
+    <tag k='addr:street' v='Wörther Straße' />
+    <tag k='contact:email' v='info@weltladen-zeichenderzeit.de' />
+    <tag k='contact:phone' v='+49 30 65075586' />
+    <tag k='contact:website' v='http://weltladen-zeichenderzeit.de/' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Weltladen Prenzlauer Berg' />
+    <tag k='shop' v='fairtrade' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-14926' action='modify' visible='true' lat='52.39926795595' lon='13.0518973753'>
+    <tag k='addr:city' v='Potsdam' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='14467' />
+    <tag k='addr:street' v='Lindenstraße' />
+    <tag k='amenity' v='fablab' />
+    <tag k='contact:email' v='info@wissenschaftsladen-potsdam.de' />
+    <tag k='contact:phone' v='+49 331 23538069' />
+    <tag k='contact:website' v='http://wissenschaftsladen-potsdam.de' />
+    <tag k='identity' v='commons;p2p_economy' />
+    <tag k='name' v='Wissenschaftsladen Potsdam' />
+    <tag k='operator' v='Wissenschaftsladen Potsdam e.V.' />
+    <tag k='provides' v='culture;spaces;learning_opportunities;participation' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-13913' action='modify' visible='true' lat='52.92015471811' lon='12.26079054647' />
+  <node id='-13911' action='modify' visible='true' lat='52.91999510787' lon='12.26093987852' />
+  <node id='-13909' action='modify' visible='true' lat='52.9198518674' lon='12.2610009689' />
+  <node id='-13907' action='modify' visible='true' lat='52.91964723734' lon='12.2610009689' />
+  <node id='-13905' action='modify' visible='true' lat='52.9194548842' lon='12.26125890608' />
+  <node id='-13903' action='modify' visible='true' lat='52.91907836069' lon='12.26032897467' />
+  <node id='-13901' action='modify' visible='true' lat='52.91945079157' lon='12.25973843428' />
+  <node id='-13899' action='modify' visible='true' lat='52.91834986025' lon='12.25732197015' />
+  <node id='-13897' action='modify' visible='true' lat='52.91986414517' lon='12.25649385604' />
+  <node id='-13895' action='modify' visible='true' lat='52.92042482643' lon='12.25755275605' />
+  <node id='-13893' action='modify' visible='true' lat='52.92042891896' lon='12.25819081118' />
+  <node id='-13892' action='modify' visible='true' lat='52.92063354533' lon='12.25910716696' />
+  <node id='-13746' action='modify' visible='true' lat='53.0706371259' lon='12.0830404758'>
+    <tag k='addr:city' v='Reckenthin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='16928' />
+    <tag k='addr:street' v='Gross Pankower Weg' />
+    <tag k='contact:email' v='corinna@akademie-suffizienz.de' />
+    <tag k='contact:phone' v='+49 176 20362434' />
+    <tag k='contact:website' v='http://akademie-suffizienz.de' />
+    <tag k='identity' v='commons;demonetized_economy;subsistence_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Akademie für Suffizienz' />
+    <tag k='provides' v='housing;spaces;learning_opportunities;community;participation' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-13146' action='modify' visible='true' lat='52.9790682847' lon='13.7593460083'>
+    <tag k='addr:city' v='Joachimsthal' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='16247' />
+    <tag k='addr:street' v='Grimnitzer Straße' />
+    <tag k='contact:email' v='info@kommunitaet-grimnitz.de' />
+    <tag k='contact:phone' v='+49 33361 70626' />
+    <tag k='contact:website' v='http://kommunitaet-grimnitz.de' />
+    <tag k='denomination' v='lutheran' />
+    <tag k='identity' v='commons;solidarity_economy' />
+    <tag k='name' v='Kommunität Grimnitz' />
+    <tag k='operator' v='Kommunität Grimnitz e.V.' />
+    <tag k='provides' v='housing;spirituality' />
+    <tag k='religion' v='christian' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-11732' action='modify' visible='true' lat='53.09315333354' lon='13.50155419188' />
+  <node id='-11730' action='modify' visible='true' lat='53.09286188473' lon='13.50170691784' />
+  <node id='-11728' action='modify' visible='true' lat='53.0925928533' lon='13.50212776272' />
+  <node id='-11726' action='modify' visible='true' lat='53.0921016628' lon='13.50121480085' />
+  <node id='-11724' action='modify' visible='true' lat='53.09185708453' lon='13.50209721753' />
+  <node id='-11722' action='modify' visible='true' lat='53.09175313834' lon='13.50217188355' />
+  <node id='-11720' action='modify' visible='true' lat='53.09166957357' lon='13.50209721753' />
+  <node id='-11718' action='modify' visible='true' lat='53.09146983275' lon='13.50228388259' />
+  <node id='-11716' action='modify' visible='true' lat='53.09087264291' lon='13.50211758099' />
+  <node id='-11714' action='modify' visible='true' lat='53.09079926748' lon='13.5009025611' />
+  <node id='-11634' action='modify' visible='true' lat='53.0903141712' lon='13.4992191816' />
+  <node id='-11628' action='modify' visible='true' lat='53.08986575801' lon='13.49844537006' />
+  <node id='-11626' action='modify' visible='true' lat='53.08927466075' lon='13.49736610658' />
+  <node id='-11624' action='modify' visible='true' lat='53.09111722678' lon='13.49689095914' />
+  <node id='-11594' action='modify' visible='true' lat='53.09145964187' lon='13.49754937774' />
+  <node id='-11592' action='modify' visible='true' lat='53.09116614339' lon='13.49805846428' />
+  <node id='-11590' action='modify' visible='true' lat='53.09156155059' lon='13.49914451557' />
+  <node id='-11588' action='modify' visible='true' lat='53.09187542795' lon='13.49961287519' />
+  <node id='-11587' action='modify' visible='true' lat='53.09334695229' lon='13.50135055726' />
+  <node id='-869' action='modify' visible='true' lat='53.32886139775' lon='13.88945390012' />
+  <node id='-867' action='modify' visible='true' lat='53.32780113676' lon='13.89062857581' />
+  <node id='-865' action='modify' visible='true' lat='53.32765511072' lon='13.89085713262' />
+  <node id='-642' action='modify' visible='true' lat='53.32791818432' lon='13.89152010363' />
+  <node id='-640' action='modify' visible='true' lat='53.32671504518' lon='13.89355585381' />
+  <node id='-638' action='modify' visible='true' lat='53.32581663684' lon='13.8930349569' />
+  <node id='-636' action='modify' visible='true' lat='53.32635631903' lon='13.89026038355' />
+  <node id='-634' action='modify' visible='true' lat='53.32690869256' lon='13.88728382978' />
+  <node id='-632' action='modify' visible='true' lat='53.32739698554' lon='13.8875290879' />
+  <node id='-631' action='modify' visible='true' lat='53.32778427322' lon='13.88703476736' />
+  <node id='-630' action='modify' visible='true' lat='53.3272079151' lon='13.88839244843'>
+    <tag k='addr:city' v='Prenzlau' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:postcode' v='17291' />
+    <tag k='addr:street' v='Brüssower Allee' />
+    <tag k='contact:email' v='info@hanffaser.de' />
+    <tag k='contact:phone' v='+49 3984 807 730' />
+    <tag k='contact:website' v='http://hanffaser.de/uckermark' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:hierarchy_chef' v='flat_hierarchy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Hanffaser Uckermark eG' />
+    <tag k='office' v='company' />
+    <tag k='organic' v='only' />
+    <tag k='regional' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-56' action='modify' visible='true' lat='52.55789325179' lon='13.38511924815'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='58D' />
@@ -67,7 +905,969 @@
     <tag k='name' v='handgewebt in Berlin' />
     <tag k='provides' v='objects_of_utility' />
     <tag k='shop' v='fabric' />
+    <tag k='source' v='Solikon 2015' />
   </node>
+  <node id='-54' action='modify' visible='true' lat='52.54081040812' lon='13.34780448636'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='13353' />
+    <tag k='addr:street' v='Föhrer Straße' />
+    <tag k='contact:email' v='info@lavidaver.de' />
+    <tag k='contact:website' v='http://lavidaver.de/' />
+    <tag k='description' v='collective housing project' />
+    <tag k='identity' v='solidarity_economy;subsistence_economy' />
+    <tag k='name' v='La vida verde' />
+    <tag k='provides' v='housing' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-52' action='modify' visible='true' lat='52.51578239117' lon='13.32629439159'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:orig_street' v='Einsteinufer' />
+    <tag k='addr:postcode' v='10587' />
+    <tag k='addr:street' v='Einsteinufer' />
+    <tag k='contact:website' v='http://ula.blogsport.de' />
+    <tag k='identity' v='solidarity_economy;degrowth' />
+    <tag k='name' v='Ula - Die erste Umsonstlädin' />
+    <tag k='payment:none' v='yes' />
+    <tag k='shop' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-50' action='modify' visible='true' lat='52.4974278128' lon='13.36596183295'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:orig_street' v='Bülowstrasse' />
+    <tag k='addr:postcode' v='10783' />
+    <tag k='addr:street' v='Bülowstraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='garten@allmende-kontor.de;severinhalder@googlemail.com;gerda-muennich-im-allmende-kontor@gmx.de' />
+    <tag k='contact:website' v='http://allmende-kontor.de' />
+    <tag k='identity' v='commons' />
+    <tag k='name' v='Allmende-Kontor' />
+    <tag k='note' v='Vereinssitz Allmende-Kontor' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='164642935' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='6' changeset='1878356' lat='52.4996122' lon='13.4168615' />
+  <node id='164642936' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='4' changeset='1878356' lat='52.5000184' lon='13.417144' />
+  <node id='164642937' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='4' changeset='1878356' lat='52.5002499' lon='13.4181617' />
+  <node id='164642942' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='4' changeset='1878356' lat='52.5001319' lon='13.4182516' />
+  <node id='164642945' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='4' changeset='1878356' lat='52.4995536' lon='13.4170905' />
+  <node id='350460866' action='modify' timestamp='2013-01-17T07:31:09Z' uid='66391' user='geozeisig' visible='true' version='8' changeset='14680481' lat='52.5015918' lon='13.4146103'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='10969' />
+    <tag k='addr:street' v='Segitzdamm' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='cinema' />
+    <tag k='brand' v='independent' />
+    <tag k='contact:email' v='post@fsk-kino.de' />
+    <tag k='contact:phone' v='+49 30 6142464' />
+    <tag k='contact:website' v='http://fsk-kino.de' />
+    <tag k='description' v='fsk-Kino und Peripher Filmverleih' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='fsk' />
+    <tag k='shop' v='video' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://home.snafu.de/fsk-kino/fsk/fsk.htm' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='439506670' action='modify' timestamp='2013-07-13T16:56:54Z' uid='290680' user='wheelmap_visitor' visible='true' version='12' changeset='16939096' lat='52.5006163' lon='13.4231403'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:email' v='krautis@kraut-und-rüben-berlin.de' />
+    <tag k='contact:phone' v='+49 30 6141075' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='mode_of_organisation:hierarchy_chef' v='flat_hierarchy' />
+    <tag k='name' v='Kraut &amp; Rüben' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-19:00 Sa 09:00-16:00' />
+    <tag k='operator' v='Kraut &amp; Rüben Lebensmittelvertriebs GmbH' />
+    <tag k='organic' v='only' />
+    <tag k='phone' v='+49306141075' />
+    <tag k='production_input:work:payment' v='equal' />
+    <tag k='regional' v='yes' />
+    <tag k='shop' v='supermarket' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='start_date' v='1978' />
+    <tag k='website' v='http://www.kraut-und-rueben-berlin.de/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='442649193' timestamp='2009-10-11T15:03:29Z' uid='184423' user='koxuy' visible='true' version='3' changeset='2814765' lat='52.5003763' lon='13.4223432' />
+  <node id='442649194' timestamp='2009-10-11T15:03:29Z' uid='184423' user='koxuy' visible='true' version='3' changeset='2814765' lat='52.5002544' lon='13.4222544' />
+  <node id='442649195' timestamp='2009-07-19T21:12:20Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5004313' lon='13.4221395' />
+  <node id='442649196' timestamp='2009-07-19T21:12:20Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5003093' lon='13.4220507' />
+  <node id='442649197' timestamp='2009-07-19T21:12:16Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5004876' lon='13.4219306' />
+  <node id='442649199' timestamp='2009-07-19T21:12:15Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5005438' lon='13.4217225' />
+  <node id='442649201' timestamp='2009-07-19T21:12:16Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5006071' lon='13.4214877' />
+  <node id='442649203' timestamp='2009-07-19T21:12:16Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5006662' lon='13.4212689' />
+  <node id='442649205' timestamp='2009-07-19T21:12:16Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5007481' lon='13.4209651' />
+  <node id='442649207' timestamp='2009-07-19T21:12:16Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5008008' lon='13.42077' />
+  <node id='442649209' timestamp='2009-07-19T21:12:16Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5008558' lon='13.4205662' />
+  <node id='442649210' timestamp='2012-01-10T21:17:19Z' uid='74224' user='gkai' visible='true' version='3' changeset='10355556' lat='52.5009588' lon='13.4201767' />
+  <node id='442649213' timestamp='2012-01-10T21:17:19Z' uid='74224' user='gkai' visible='true' version='3' changeset='10355556' lat='52.5010094' lon='13.4199971' />
+  <node id='442649216' timestamp='2012-01-10T21:17:19Z' uid='74224' user='gkai' visible='true' version='3' changeset='10355556' lat='52.5010643' lon='13.4198082' />
+  <node id='442649219' timestamp='2012-01-10T21:17:19Z' uid='74224' user='gkai' visible='true' version='3' changeset='10355556' lat='52.5011097' lon='13.4196307' />
+  <node id='442649221' timestamp='2009-07-19T21:12:10Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5011826' lon='13.419355' />
+  <node id='442649223' timestamp='2009-07-19T21:12:10Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5010429' lon='13.4192516' />
+  <node id='442649400' timestamp='2009-10-11T15:03:29Z' uid='184423' user='koxuy' visible='true' version='3' changeset='2814765' lat='52.5003338' lon='13.4224979' />
+  <node id='442649402' timestamp='2009-10-11T15:03:30Z' uid='184423' user='koxuy' visible='true' version='3' changeset='2814765' lat='52.5002275' lon='13.4225485' />
+  <node id='442649407' timestamp='2009-07-19T21:12:21Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5001342' lon='13.4226029' />
+  <node id='442649411' timestamp='2009-07-19T21:12:21Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5000278' lon='13.4226659' />
+  <node id='442649417' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5009326' lon='13.4191729' />
+  <node id='442649421' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5008399' lon='13.4191054' />
+  <node id='442649424' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5006897' lon='13.418996' />
+  <node id='442649485' timestamp='2009-07-19T21:12:11Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5004353' lon='13.4187889' />
+  <node id='442649487' timestamp='2009-07-19T21:12:11Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5005804' lon='13.4188915' />
+  <node id='442649490' timestamp='2009-07-19T21:12:10Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5002938' lon='13.4186889' />
+  <node id='442649544' timestamp='2013-01-17T07:31:24Z' uid='66391' user='geozeisig' visible='true' version='4' changeset='14680481' lat='52.499943' lon='13.4227159'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='194' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:phone' v='+49 30 94884736' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='wildfremd' />
+    <tag k='shop' v='boutique' />
+    <tag k='website' v='http://www.wildfremd-berlin.de' />
+  </node>
+  <node id='442649546' timestamp='2010-11-17T21:30:48Z' uid='363904' user='maltejohannson' visible='true' version='3' changeset='6396367' lat='52.4997373' lon='13.4225697' />
+  <node id='442649761' timestamp='2010-11-17T21:30:37Z' uid='363904' user='maltejohannson' visible='true' version='3' changeset='6396367' lat='52.4995007' lon='13.4224052' />
+  <node id='442649808' timestamp='2009-07-19T21:12:21Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5002925' lon='13.4221132' />
+  <node id='442649809' timestamp='2009-07-19T21:12:19Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5001775' lon='13.4219547' />
+  <node id='442649810' timestamp='2009-07-19T21:12:19Z' uid='67540' user='Cobra' visible='true' version='2' changeset='1878356' lat='52.5001607' lon='13.4220172' />
+  <node id='442649830' timestamp='2010-06-18T15:11:57Z' uid='102755' user='wicking' visible='true' version='3' changeset='5017034' lat='52.4997391' lon='13.4183361' />
+  <node id='442649831' timestamp='2010-06-18T15:11:58Z' uid='102755' user='wicking' visible='true' version='3' changeset='5017034' lat='52.4999637' lon='13.4184981' />
+  <node id='442649834' timestamp='2012-06-20T10:34:47Z' uid='120249' user='robson06' visible='true' version='4' changeset='11957066' lat='52.4994862' lon='13.4184278' />
+  <node id='442649835' timestamp='2010-06-18T15:11:56Z' uid='102755' user='wicking' visible='true' version='3' changeset='5017034' lat='52.4995734' lon='13.4182487' />
+  <node id='442649836' timestamp='2010-06-18T15:12:00Z' uid='102755' user='wicking' visible='true' version='3' changeset='5017034' lat='52.4996004' lon='13.4182403' />
+  <node id='442649838' timestamp='2012-06-20T10:34:47Z' uid='120249' user='robson06' visible='true' version='4' changeset='11957066' lat='52.4993934' lon='13.4186233' />
+  <node id='442649875' timestamp='2010-06-18T15:11:56Z' uid='102755' user='wicking' visible='true' version='3' changeset='5017034' lat='52.499267' lon='13.4199842' />
+  <node id='442649885' timestamp='2010-06-18T15:11:59Z' uid='102755' user='wicking' visible='true' version='3' changeset='5017034' lat='52.4992544' lon='13.4188827' />
+  <node id='442649888' timestamp='2010-06-18T15:11:53Z' uid='102755' user='wicking' visible='true' version='3' changeset='5017034' lat='52.4992749' lon='13.420404' />
+  <node id='443952884' timestamp='2014-04-09T14:48:39Z' uid='74224' user='gkai' visible='true' version='3' changeset='21590485' lat='52.4994946' lon='13.4172353' />
+  <node id='443952889' timestamp='2014-04-09T14:49:56Z' uid='74224' user='gkai' visible='true' version='3' changeset='21590485' lat='52.499508' lon='13.4174323' />
+  <node id='443952891' timestamp='2015-04-13T15:56:16Z' uid='278581' user='traces' visible='true' version='3' changeset='30191308' lat='52.4994857' lon='13.4175864' />
+  <node id='443952893' timestamp='2009-07-19T21:11:59Z' uid='67540' user='Cobra' visible='true' version='1' changeset='1878356' lat='52.4995675' lon='13.4176168' />
+  <node id='443952896' timestamp='2009-07-19T21:11:59Z' uid='67540' user='Cobra' visible='true' version='1' changeset='1878356' lat='52.4996172' lon='13.4176331' />
+  <node id='443952900' timestamp='2009-07-19T21:11:59Z' uid='67540' user='Cobra' visible='true' version='1' changeset='1878356' lat='52.4996594' lon='13.4176576' />
+  <node id='443952902' timestamp='2009-07-19T21:11:59Z' uid='67540' user='Cobra' visible='true' version='1' changeset='1878356' lat='52.4996967' lon='13.4177025' />
+  <node id='443952905' timestamp='2009-07-19T21:11:59Z' uid='67540' user='Cobra' visible='true' version='1' changeset='1878356' lat='52.4997265' lon='13.4177801' />
+  <node id='443952907' timestamp='2009-07-19T21:11:59Z' uid='67540' user='Cobra' visible='true' version='1' changeset='1878356' lat='52.4997389' lon='13.4178617' />
+  <node id='443952913' timestamp='2012-06-20T10:34:49Z' uid='120249' user='robson06' visible='true' version='2' changeset='11957066' lat='52.4997448' lon='13.4179851' />
+  <node id='443952915' timestamp='2014-04-09T14:48:39Z' uid='74224' user='gkai' visible='true' version='3' changeset='21590485' lat='52.4998164' lon='13.4179977' />
+  <node id='443952917' timestamp='2014-04-09T14:48:39Z' uid='74224' user='gkai' visible='true' version='2' changeset='21590485' lat='52.4998543' lon='13.4180569' />
+  <node id='443952919' timestamp='2014-04-09T14:48:39Z' uid='74224' user='gkai' visible='true' version='4' changeset='21590485' lat='52.4999742' lon='13.4181034' />
+  <node id='444726201' timestamp='2011-11-30T11:19:31Z' uid='45180' user='g0ldfish' visible='true' version='3' changeset='9997922' lat='52.5026962' lon='13.4111246' />
+  <node id='444726203' timestamp='2011-11-30T11:19:31Z' uid='45180' user='g0ldfish' visible='true' version='4' changeset='9997922' lat='52.502916' lon='13.4115606' />
+  <node id='528865423' timestamp='2013-08-11T06:17:26Z' uid='39457' user='Markus59' visible='true' version='10' changeset='17299175' lat='52.5004003' lon='13.4222542'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+  </node>
+  <node id='652744710' action='modify' timestamp='2015-02-16T02:28:53Z' uid='290680' user='wheelmap_visitor' visible='true' version='6' changeset='28876513' lat='52.4919487' lon='13.3889569'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='2a' />
+    <tag k='addr:postcode' v='10961' />
+    <tag k='addr:street' v='Gneisenaustraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:email' v='mehringhof@schwarzerisse.de' />
+    <tag k='contact:website' v='http://schwarzerisse.de' />
+    <tag k='identity' v='solidarity_economy;degrowth' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Schwarze Risse' />
+    <tag k='phone' v='+49 30 6928779' />
+    <tag k='shop' v='books' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.schwarzerisse.de' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='660899083' timestamp='2012-03-23T10:46:16Z' uid='102755' user='wicking' visible='true' version='5' changeset='11072438' lat='52.5049136' lon='13.4235567' />
+  <node id='660899087' timestamp='2012-03-26T19:20:01Z' uid='102755' user='wicking' visible='true' version='5' changeset='11109562' lat='52.5049476' lon='13.4240201' />
+  <node id='664963062' action='modify' timestamp='2013-01-17T07:29:34Z' uid='66391' user='geozeisig' visible='true' version='7' changeset='14680481' lat='52.4958086' lon='13.4287965'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Reichenberger Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='pub' />
+    <tag k='contact:email' v='meuterei@riseup.net' />
+    <tag k='contact:website' v='http://meute.blogsport.de/' />
+    <tag k='description' v='bar collective;political work;events' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Meuterei' />
+    <tag k='nightclub' v='yes' />
+    <tag k='provides' v='spaces' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='665072785' action='modify' timestamp='2015-01-22T12:54:39Z' uid='321042' user='species' visible='true' version='18' changeset='28326997' lat='52.4936415' lon='13.4397016'>
+    <tag k='access' v='public' />
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Ratiborstraße' />
+    <tag k='alt_name' v='Weltraum - Nachbarschaftsladen' />
+    <tag k='amenity' v='community_centre' />
+    <tag k='contact:email' v='andreas@kiezwandler.de;kiezwandler@transition-berlin-brandenburg.de' />
+    <tag k='contact:name' v='Andreas Teuchert' />
+    <tag k='contact:phone' v='+49 30 61652466' />
+    <tag k='description' v='offener Raum für die Nachbarschaft - durch Spenden und selbstgewählte Beiträge finanziert - für Treffen, Workshops, Angebote etc. im Sinne einer nachhaltigen, solidarischen Alltagskultur' />
+    <tag k='fee' v='no' />
+    <tag k='identity' v='solidarity_economy;transition_initiative;demonetized_economy;commons;p2p_economy' />
+    <tag k='indoor' v='yes' />
+    <tag k='interaction' v='bartering;lending;gifting;cousing;diy_and_dit' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='mode_of_organisation:decision_making' v='wer Verantwortung übernimmt, entscheidet, regelmäßige Unterstützer*innen haben Veto' />
+    <tag k='mode_of_organisation:hierarchy_chef' v='wer Verantwortung übernimmt, entscheidet, regelmäßige Unterstützer*innen haben Veto' />
+    <tag k='mode_of_organisation:members' v='users' />
+    <tag k='mode_of_organisation:ownership_structure' v='Miete; wer Verantwortung übernimmt, entscheidet' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='mode_of_organisation:scale_of_activity' v='regional' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='WELTRAUM Kiezladen für nachhaltige Alltagskultur' />
+    <tag k='operator' v='Kiezwandler in Kreuzberg (Transition Town Ini.)' />
+    <tag k='owner' v='Kiezwandler in Kreuzberg' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:donations' v='yes' />
+    <tag k='production_input:knowledge:free_licence' v='yes' />
+    <tag k='production_input:knowledge:p2p_licence' v='yes' />
+    <tag k='production_input:knowledge:public_domain' v='yes' />
+    <tag k='production_input:money:crowdfunding' v='yes' />
+    <tag k='production_input:money:gift' v='yes' />
+    <tag k='production_input:natural_recources:democratic' v='yes' />
+    <tag k='production_input:natural_recources:fair' v='yes' />
+    <tag k='production_input:natural_recources:regional' v='partially' />
+    <tag k='production_input:natural_resources:sustainable' v='yes' />
+    <tag k='production_input:supply_chain:fair' v='partially' />
+    <tag k='production_input:work:ilo_standards' v='no' />
+    <tag k='provides' v='culture;safety;spaces;objects_of_utility;learning_opportunities;community;participation' />
+    <tag k='smoking' v='no' />
+    <tag k='smoking:outside' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='start_date' v='2009' />
+    <tag k='website' v='http://www.kiezweltraum.de' />
+    <tag k='wheelchair' v='limited' />
+    <tag k='wheelchair:description' v='Straßenniveau, aber 1 Stufe' />
+  </node>
+  <node id='667748341' timestamp='2012-03-26T19:20:01Z' uid='102755' user='wicking' visible='true' version='6' changeset='11109562' lat='52.5046247' lon='13.4236061' />
+  <node id='667748344' timestamp='2012-03-26T19:20:01Z' uid='102755' user='wicking' visible='true' version='6' changeset='11109562' lat='52.5048146' lon='13.4237351' />
+  <node id='766636183' timestamp='2011-05-16T10:42:53Z' uid='16478' user='Raymond' visible='true' version='2' changeset='8161132' lat='52.5031438' lon='13.4120121' />
+  <node id='766636185' timestamp='2011-11-30T11:19:31Z' uid='45180' user='g0ldfish' visible='true' version='3' changeset='9997922' lat='52.5033959' lon='13.4112768' />
+  <node id='766636187' timestamp='2011-11-30T11:19:31Z' uid='45180' user='g0ldfish' visible='true' version='3' changeset='9997922' lat='52.5032381' lon='13.4105934' />
+  <node id='766636190' timestamp='2011-11-30T11:19:31Z' uid='45180' user='g0ldfish' visible='true' version='3' changeset='9997922' lat='52.5028414' lon='13.410287' />
+  <node id='766636191' timestamp='2011-11-30T11:19:31Z' uid='45180' user='g0ldfish' visible='true' version='3' changeset='9997922' lat='52.5026467' lon='13.4110266' />
+  <node id='775717210' timestamp='2013-08-11T05:44:26Z' uid='39457' user='Markus59' visible='true' version='5' changeset='17299026' lat='52.4992648' lon='13.4197935'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+  </node>
+  <node id='775717223' timestamp='2013-08-11T05:44:26Z' uid='39457' user='Markus59' visible='true' version='4' changeset='17299026' lat='52.4992619' lon='13.419542'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+  </node>
+  <node id='775717235' timestamp='2013-08-11T05:44:26Z' uid='39457' user='Markus59' visible='true' version='4' changeset='17299026' lat='52.4992573' lon='13.4191408'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='135' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+  </node>
+  <node id='775717244' timestamp='2010-06-18T15:11:51Z' uid='102755' user='wicking' visible='true' version='1' changeset='5017034' lat='52.5002152' lon='13.4183016' />
+  <node id='799000149' timestamp='2012-07-15T21:43:09Z' uid='417971' user='ho-berlin' visible='true' version='3' changeset='12236513' lat='52.5001697' lon='13.4184865' />
+  <node id='799000194' timestamp='2010-07-13T16:53:00Z' uid='102755' user='wicking' visible='true' version='2' changeset='5209790' lat='52.5000877' lon='13.4184253' />
+  <node id='815343317' timestamp='2015-04-13T15:56:17Z' uid='278581' user='traces' visible='true' version='3' changeset='30191308' lat='52.4992611' lon='13.4194005' />
+  <node id='848508705' timestamp='2013-08-11T05:45:48Z' uid='39457' user='Markus59' visible='true' version='12' changeset='17299030' lat='52.4992598' lon='13.4193597'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='fast_food' />
+    <tag k='cuisine' v='turkish' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='Misir Carsisi' />
+    <tag k='website' v='http://www.misircarsisi.de' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='848509143' timestamp='2015-02-04T13:59:08Z' uid='66391' user='geozeisig' visible='true' version='14' changeset='28611215' lat='52.4992632' lon='13.419655'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='pharmacy' />
+    <tag k='dispensing' v='yes' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='Berg-Apotheke' />
+    <tag k='phone' v='030 61609999' />
+    <tag k='website' v='http://www.bergapotheke-berlin.de' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='wheelchair:description' v='Unsere Öffnungszeiten: Mo., Di., Do. 08:30 - 19:30 Uhr, Mi., Fr. 08:30 - 19:00 Uhr, Sa. 10:00 - 18:00 Uhr' />
+  </node>
+  <node id='848511372' timestamp='2013-08-11T05:45:48Z' uid='39457' user='Markus59' visible='true' version='4' changeset='17299030' lat='52.4992682' lon='13.420048'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='car_wash' />
+    <tag k='name' v='Car Wash 36' />
+  </node>
+  <node id='848511373' timestamp='2013-08-11T05:45:48Z' uid='39457' user='Markus59' visible='true' version='8' changeset='17299030' lat='52.4992736' lon='13.4203336'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:email' v='info@mevlana-reisen.de' />
+    <tag k='contact:fax' v='+49 30 615 62 13' />
+    <tag k='contact:mobile' v='+49 178 603 49 65' />
+    <tag k='contact:phone' v='+49 30 615 21 81' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='Mevlana' />
+    <tag k='owner' v='kamil caliskan' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.mevlana-reisen.de' />
+  </node>
+  <node id='848511374' timestamp='2013-08-11T05:45:49Z' uid='39457' user='Markus59' visible='true' version='5' changeset='17299030' lat='52.4992745' lon='13.4203839'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='name:de' v='Mevlana Moschee' />
+    <tag k='name:tr' v='Mevlana Camii' />
+    <tag k='organisation' v='Islamische Föderation Berlin' />
+    <tag k='religion' v='muslim' />
+  </node>
+  <node id='848845020' timestamp='2013-08-11T06:17:27Z' uid='39457' user='Markus59' visible='true' version='13' changeset='17299175' lat='52.5005667' lon='13.4216377'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='187' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:phone' v='+49 30 6156570' />
+    <tag k='gay' v='yes' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='Roses Bar' />
+    <tag k='phone' v='030 6156570' />
+    <tag k='smoking' v='no' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='848845021' timestamp='2015-03-19T21:50:18Z' uid='26299' user='uboot' visible='true' version='14' changeset='29602250' lat='52.5006239' lon='13.4214256'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='186' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:email' v='info@aurora-kaffee.de' />
+    <tag k='contact:phone' v='+49 30 80615447' />
+    <tag k='name' v='Aurora Cafe Bar' />
+    <tag k='opening_hours' v='Mo-Sa 10:00+; Su 11:00+' />
+    <tag k='operator' v='Hülya Yavas' />
+    <tag k='website' v='http://www.aurora-kaffee.de/' />
+    <tag k='wheelchair' v='no' />
+    <tag k='yelp' v='http://www.yelp.de/biz/caf%C3%A9-aurora-berlin-2' />
+  </node>
+  <node id='848845025' timestamp='2013-08-11T06:17:26Z' uid='39457' user='Markus59' visible='true' version='6' changeset='17299175' lat='52.5004663' lon='13.4220097'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='189' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+  </node>
+  <node id='848845026' timestamp='2013-08-11T06:17:27Z' uid='39457' user='Markus59' visible='true' version='8' changeset='17299175' lat='52.500517' lon='13.4218217'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='188' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:email' v='centralmusic@onlinehome.de' />
+    <tag k='contact:fax' v='+49 30 6158489' />
+    <tag k='contact:phone' v='+49 615 41 51' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='central music' />
+    <tag k='shop' v='music' />
+  </node>
+  <node id='860259080' timestamp='2010-08-14T15:41:27Z' uid='43566' user='anbr' visible='true' version='1' changeset='5491784' lat='52.4997214' lon='13.4177669' />
+  <node id='860259086' timestamp='2015-04-13T15:56:15Z' uid='278581' user='traces' visible='true' version='2' changeset='30191308' lat='52.5001285' lon='13.4176362' />
+  <node id='865960313' action='modify' timestamp='2013-09-03T11:48:39Z' uid='74224' user='gkai' visible='true' version='7' changeset='17652359' lat='52.500728' lon='13.4217485'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:email' v='kontakt@oh21.de' />
+    <tag k='contact:phone' v='+49 30 615 2226' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='oh 21' />
+    <tag k='phone' v='+493092106311' />
+    <tag k='shop' v='books' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.oh21.de' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='866007372' timestamp='2013-12-03T19:50:50Z' uid='290680' user='wheelmap_visitor' visible='true' version='8' changeset='19256208' lat='52.49974' lon='13.4178787'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Adalbertstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:phone' v='+49 1520 62 14 304' />
+    <tag k='cuisine' v='vietnamese' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='Huy Hoang' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='867855178' timestamp='2013-08-11T06:20:49Z' uid='39457' user='Markus59' visible='true' version='3' changeset='17299181' lat='52.5006489' lon='13.4213329'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:fax' v='+49 30 616 17 41' />
+    <tag k='contact:phone' v='+49 30 614 4088' />
+    <tag k='name' v='sport 88' />
+    <tag k='shop' v='sports' />
+  </node>
+  <node id='871633767' action='modify' timestamp='2014-11-16T17:21:50Z' uid='232761' user='silek' visible='true' version='5' changeset='26826701' lat='52.5028285' lon='13.414068'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:email' v='info@tantehorst.de' />
+    <tag k='contact:phone' v='+49 30 39509022' />
+    <tag k='contact:website' v='http://tantehorst.de' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='min_age' v='18' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Tante Horst' />
+    <tag k='opening_hours' v='Mo-Su 18:00+' />
+    <tag k='provides' v='culture;spaces' />
+    <tag k='smoking' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='871636127' timestamp='2013-08-11T06:17:26Z' uid='39457' user='Markus59' visible='true' version='7' changeset='17299175' lat='52.5004983' lon='13.4218911'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='188' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='arts_centre' />
+    <tag k='name' v='Knoth &amp; Krüger' />
+    <tag k='phone' v='+493061107584' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='871640237' timestamp='2013-08-11T06:20:48Z' uid='39457' user='Markus59' visible='true' version='3' changeset='17299181' lat='52.5005894' lon='13.4215534'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='name' v='Eichhörnchen' />
+    <tag k='shop' v='yes' />
+  </node>
+  <node id='872241936' timestamp='2013-08-11T05:45:48Z' uid='39457' user='Markus59' visible='true' version='7' changeset='17299030' lat='52.4992688' lon='13.4200824'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='car' v='tires' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='Reifen Karkin' />
+    <tag k='shop' v='car' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='966144996' timestamp='2010-10-26T18:08:54Z' uid='49111' user='Markus B' visible='true' version='1' changeset='6185027' lat='52.157116' lon='12.5932786' />
+  <node id='966145003' timestamp='2015-04-02T14:53:06Z' uid='1620749' user='C-in-Berlin' visible='true' version='2' changeset='29930677' lat='52.1571952' lon='12.5955515' />
+  <node id='966145019' timestamp='2010-10-26T18:08:55Z' uid='49111' user='Markus B' visible='true' version='1' changeset='6185027' lat='52.1581921' lon='12.5901073' />
+  <node id='966145026' timestamp='2010-10-26T18:08:55Z' uid='49111' user='Markus B' visible='true' version='1' changeset='6185027' lat='52.1581584' lon='12.5921435' />
+  <node id='966145033' timestamp='2010-10-26T18:08:56Z' uid='49111' user='Markus B' visible='true' version='1' changeset='6185027' lat='52.1554857' lon='12.5864064' />
+  <node id='966145081' timestamp='2010-10-26T18:08:58Z' uid='49111' user='Markus B' visible='true' version='1' changeset='6185027' lat='52.1571742' lon='12.5865633' />
+  <node id='966145098' timestamp='2010-10-26T18:08:59Z' uid='49111' user='Markus B' visible='true' version='1' changeset='6185027' lat='52.1553498' lon='12.5955486' />
+  <node id='977686791' action='modify' timestamp='2014-09-01T23:14:35Z' uid='1260280' user='jacobbraeutigam' visible='true' version='8' changeset='25170126' lat='52.4919181' lon='13.3882686'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='2a' />
+    <tag k='addr:postcode' v='10961' />
+    <tag k='addr:street' v='Gneisenaustraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:email' v='mehringhof@ipn.de' />
+    <tag k='contact:phone' v='+49 30 6918021' />
+    <tag k='identity' v='commons;solidarity_economy' />
+    <tag k='name' v='Mehringhof Theater' />
+    <tag k='phone' v='+49306915099' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.mehringhoftheater.de/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='986339170' action='modify' timestamp='2015-07-04T09:17:30Z' uid='88164' user='Med' visible='true' version='13' changeset='32405120' lat='52.5004159' lon='13.4221967'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housename' v='SO36' />
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:email' v='post@so36.de' />
+    <tag k='contact:facebook' v='http://www.facebook.com/pages/_/171604075171' />
+    <tag k='contact:phone' v='+49 30 61401306' />
+    <tag k='contact:website' v='http://so36.de' />
+    <tag k='description' v='concert collective;concert venue;events' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='link:google_plus' v='https://plus.google.com/u/0/113966892973134215750' />
+    <tag k='link:qype' v='http://www.qype.com/place/3091' />
+    <tag k='link:unlike' v='http://unlike.net/berlin/after-dark/so36' />
+    <tag k='link:yelp' v='http://www.yelp.com/biz/so36-berlin' />
+    <tag k='name' v='SO36' />
+    <tag k='provides' v='culture;spaces' />
+    <tag k='smoking' v='isolated' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='wheelchair:description' v='Rampe am Eingang wird auf Nachfrage hingelegt; Drinnen: Rollstuh auf ein Podest heben zum Konzert schauen' />
+    <tag k='wikipedia' v='de:SO36' />
+  </node>
+  <node id='1039812709' timestamp='2010-12-15T20:29:21Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0679019' lon='12.0844925' />
+  <node id='1039812747' timestamp='2010-12-15T20:29:22Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0680874' lon='12.0839' />
+  <node id='1039813090' timestamp='2010-12-15T20:29:32Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0733168' lon='12.0815551' />
+  <node id='1039813342' timestamp='2013-06-25T07:12:39Z' uid='17889' user='rrissiek' visible='true' version='2' changeset='16694922' lat='53.0694551' lon='12.08326' />
+  <node id='1039813542' timestamp='2010-12-15T20:29:43Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0682278' lon='12.0834911' />
+  <node id='1039814193' timestamp='2010-12-15T20:29:57Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0705142' lon='12.0828569' />
+  <node id='1039814405' timestamp='2010-12-15T20:30:03Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0684635' lon='12.0832574' />
+  <node id='1039814644' timestamp='2010-12-15T20:30:08Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0676361' lon='12.08511' />
+  <node id='1039814973' timestamp='2010-12-15T20:30:19Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0711509' lon='12.0827901' />
+  <node id='1039815231' timestamp='2010-12-15T20:30:25Z' uid='6669' user='Elwood' visible='true' version='1' changeset='6670663' lat='53.0687593' lon='12.083199' />
+  <node id='1108168284' timestamp='2014-04-05T15:14:59Z' uid='50624' user='David Crochet' visible='true' version='9' changeset='21515647' lat='52.4992613' lon='13.4194855'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='pub' />
+    <tag k='contact:email' v='pipiprinz@kottimonarch.de' />
+    <tag k='contact:facebook' v='http://www.facebook.com/KottiMonarch' />
+    <tag k='contact:website' v='http://www.kottimonarch.de/' />
+    <tag k='culture' v='kleinkunst' />
+    <tag k='link:qype' v='http://www.qype.com/place/180882' />
+    <tag k='link:yelp' v='http://www.yelp.de/biz/monarch-berlin' />
+    <tag k='name' v='Monarch' />
+    <tag k='smoking' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1198768532' action='modify' timestamp='2014-09-12T07:45:07Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='25383264' lat='52.4990889' lon='13.4117423'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='10969' />
+    <tag k='addr:street' v='Wassertorstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:email' v='die.backstube@web.de' />
+    <tag k='contact:fax' v='+49 30 616 75 158' />
+    <tag k='contact:phone' v='+49 30 6143080' />
+    <tag k='contact:website' v='http://die-backstube.de' />
+    <tag k='description' v='bakery collective' />
+    <tag k='diet:wheat_free' v='yes' />
+    <tag k='diet:wholemeal' v='only' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Die Backstube' />
+    <tag k='official_name' v='Die Backstube Vollkornbäckerei GmbH' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-18:00; Sa 09:00-13:00' />
+    <tag k='organic' v='only' />
+    <tag k='shop' v='bakery' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='start_date' v='1981' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1216694752' timestamp='2014-04-09T14:41:37Z' uid='74224' user='gkai' visible='true' version='6' changeset='21590485' lat='52.4992627' lon='13.4196141'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='arts_centre' />
+    <tag k='culture' v='kleinkunst' />
+    <tag k='name' v='NOrthEurope/WestGermany' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1227870774' timestamp='2013-10-14T19:43:03Z' uid='881429' user='atpl_pilot' visible='true' version='3' changeset='18357216' lat='52.4920152' lon='13.3878183' />
+  <node id='1227870782' timestamp='2013-10-14T19:43:03Z' uid='881429' user='atpl_pilot' visible='true' version='4' changeset='18357216' lat='52.4918448' lon='13.3881196' />
+  <node id='1227875287' timestamp='2015-04-14T01:26:51Z' uid='881429' user='atpl_pilot' visible='true' version='4' changeset='30202261' lat='52.4923063' lon='13.3886956' />
+  <node id='1227875292' timestamp='2013-10-14T19:43:05Z' uid='881429' user='atpl_pilot' visible='true' version='2' changeset='18357216' lat='52.4917543' lon='13.3886387' />
+  <node id='1227875322' timestamp='2013-10-14T19:43:05Z' uid='881429' user='atpl_pilot' visible='true' version='2' changeset='18357216' lat='52.4918081' lon='13.3886652' />
+  <node id='1227875365' timestamp='2013-10-14T19:43:05Z' uid='881429' user='atpl_pilot' visible='true' version='3' changeset='18357216' lat='52.4923386' lon='13.388625' />
+  <node id='1227875375' timestamp='2013-10-14T19:43:05Z' uid='881429' user='atpl_pilot' visible='true' version='2' changeset='18357216' lat='52.4919094' lon='13.3881539' />
+  <node id='1227875385' timestamp='2013-10-14T19:43:05Z' uid='881429' user='atpl_pilot' visible='true' version='3' changeset='18357216' lat='52.4923393' lon='13.3879536' />
+  <node id='1227879782' timestamp='2013-10-14T19:43:05Z' uid='881429' user='atpl_pilot' visible='true' version='4' changeset='18357216' lat='52.4920723' lon='13.3890266' />
+  <node id='1227879804' timestamp='2013-10-14T19:43:06Z' uid='881429' user='atpl_pilot' visible='true' version='3' changeset='18357216' lat='52.4917759' lon='13.3889222' />
+  <node id='1227879810' timestamp='2013-10-14T19:43:06Z' uid='881429' user='atpl_pilot' visible='true' version='3' changeset='18357216' lat='52.4919758' lon='13.3890163' />
+  <node id='1227879822' timestamp='2013-08-11T05:11:26Z' uid='39457' user='Markus59' visible='true' version='3' changeset='17298868' lat='52.4922205' lon='13.3891052' />
+  <node id='1227879829' timestamp='2013-10-14T19:43:06Z' uid='881429' user='atpl_pilot' visible='true' version='3' changeset='18357216' lat='52.4919196' lon='13.3889895' />
+  <node id='1287617230' timestamp='2011-11-30T11:19:30Z' uid='45180' user='g0ldfish' visible='true' version='2' changeset='9997922' lat='52.5031866' lon='13.4119553'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1289504973' action='modify' timestamp='2013-04-04T07:34:18Z' uid='290680' user='wheelmap_visitor' visible='true' version='6' changeset='15603243' lat='52.4962091' lon='13.4262102'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='22a' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Lausitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Regenbogenhostel' />
+    <tag k='operator' v='Regenbogenfabrik' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='tourism' v='guest_house' />
+    <tag k='website' v='http://www.regenbogenfabrik.de/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1291756034' action='modify' timestamp='2014-09-12T07:22:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='10' changeset='25383264' lat='52.4959201' lon='13.4261779'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Lausitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='cinema' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Kino' />
+    <tag k='operator' v='Regenbogenfabrik' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.regenbogenfabrik.de/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1307139596' action='modify' timestamp='2013-01-17T07:30:03Z' uid='66391' user='geozeisig' visible='true' version='8' changeset='14680481' lat='52.4959768' lon='13.4260577'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Lausitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='bicycle_rental' />
+    <tag k='contact:email' v='info@regenbogenfabrik.de, kontakt@regenbogenfabrik.de' />
+    <tag k='contact:phone' v='+49 30 6957950' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Regenbogenfabrik Fahrrad-Selbsthilfe-Werkstatt' />
+    <tag k='note' v='squatters&apos; project too - how to tag?' />
+    <tag k='service:bicycle:diy' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.regenbogenfabrik.de/fahrrad.html' />
+  </node>
+  <node id='1307139603' action='modify' timestamp='2013-04-04T07:35:57Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='15603243' lat='52.4958939' lon='13.4263791'>
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Holzwerkstatt' />
+    <tag k='operator' v='Regenbogenfabrik' />
+    <tag k='shop' v='doityourself' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.regenbogenfabrik.de/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1315650097' timestamp='2013-10-14T19:43:10Z' uid='881429' user='atpl_pilot' visible='true' version='3' changeset='18357216' lat='52.4919581' lon='13.3881347' />
+  <node id='1320130132' action='modify' timestamp='2013-04-04T07:32:31Z' uid='290680' user='wheelmap_visitor' visible='true' version='7' changeset='15603243' lat='52.4961232' lon='13.426116'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='22a' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Lausitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='alt_name' v='Meet &amp; Eat' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Kantine' />
+    <tag k='operator' v='Regenbogenfabrik' />
+    <tag k='phone' v='+49306957950' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.regenbogenfabrik.de/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1336667319' timestamp='2013-08-11T06:17:26Z' uid='39457' user='Markus59' visible='true' version='5' changeset='17299175' lat='52.500446' lon='13.4220848'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='189' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='Molotov Cocktail' />
+    <tag k='phone' v='+493069569130' />
+    <tag k='website' v='www.molotowcocktail.eu/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1336671070' timestamp='2012-01-10T21:17:18Z' uid='74224' user='gkai' visible='true' version='2' changeset='10355556' lat='52.5010788' lon='13.4197545'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='X Berg Curry' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1336672288' timestamp='2012-01-10T21:17:16Z' uid='74224' user='gkai' visible='true' version='2' changeset='10355556' lat='52.5011227' lon='13.4195813'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='China Box' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1374004789' timestamp='2011-07-25T17:54:07Z' uid='19294' user='sysrun' visible='true' version='1' changeset='8828407' lat='53.0723494' lon='12.0821067' />
+  <node id='1389054325' timestamp='2011-08-07T00:41:10Z' uid='74224' user='gkai' visible='true' version='1' changeset='8943082' lat='52.4999998' lon='13.4226824'>
+    <tag k='name' v='Chocolateria Sünde' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='http://chocolateria-suende.de/' />
+  </node>
+  <node id='1389054347' timestamp='2011-08-07T00:41:10Z' uid='74224' user='gkai' visible='true' version='1' changeset='8943082' lat='52.5000466' lon='13.4226548'>
+    <tag k='amenity' v='vending_machine' />
+    <tag k='operator' v='Knauf Automaten' />
+    <tag k='payment:coins' v='yes' />
+    <tag k='vending:sweets' v='yes' />
+    <tag k='vending:toys' v='yes' />
+  </node>
+  <node id='1455918589' timestamp='2011-10-05T13:20:29Z' uid='46793' user='pruritus' visible='true' version='1' changeset='9478019' lat='52.3888628' lon='13.0771623' />
+  <node id='1455918619' timestamp='2011-10-05T13:20:30Z' uid='46793' user='pruritus' visible='true' version='1' changeset='9478019' lat='52.3889538' lon='13.0774266' />
+  <node id='1455918621' timestamp='2011-10-05T13:20:30Z' uid='46793' user='pruritus' visible='true' version='1' changeset='9478019' lat='52.388956' lon='13.0775322' />
+  <node id='1455918625' timestamp='2011-10-05T13:20:30Z' uid='46793' user='pruritus' visible='true' version='1' changeset='9478019' lat='52.3889596' lon='13.0777006' />
+  <node id='1524469163' timestamp='2011-11-30T11:19:28Z' uid='45180' user='g0ldfish' visible='true' version='1' changeset='9997922' lat='52.5032053' lon='13.4119305' />
+  <node id='1524469164' timestamp='2011-11-30T11:19:28Z' uid='45180' user='g0ldfish' visible='true' version='1' changeset='9997922' lat='52.5033029' lon='13.410874'>
+    <tag k='barrier' v='entrance' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='yes' />
+  </node>
+  <node id='1531529607' timestamp='2011-12-04T18:46:52Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.388978' lon='13.0788292' />
+  <node id='1531529608' timestamp='2011-12-04T18:46:52Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3895365' lon='13.0765773' />
+  <node id='1531529609' timestamp='2011-12-04T18:46:52Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3895783' lon='13.0765756' />
+  <node id='1531529612' timestamp='2014-08-13T10:23:13Z' uid='1879543' user='glibbertorsten' visible='true' version='2' changeset='24720009' lat='52.3896267' lon='13.0779494' />
+  <node id='1531529618' timestamp='2011-12-04T18:46:53Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3896453' lon='13.078699' />
+  <node id='1531529619' timestamp='2011-12-04T18:46:53Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3896453' lon='13.0788155' />
+  <node id='1531529620' timestamp='2011-12-04T18:46:53Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3899444' lon='13.0786921' />
+  <node id='1531529621' timestamp='2011-12-04T18:46:53Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3899465' lon='13.0781712' />
+  <node id='1531529623' timestamp='2011-12-04T18:46:53Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3902121' lon='13.0779381' />
+  <node id='1531529625' timestamp='2011-12-04T18:46:53Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3902274' lon='13.0780415' />
+  <node id='1531529627' timestamp='2011-12-04T18:46:53Z' uid='9607' user='hfs' visible='true' version='1' changeset='10036299' lat='52.3902435' lon='13.0781506' />
+  <node id='1583884357' timestamp='2013-12-03T19:50:56Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='19256208' lat='52.4997316' lon='13.4178137'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='cuisine' v='kebab' />
+    <tag k='name' v='Tadim' />
+    <tag k='website' v='http://www.tadim-lahmacun.de/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1585056866' timestamp='2013-08-11T06:20:48Z' uid='39457' user='Markus59' visible='true' version='4' changeset='17299181' lat='52.5003899' lon='13.4222929'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='burger' />
+    <tag k='name' v='Kreuzburger' />
+    <tag k='smoking' v='no' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1585056868' timestamp='2012-01-10T21:17:09Z' uid='74224' user='gkai' visible='true' version='1' changeset='10355556' lat='52.5009137' lon='13.4203516' />
+  <node id='1609999414' timestamp='2013-10-14T19:43:10Z' uid='881429' user='atpl_pilot' visible='true' version='2' changeset='18357216' lat='52.4917679' lon='13.3888865' />
+  <node id='1609999416' timestamp='2013-10-14T19:43:10Z' uid='881429' user='atpl_pilot' visible='true' version='2' changeset='18357216' lat='52.4924728' lon='13.3880195' />
+  <node id='1624566223' timestamp='2013-08-11T06:17:26Z' uid='39457' user='Markus59' visible='true' version='3' changeset='17299175' lat='52.5006837' lon='13.421204'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='185' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+  </node>
+  <node id='1687016792' timestamp='2012-03-26T19:20:00Z' uid='102755' user='wicking' visible='true' version='2' changeset='11109562' lat='52.5049287' lon='13.4237679' />
+  <node id='1690629059' timestamp='2012-03-26T19:20:01Z' uid='102755' user='wicking' visible='true' version='2' changeset='11109562' lat='52.5047123' lon='13.4239615' />
+  <node id='1690629061' timestamp='2012-03-26T19:20:01Z' uid='102755' user='wicking' visible='true' version='2' changeset='11109562' lat='52.5047531' lon='13.4239881' />
+  <node id='1692266830' timestamp='2012-03-26T19:19:49Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5046613' lon='13.4234555' />
+  <node id='1692266832' timestamp='2012-03-26T19:19:49Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5046748' lon='13.4233998' />
+  <node id='1692266849' timestamp='2012-03-26T19:19:50Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5046977' lon='13.4240217' />
+  <node id='1692266853' timestamp='2012-03-26T19:19:50Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5047027' lon='13.4240011' />
+  <node id='1692266868' timestamp='2012-03-26T19:19:51Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.504764' lon='13.4239952' />
+  <node id='1692266875' timestamp='2012-03-26T19:19:51Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5048026' lon='13.4237843' />
+  <node id='1692266877' timestamp='2012-03-26T19:19:51Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5048038' lon='13.4237793' />
+  <node id='1692266880' timestamp='2012-03-26T19:19:51Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5048138' lon='13.4237918' />
+  <node id='1692266888' timestamp='2012-03-26T19:19:51Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5049049' lon='13.423551'>
+    <tag k='barrier' v='gate' />
+    <tag k='bicycle' v='no' />
+    <tag k='foot' v='yes' />
+  </node>
+  <node id='1692266890' timestamp='2012-03-26T19:19:52Z' uid='102755' user='wicking' visible='true' version='1' changeset='11109562' lat='52.5049684' lon='13.4242019' />
+  <node id='1748298703' timestamp='2012-05-11T06:38:12Z' uid='87109' user='waldsieversdorfer' visible='true' version='1' changeset='11565027' lat='52.5473651' lon='13.857057' />
+  <node id='1748298704' timestamp='2012-05-11T06:38:12Z' uid='87109' user='waldsieversdorfer' visible='true' version='1' changeset='11565027' lat='52.5475042' lon='13.856102' />
+  <node id='1748298705' timestamp='2012-05-11T06:38:12Z' uid='87109' user='waldsieversdorfer' visible='true' version='1' changeset='11565027' lat='52.5476923' lon='13.8546157' />
+  <node id='1748298706' timestamp='2012-05-11T06:38:12Z' uid='87109' user='waldsieversdorfer' visible='true' version='1' changeset='11565027' lat='52.5477413' lon='13.8542122' />
+  <node id='1748298707' timestamp='2012-05-11T06:38:12Z' uid='87109' user='waldsieversdorfer' visible='true' version='1' changeset='11565027' lat='52.5478109' lon='13.8532976' />
+  <node id='1748298708' timestamp='2012-05-11T06:38:12Z' uid='87109' user='waldsieversdorfer' visible='true' version='1' changeset='11565027' lat='52.5481053' lon='13.8532707' />
+  <node id='1748298709' timestamp='2012-05-11T06:38:12Z' uid='87109' user='waldsieversdorfer' visible='true' version='1' changeset='11565027' lat='52.5482607' lon='13.857252' />
+  <node id='1748298710' timestamp='2012-05-11T06:38:12Z' uid='87109' user='waldsieversdorfer' visible='true' version='1' changeset='11565027' lat='52.5483507' lon='13.85204' />
+  <node id='1748298711' timestamp='2014-02-28T09:58:22Z' uid='111462' user='Bot45715' visible='true' version='2' changeset='20824015' lat='52.5502458' lon='13.8487632' />
+  <node id='1748298712' timestamp='2014-09-10T20:18:37Z' uid='43566' user='anbr' visible='true' version='2' changeset='25355839' lat='52.5490078' lon='13.8563906' />
+  <node id='1748298714' timestamp='2014-09-10T20:18:37Z' uid='43566' user='anbr' visible='true' version='3' changeset='25355839' lat='52.5499392' lon='13.8579547' />
+  <node id='1748298715' timestamp='2014-09-10T20:18:37Z' uid='43566' user='anbr' visible='true' version='4' changeset='25355839' lat='52.5528402' lon='13.8563979' />
+  <node id='1748298716' timestamp='2014-09-10T20:18:37Z' uid='43566' user='anbr' visible='true' version='3' changeset='25355839' lat='52.5535341' lon='13.853635' />
+  <node id='1827035552' timestamp='2015-06-29T13:28:44Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='32279747' lat='52.4992656' lon='13.4198628'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Skalitzer Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='SCHATZ Schulaufgabenzirkel' />
+    <tag k='operator' v='Aktürk Celalettin' />
+    <tag k='phone' v='(030) 69531389' />
+    <tag k='toilets:wheelchair' v='no' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1927763622' action='modify' timestamp='2013-10-05T22:36:30Z' uid='6669' user='Elwood' visible='true' version='5' changeset='18204222' lat='52.4865362' lon='13.430952'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Pannierstraße' />
+    <tag k='addr:suburb' v='Neukölln' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:email' v='info@tristeza.org' />
+    <tag k='contact:phone' v='+49 30 27497066' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Tristeza' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://tristeza.org/' />
+    <tag k='wheelchair' v='limited' />
+    <tag k='wheelchair:description' v='Eine flache Rampe führt in den Laden, aber der Keller ist nicht mit dem Rollstuhl zu erreichen. DIe Toiletten sind zwar ebenerdig, aber der Weg ist eng, die Türen schwergängig und ohne Hilfe kommt niemand mit dem Rollstuhl auf das WC.' />
+  </node>
+  <node id='1927815788' action='modify' timestamp='2015-08-23T12:35:20Z' uid='290680' user='wheelmap_visitor' visible='true' version='9' changeset='33517035' lat='52.483116' lon='13.4417888'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='86' />
+    <tag k='addr:postcode' v='12045' />
+    <tag k='addr:street' v='Wildenbruchstraße' />
+    <tag k='addr:suburb' v='Neukölln' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:email' v='info@k-fetisch.net' />
+    <tag k='contact:website' v='http://kfetisch.blogsport.de' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='K-Fetisch' />
+    <tag k='provides' v='culture;learning_opportunities' />
+    <tag k='smoking' v='isolated' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='toilets:wheelchair' v='yes' />
+    <tag k='website' v='http://kfetisch.blogsport.de/kontakt/' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='wheelchair:description' v='Das Café ist berollbar. Die Türen zu den Toiletten sind schwergägnig der Raum etwas eng.' />
+  </node>
+  <node id='1946240545' timestamp='2012-10-04T16:45:41Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4840991' lon='14.0447924' />
+  <node id='1946240549' timestamp='2012-10-04T16:45:41Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4835242' lon='14.049599' />
+  <node id='1946240555' timestamp='2012-10-04T16:45:41Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4858501' lon='14.0537617' />
+  <node id='1946240569' timestamp='2013-04-06T06:26:07Z' uid='5453' user='wasat' visible='true' version='2' changeset='15628463' lat='52.4897768' lon='14.0479145' />
+  <node id='1946240573' timestamp='2013-04-06T06:26:07Z' uid='5453' user='wasat' visible='true' version='2' changeset='15628463' lat='52.4875285' lon='14.0471238' />
+  <node id='1946240575' timestamp='2012-10-04T16:45:41Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4884111' lon='14.0458868' />
+  <node id='1946240577' timestamp='2012-10-04T16:45:41Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4840207' lon='14.0488694' />
+  <node id='1946240583' timestamp='2012-10-04T16:45:42Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4870784' lon='14.0449212' />
+  <node id='1946240584' timestamp='2012-10-04T16:45:42Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4885418' lon='14.0492127' />
+  <node id='1946240587' timestamp='2012-10-04T16:45:42Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4832628' lon='14.0483544' />
+  <node id='1946240593' timestamp='2012-10-04T16:45:42Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4835503' lon='14.0479682' />
+  <node id='1946240596' timestamp='2012-10-04T16:45:42Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.486412' lon='14.045007' />
+  <node id='1946240599' timestamp='2012-10-04T16:45:42Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4831844' lon='14.0464661' />
+  <node id='1946240601' timestamp='2012-10-04T16:45:42Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4828708' lon='14.0466593' />
+  <node id='1946240608' timestamp='2012-10-04T16:45:42Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4888031' lon='14.051101' />
+  <node id='1946240616' timestamp='2012-10-04T16:45:43Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4894564' lon='14.0512727' />
+  <node id='1946240626' timestamp='2012-10-04T16:45:43Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4854581' lon='14.0448783' />
+  <node id='1946240631' timestamp='2012-10-04T16:45:43Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4876272' lon='14.0446637' />
+  <node id='1946240632' timestamp='2012-10-04T16:45:43Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4874965' lon='14.0524314' />
+  <node id='1946240644' timestamp='2012-10-04T16:45:43Z' uid='506533' user='Fenris-uh' visible='true' version='1' changeset='13363028' lat='52.4828447' lon='14.0446208' />
+  <node id='1946240648' timestamp='2013-04-06T06:26:07Z' uid='5453' user='wasat' visible='true' version='2' changeset='15628463' lat='52.49097' lon='14.0501025' />
+  <node id='2014738553' timestamp='2014-01-30T16:53:22Z' uid='111462' user='Bot45715' visible='true' version='2' changeset='20286475' lat='52.3952961' lon='13.119603' />
+  <node id='2014738606' timestamp='2014-01-30T16:53:22Z' uid='111462' user='Bot45715' visible='true' version='2' changeset='20286475' lat='52.3953269' lon='13.119876' />
+  <node id='2014738661' timestamp='2014-01-30T16:53:22Z' uid='111462' user='Bot45715' visible='true' version='2' changeset='20286475' lat='52.3954096' lon='13.1195686' />
+  <node id='2014738690' timestamp='2014-01-30T16:53:22Z' uid='111462' user='Bot45715' visible='true' version='2' changeset='20286475' lat='52.3954405' lon='13.1198415' />
+  <node id='2106337095' timestamp='2013-01-11T21:17:07Z' uid='1196584' user='heklaterriol' visible='true' version='1' changeset='14615064' lat='52.1553608' lon='12.59174' />
+  <node id='2117488548' timestamp='2013-01-18T09:49:38Z' uid='120249' user='robson06' visible='true' version='1' changeset='14694283' lat='52.4999345' lon='13.4184771'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='2161121134' action='delete' timestamp='2013-08-11T06:20:48Z' uid='39457' user='Markus59' visible='true' version='4' changeset='17299181' lat='52.5004083' lon='13.4222246' />
+  <node id='2183996084' action='modify' timestamp='2015-02-28T08:20:00Z' uid='2371015' user='humpaaa' visible='true' version='7' changeset='29150651' lat='52.4739276' lon='13.4431966'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='12043' />
+    <tag k='addr:street' v='Karl-Marx-Platz' />
+    <tag k='addr:suburb' v='Neukölln' />
+    <tag k='amenity' v='cafe' />
+    <tag k='area' v='90m²' />
+    <tag k='contact:email' v='kontakt@veganladen-kollektiv.net' />
+    <tag k='description' v='vegane Lebensmittel, Kosmetika, Tiernahrung, Haushaltsmittel, Bücher, Infos, Accessoires und Süßigkeiten. Eine kleine Café-Ecke lädt zum Verweilen ein.' />
+    <tag k='diet:vegan' v='only' />
+    <tag k='fair_trade' v='yes' />
+    <tag k='farm_boxes' v='pickup' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Dr. Pogo Veganladen.kollektiv' />
+    <tag k='opening_hours' v='Mo,Tu,Th,Fr 09:00-20:00, We 12:00-20:00;Sa 09:00-16:00' />
+    <tag k='phone' v='+49 30 530 697 94' />
+    <tag k='shop' v='convenience' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://veganladen-kollektiv.net/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2251890153' timestamp='2013-04-06T06:26:00Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.4874966' lon='14.0472942' />
+  <node id='2251890155' timestamp='2013-04-06T06:26:00Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.4875163' lon='14.0474569' />
+  <node id='2251890159' timestamp='2013-04-06T06:26:01Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.4883132' lon='14.0490155' />
+  <node id='2251890167' timestamp='2013-04-06T06:26:01Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.4884411' lon='14.0491665' />
+  <node id='2251890180' timestamp='2013-04-06T06:26:01Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.4892654' lon='14.0485501' />
+  <node id='2251890187' timestamp='2013-04-06T06:26:01Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.4895969' lon='14.0481291' />
+  <node id='2251890205' timestamp='2013-04-06T06:26:01Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.4902471' lon='14.0487142' />
+  <node id='2251890206' timestamp='2013-04-06T06:26:01Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.4906952' lon='14.049492' />
+  <node id='2251890208' timestamp='2013-04-06T06:26:01Z' uid='5453' user='wasat' visible='true' version='1' changeset='15628463' lat='52.490904' lon='14.0497728' />
+  <node id='2292169768' timestamp='2013-05-05T08:15:52Z' uid='6998' user='saerdnaer' visible='true' version='1' changeset='15981013' lat='52.500145' lon='13.4185849' />
+  <node id='2359958691' timestamp='2013-06-25T07:12:35Z' uid='17889' user='rrissiek' visible='true' version='1' changeset='16694922' lat='53.0691553' lon='12.0831721' />
   <node id='2390734924' action='modify' timestamp='2015-08-01T22:28:08Z' uid='290680' user='wheelmap_visitor' visible='true' version='6' changeset='33034343' lat='52.550607' lon='13.363522'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
@@ -82,10 +1882,66 @@
     <tag k='identity' v='solidarity_economy' />
     <tag k='mode_of_organisation:self_managed' v='yes' />
     <tag k='name' v='Café Cralle' />
-    <tag k='source' v='Dakota 20' />
+    <tag k='source' v='Solikon 2015' />
     <tag k='website' v='http://cafecralle.wordpress.com/' />
     <tag k='wheelchair' v='limited' />
   </node>
+  <node id='2496651932' timestamp='2013-10-14T19:42:36Z' uid='881429' user='atpl_pilot' visible='true' version='1' changeset='18357216' lat='52.4917995' lon='13.3887125' />
+  <node id='2496651956' timestamp='2013-10-14T19:42:36Z' uid='881429' user='atpl_pilot' visible='true' version='1' changeset='18357216' lat='52.4919161' lon='13.3881146' />
+  <node id='2496651965' timestamp='2013-10-14T19:42:36Z' uid='881429' user='atpl_pilot' visible='true' version='1' changeset='18357216' lat='52.4919822' lon='13.388981' />
+  <node id='2496651973' timestamp='2013-10-14T19:42:37Z' uid='881429' user='atpl_pilot' visible='true' version='1' changeset='18357216' lat='52.4920259' lon='13.3890022' />
+  <node id='2496651983' timestamp='2013-10-14T19:42:37Z' uid='881429' user='atpl_pilot' visible='true' version='1' changeset='18357216' lat='52.4920513' lon='13.3878359' />
+  <node id='2496651987' timestamp='2013-10-14T19:42:37Z' uid='881429' user='atpl_pilot' visible='true' version='1' changeset='18357216' lat='52.4920616' lon='13.3890215' />
+  <node id='2496652014' timestamp='2013-10-14T19:42:38Z' uid='881429' user='atpl_pilot' visible='true' version='1' changeset='18357216' lat='52.4923354' lon='13.3879748' />
+  <node id='2496652022' timestamp='2013-10-14T19:42:38Z' uid='881429' user='atpl_pilot' visible='true' version='1' changeset='18357216' lat='52.4924494' lon='13.3881474' />
+  <node id='2516558171' action='modify' timestamp='2015-04-02T13:35:19Z' uid='321042' user='species' visible='true' version='4' changeset='29928982' lat='52.3992927' lon='13.0549258'>
+    <tag k='addr:city' v='Potsdam' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='14467' />
+    <tag k='addr:street' v='Charlottenstraße' />
+    <tag k='contact:email' v='kontakt@umverteiler.de' />
+    <tag k='contact:website' v='http://umverteiler.de' />
+    <tag k='description' v='Umsonstladen' />
+    <tag k='identity' v='solidarity_economy;degrowth' />
+    <tag k='interaction' v='gifting;cousing;diy_and_dit' />
+    <tag k='name' v='Umverteiler' />
+    <tag k='payment:none' v='yes' />
+    <tag k='provides' v='objects_of_utility;learning_opportunities' />
+    <tag k='shop' v='convenience' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='2616390937' timestamp='2014-01-09T18:05:55Z' uid='10549' user='toaster' visible='true' version='1' changeset='19904625' lat='52.4992778' lon='13.4222523' />
+  <node id='2616390943' timestamp='2014-01-09T18:05:55Z' uid='10549' user='toaster' visible='true' version='1' changeset='19904625' lat='52.5000524' lon='13.4185619' />
+  <node id='2625373039' action='modify' timestamp='2014-06-27T12:42:01Z' uid='2146730' user='grom_it' visible='true' version='3' changeset='23214331' lat='52.4975709' lon='13.4187719'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Kottbusser Straße' />
+    <tag k='addr:suburb' v='Kreuzberg' />
+    <tag k='contact:email' v='mail@rad-spannerei.de' />
+    <tag k='contact:phone' v='+49 30 61507218' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='is_in' v='Kreuzberg,Friedrichshain-Kreuzberg,Berlin,Bundesrepublik Deutschland,Europe' />
+    <tag k='name' v='Radspannerei' />
+    <tag k='opening_hours' v='Mo,Tu 11:00-19:00; We 12:00-20:00; Th,Fr 11:00-19:00; Sa 12:00-17:00' />
+    <tag k='phone' v='+49 30 615 29 39' />
+    <tag k='service:bicycle:diy' v='yes' />
+    <tag k='service:bicycle:repair' v='yes' />
+    <tag k='service:bicycle:retail' v='yes' />
+    <tag k='shop' v='bicycle' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.rad-spannerei.de/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2644068110' timestamp='2014-01-30T16:53:05Z' uid='111462' user='Bot45715' visible='true' version='1' changeset='20286475' lat='52.3952842' lon='13.119702' />
+  <node id='2644068112' timestamp='2014-01-30T16:53:05Z' uid='111462' user='Bot45715' visible='true' version='1' changeset='20286475' lat='52.3952941' lon='13.1197892' />
+  <node id='2644068114' timestamp='2014-01-30T16:53:05Z' uid='111462' user='Bot45715' visible='true' version='1' changeset='20286475' lat='52.3953065' lon='13.1196953' />
+  <node id='2644068116' timestamp='2014-01-30T16:53:05Z' uid='111462' user='Bot45715' visible='true' version='1' changeset='20286475' lat='52.3953164' lon='13.1197824' />
+  <node id='2694323161' timestamp='2014-02-28T09:58:17Z' uid='111462' user='Bot45715' visible='true' version='1' changeset='20824015' lat='52.5491732' lon='13.8500387' />
+  <node id='2694323163' timestamp='2014-02-28T09:58:17Z' uid='111462' user='Bot45715' visible='true' version='1' changeset='20824015' lat='52.5512396' lon='13.8595079' />
+  <node id='2694323164' timestamp='2014-02-28T09:58:17Z' uid='111462' user='Bot45715' visible='true' version='1' changeset='20824015' lat='52.5520275' lon='13.8559486' />
   <node id='2728580880' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7728401' lon='13.6134015' />
   <node id='2728580883' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.773077' lon='13.613203' />
   <node id='2728580885' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7730348' lon='13.6118994' />
@@ -95,9 +1951,33 @@
   <node id='2728580896' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7717626' lon='13.6136026' />
   <node id='2728580899' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7711362' lon='13.6137072' />
   <node id='2728580901' timestamp='2014-03-20T11:58:25Z' uid='1986163' user='naschi11' visible='true' version='1' changeset='21208733' lat='52.7710973' lon='13.6129079' />
+  <node id='2789114069' timestamp='2015-06-29T13:28:49Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='32279747' lat='52.4992646' lon='13.4197774'>
+    <tag k='amenity' v='pub' />
+    <tag k='name' v='Fahimi Bar' />
+    <tag k='toilets:wheelchair' v='no' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2947586217' action='modify' timestamp='2014-07-04T11:25:06Z' uid='1879543' user='glibbertorsten' visible='true' version='1' changeset='23925851' lat='52.5047017' lon='13.45128'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='1-8' />
+    <tag k='addr:postcode' v='10245' />
+    <tag k='addr:street' v='Rudolfstraße' />
+    <tag k='contact:email' v='info@oktoberdruck.de' />
+    <tag k='contact:phone' v='+49 30 6953860' />
+    <tag k='contact:website' v='http://oktoberdruck.de' />
+    <tag k='description' v='printing collective' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Oktoberdruck' />
+    <tag k='office' v='company' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='3014032562' timestamp='2014-08-13T10:23:12Z' uid='1879543' user='glibbertorsten' visible='true' version='1' changeset='24720009' lat='52.3896181' lon='13.0765739' />
   <node id='3024293759' timestamp='2014-08-18T11:11:50Z' uid='1091851' user='WebMacke' visible='true' version='1' changeset='24829495' lat='52.7718355' lon='13.6143052'>
     <tag k='entrance' v='yes' />
   </node>
+  <node id='3070821751' timestamp='2014-09-10T20:17:47Z' uid='43566' user='anbr' visible='true' version='1' changeset='25355839' lat='52.5519628' lon='13.8522652' />
   <node id='3145452858' action='modify' timestamp='2015-02-11T12:00:24Z' uid='42705' user='MorbZ' visible='true' version='2' changeset='28771631' lat='52.5313872706' lon='13.40807975599'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
@@ -113,6 +1993,32 @@
     <tag k='payment:none' v='yes' />
     <tag k='provides' v='objects_of_utility;clothes' />
     <tag k='shop' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='3328121350' timestamp='2015-02-03T08:27:25Z' uid='321042' user='species' visible='true' version='1' changeset='28583941' lat='52.3954264' lon='13.1197166'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='3431661327' timestamp='2015-04-02T14:53:05Z' uid='1620749' user='C-in-Berlin' visible='true' version='1' changeset='29930677' lat='52.1573572' lon='12.5943248' />
+  <node id='3431661330' timestamp='2015-04-02T14:53:05Z' uid='1620749' user='C-in-Berlin' visible='true' version='1' changeset='29930677' lat='52.157151' lon='12.5938423' />
+  <node id='3431661331' timestamp='2015-04-02T14:53:05Z' uid='1620749' user='C-in-Berlin' visible='true' version='1' changeset='29930677' lat='52.1572114' lon='12.5948721' />
+  <node id='3454199875' timestamp='2015-04-13T15:56:15Z' uid='278581' user='traces' visible='true' version='1' changeset='30191308' lat='52.5000413' lon='13.4181665' />
+  <node id='3563938494' action='modify' timestamp='2015-06-02T16:45:31Z' uid='201359' user='wambacher' visible='true' version='4' changeset='31669423' lat='52.4898742' lon='13.422358'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='10967' />
+    <tag k='addr:street' v='Urbanstraße' />
+    <tag k='contact:email' v='schnittstelle@jpberlin.de' />
+    <tag k='contact:phone' v='+49 176 54392783' />
+    <tag k='description' v='producer-to-consumer direct marketing' />
+    <tag k='identity' v='p2p_economy;solidarity_economy;degrowth' />
+    <tag k='name' v='Schnittstelle Vertriebskollektiv' />
+    <tag k='opening_hours' v='Mo 15:00-19:00' />
+    <tag k='organic' v='yes' />
+    <tag k='shop' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://schnittstelle.blogsport.de' />
+    <tag k='wheelchair' v='limited' />
   </node>
   <node id='3683748516' action='delete' timestamp='2015-08-06T10:45:42Z' uid='1332377' user='ecolopirate' visible='true' version='1' changeset='33151791' lat='52.5313886' lon='13.4080799'>
     <tag k='addr:city' v='Berlin' />
@@ -124,6 +2030,503 @@
     <tag k='name' v='Leila - all-sharing-shop' />
     <tag k='provides' v='objects_of_utility;clothes' />
   </node>
+  <way id='-51471' action='modify' visible='true'>
+    <nd ref='-51469' />
+    <nd ref='-51470' />
+    <nd ref='-51472' />
+    <nd ref='-51474' />
+    <nd ref='-51476' />
+    <nd ref='-51478' />
+    <nd ref='1946240555' />
+    <nd ref='-51469' />
+    <tag k='addr:city' v='Müncheberg (Mark)' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='2b' />
+    <tag k='addr:postcode' v='15374' />
+    <tag k='addr:street' v='Bienenwerder' />
+    <tag k='contact:email' v='bienenwerder@web.de' />
+    <tag k='contact:phone' v='+49 33432 747333' />
+    <tag k='contact:website' v='http://olib-ev.org' />
+    <tag k='farm_boxes' v='source' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='landuse' v='farmyard' />
+    <tag k='name' v='OLiB Organischer Landbau in Bienenwerder' />
+    <tag k='operator' v='Organischer Landbau in Bienenwerder e.V.' />
+    <tag k='organic' v='only' />
+    <tag k='source' v='Solikon 2015' />
+  </way>
+  <way id='-13894' action='modify' visible='true'>
+    <nd ref='-13892' />
+    <nd ref='-13893' />
+    <nd ref='-13895' />
+    <nd ref='-13897' />
+    <nd ref='-13899' />
+    <nd ref='-13901' />
+    <nd ref='-13903' />
+    <nd ref='-13905' />
+    <nd ref='-13907' />
+    <nd ref='-13909' />
+    <nd ref='-13911' />
+    <nd ref='-13913' />
+    <nd ref='-13892' />
+    <tag k='addr:city' v='Barenthin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='16866' />
+    <tag k='addr:street' v='Schönermarker Weg' />
+    <tag k='contact:email' v='oekohof-waldgarten@gmx.de' />
+    <tag k='contact:phone' v='+49 33972 41458' />
+    <tag k='contact:website' v='http://waldgarten.danasus.de/index.html' />
+    <tag k='farm_boxes' v='source' />
+    <tag k='identity' v='permaculture, solidarity_economy' />
+    <tag k='landuse' v='farmyard' />
+    <tag k='name' v='Ökohof Waldgarten' />
+    <tag k='organic' v='only' />
+    <tag k='source' v='Solikon 2015' />
+  </way>
+  <way id='-11589' action='modify' visible='true'>
+    <nd ref='-11587' />
+    <nd ref='-11588' />
+    <nd ref='-11590' />
+    <nd ref='-11592' />
+    <nd ref='-11594' />
+    <nd ref='-11624' />
+    <nd ref='-11626' />
+    <nd ref='-11628' />
+    <nd ref='-11634' />
+    <nd ref='-11714' />
+    <nd ref='-11716' />
+    <nd ref='-11718' />
+    <nd ref='-11720' />
+    <nd ref='-11722' />
+    <nd ref='-11724' />
+    <nd ref='-11726' />
+    <nd ref='-11728' />
+    <nd ref='-11730' />
+    <nd ref='-11732' />
+    <nd ref='-11587' />
+    <tag k='addr:city' v='Templin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='17268' />
+    <tag k='addr:street' v='Karlshof' />
+    <tag k='contact:email' v='april-april@gegenseitig.de' />
+    <tag k='contact:website' v='http://gegenseitig.de/unsere-pag/april-april-auf-dem-karlshof.html' />
+    <tag k='identity' v='demonetized_economy;subsistence_economy' />
+    <tag k='landuse' v='farmyard' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Projektehof Karlshof / Karla_hof' />
+    <tag k='source' v='Solikon 2015' />
+  </way>
+  <way id='-633' action='modify' visible='true'>
+    <nd ref='-631' />
+    <nd ref='-632' />
+    <nd ref='-634' />
+    <nd ref='-636' />
+    <nd ref='-638' />
+    <nd ref='-640' />
+    <nd ref='-642' />
+    <nd ref='-865' />
+    <nd ref='-867' />
+    <nd ref='-869' />
+    <nd ref='-631' />
+    <tag k='landuse' v='industrial' />
+  </way>
+  <way id='37739079' action='modify' timestamp='2013-08-11T06:17:25Z' uid='39457' user='Markus59' visible='true' version='8' changeset='17299175'>
+    <nd ref='442649196' />
+    <nd ref='442649809' />
+    <nd ref='442649810' />
+    <nd ref='442649808' />
+    <nd ref='442649194' />
+    <nd ref='442649193' />
+    <nd ref='1585056866' />
+    <nd ref='528865423' />
+    <nd ref='986339170' />
+    <nd ref='442649195' />
+    <nd ref='442649196' />
+    <tag k='building' v='residential' />
+    <tag k='source' v='Yahoo imagery' />
+  </way>
+  <way id='51799167' action='modify' timestamp='2012-03-28T19:08:42Z' uid='102755' user='wicking' visible='true' version='8' changeset='11130136'>
+    <nd ref='1692266868' />
+    <nd ref='1692266880' />
+    <nd ref='1692266875' />
+    <nd ref='1692266877' />
+    <nd ref='667748344' />
+    <nd ref='667748341' />
+    <nd ref='1692266830' />
+    <nd ref='1692266832' />
+    <nd ref='1692266888' />
+    <nd ref='660899083' />
+    <nd ref='1687016792' />
+    <nd ref='660899087' />
+    <nd ref='1692266890' />
+    <nd ref='1692266849' />
+    <nd ref='1692266853' />
+    <nd ref='1690629059' />
+    <nd ref='1690629061' />
+    <nd ref='1692266868' />
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Mariannenplatz' />
+    <tag k='alt_name' v='Nachbarschaftsgarten Ton, Steine, Gärten' />
+    <tag k='contact:email' v='tonsteinegaerten@gmx.de' />
+    <tag k='contact:website' v='http://gaerten-am-mariannenplatz.blogspot.de/' />
+    <tag k='identity' v='subsistence_economy;commons' />
+    <tag k='landuse' v='allotments' />
+    <tag k='name' v='Nachbarschaftsgarten Ton-Steine-Gärten' />
+    <tag k='note' v='Absstände von Häusern und Wegen zu Garten mit Meterstab gemessen' />
+    <tag k='source' v='Solikon 2015' />
+  </way>
+  <way id='61399924' action='modify' timestamp='2015-01-22T12:54:33Z' uid='321042' user='species' visible='true' version='10' changeset='28326997'>
+    <nd ref='766636183' />
+    <nd ref='1287617230' />
+    <nd ref='1524469163' />
+    <nd ref='766636185' />
+    <nd ref='1524469164' />
+    <nd ref='766636187' />
+    <nd ref='766636190' />
+    <nd ref='766636191' />
+    <nd ref='444726201' />
+    <nd ref='444726203' />
+    <nd ref='766636183' />
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='35-38' />
+    <tag k='addr:postcode' v='10969' />
+    <tag k='addr:street' v='Prinzenstraße' />
+    <tag k='contact:email' v='kontakt@prinzessinnengarten.net' />
+    <tag k='contact:phone' v='+49 176 24332297' />
+    <tag k='contact:website' v='http://prinzessinnengarten.net/' />
+    <tag k='garden:type' v='community' />
+    <tag k='identity' v='permaculture;commons;subsistence_economy' />
+    <tag k='leisure' v='garden' />
+    <tag k='name' v='Prinzessinnengarten' />
+    <tag k='provides' v='food+drink;learning_opportunities;community;participation' />
+    <tag k='source' v='Solikon 2015' />
+  </way>
+  <way id='83045536' action='modify' timestamp='2015-04-02T14:53:06Z' uid='1620749' user='C-in-Berlin' visible='true' version='5' changeset='29930677'>
+    <nd ref='966145026' />
+    <nd ref='966144996' />
+    <nd ref='3431661330' />
+    <nd ref='3431661327' />
+    <nd ref='3431661331' />
+    <nd ref='966145003' />
+    <nd ref='966145098' />
+    <nd ref='2106337095' />
+    <nd ref='966145033' />
+    <nd ref='966145081' />
+    <nd ref='966145019' />
+    <nd ref='966145026' />
+    <tag k='addr:city' v='Bad Belzig' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:postcode' v='14806' />
+    <tag k='addr:street' v='Rosa-Luxemburg-Straße' />
+    <tag k='amenity' v='school' />
+    <tag k='contact:email' v='empfang@zegg.de' />
+    <tag k='contact:phone' v='+49 33841 595100' />
+    <tag k='contact:website' v='http://zegg.de' />
+    <tag k='identity' v='global_ecovillage_network' />
+    <tag k='name' v='ZEGG Zentrum für Experimentelle Gestaltung' />
+    <tag k='provides' v='housing;learning_opportunities' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='topic' v='learning_opportunities' />
+    <tag k='wikipedia' v='de:ZEGG' />
+  </way>
+  <way id='139749547' action='modify' timestamp='2015-02-04T22:38:49Z' uid='1886079' user='ponci4520' visible='true' version='4' changeset='28621062'>
+    <nd ref='1531529608' />
+    <nd ref='1455918589' />
+    <nd ref='1455918619' />
+    <nd ref='1455918621' />
+    <nd ref='1455918625' />
+    <nd ref='1531529607' />
+    <nd ref='1531529619' />
+    <nd ref='1531529618' />
+    <nd ref='1531529620' />
+    <nd ref='1531529621' />
+    <nd ref='1531529627' />
+    <nd ref='1531529625' />
+    <nd ref='1531529623' />
+    <nd ref='1531529612' />
+    <nd ref='3014032562' />
+    <nd ref='1531529609' />
+    <nd ref='1531529608' />
+    <tag k='addr:city' v='Potsdam' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='14473' />
+    <tag k='addr:street' v='Friedrich-Engels-Straße' />
+    <tag k='amenity' v='community_centre' />
+    <tag k='contact:email' v='office@freiland-potsdam.de' />
+    <tag k='contact:phone' v='+49 176 32539322' />
+    <tag k='contact:website' v='http://freiland-potsdam.de/about' />
+    <tag k='identity' v='commons' />
+    <tag k='name' v='freiLand Potsdam' />
+    <tag k='provides' v='culture;spaces' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='wheelchair' v='limited' />
+  </way>
+  <way id='147855566' action='modify' timestamp='2015-05-10T09:11:05Z' uid='88164' user='Med' visible='true' version='4' changeset='30958301'>
+    <nd ref='1227879822' />
+    <nd ref='1227879782' />
+    <nd ref='2496651987' />
+    <nd ref='2496651973' />
+    <nd ref='2496651965' />
+    <nd ref='1227879810' />
+    <nd ref='1227879829' />
+    <nd ref='1227879804' />
+    <nd ref='1609999414' />
+    <nd ref='2496651932' />
+    <nd ref='1227875322' />
+    <nd ref='1227875292' />
+    <nd ref='1227870782' />
+    <nd ref='1227875375' />
+    <nd ref='2496651956' />
+    <nd ref='1315650097' />
+    <nd ref='1227870774' />
+    <nd ref='2496651983' />
+    <nd ref='2496652014' />
+    <nd ref='1227875385' />
+    <nd ref='1609999416' />
+    <nd ref='2496652022' />
+    <nd ref='1227875365' />
+    <nd ref='1227875287' />
+    <nd ref='1227879822' />
+    <tag k='contact:website' v='http://mehringhof.de' />
+    <tag k='landuse' v='commercial' />
+    <tag k='name' v='Mehringhöfe' />
+    <tag k='wikipedia' v='de:Mehringhof' />
+  </way>
+  <way id='163053969' action='modify' timestamp='2014-09-10T20:18:00Z' uid='43566' user='anbr' visible='true' version='5' changeset='25355839'>
+    <nd ref='1748298716' />
+    <nd ref='3070821751' />
+    <nd ref='1748298711' />
+    <nd ref='2694323161' />
+    <nd ref='1748298710' />
+    <nd ref='1748298708' />
+    <nd ref='1748298707' />
+    <nd ref='1748298706' />
+    <nd ref='1748298705' />
+    <nd ref='1748298704' />
+    <nd ref='1748298703' />
+    <nd ref='1748298709' />
+    <nd ref='1748298712' />
+    <nd ref='1748298714' />
+    <nd ref='2694323163' />
+    <nd ref='2694323164' />
+    <nd ref='1748298715' />
+    <nd ref='1748298716' />
+    <tag k='addr:city' v='Strausberg' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='15344' />
+    <tag k='addr:street' v='Garzauer Straße' />
+    <tag k='alt_name' v='ehemalige NVA + Deutsche Post (Bunker)' />
+    <tag k='amenity' v='construction' />
+    <tag k='construction' v='community_centre' />
+    <tag k='contact:website' v='http://anderewelt.org' />
+    <tag k='description' v='project centre (in process of planning)' />
+    <tag k='email' v='info@anderewelt.org' />
+    <tag k='identity' v='commons' />
+    <tag k='landuse' v='brownfield' />
+    <tag k='name' v='Andere Welt' />
+    <tag k='old_name' v='Integrierte Stabsnetz der Partei- und Staatsführung der DDR und der bewaffneten Organe' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://www.anderewelt.org' />
+  </way>
+  <way id='184178789' action='modify' timestamp='2013-04-06T06:26:04Z' uid='5453' user='wasat' visible='true' version='2' changeset='15628463'>
+    <nd ref='1946240631' />
+    <nd ref='1946240575' />
+    <nd ref='1946240573' />
+    <nd ref='2251890153' />
+    <nd ref='2251890155' />
+    <nd ref='2251890159' />
+    <nd ref='2251890167' />
+    <nd ref='1946240584' />
+    <nd ref='2251890180' />
+    <nd ref='2251890187' />
+    <nd ref='1946240569' />
+    <nd ref='2251890205' />
+    <nd ref='2251890206' />
+    <nd ref='2251890208' />
+    <nd ref='1946240648' />
+    <nd ref='1946240616' />
+    <nd ref='1946240608' />
+    <nd ref='1946240632' />
+    <nd ref='-51478' />
+    <nd ref='1946240555' />
+    <nd ref='1946240549' />
+    <nd ref='1946240577' />
+    <nd ref='1946240593' />
+    <nd ref='1946240587' />
+    <nd ref='1946240601' />
+    <nd ref='1946240599' />
+    <nd ref='1946240644' />
+    <nd ref='1946240545' />
+    <nd ref='1946240626' />
+    <nd ref='1946240596' />
+    <nd ref='1946240583' />
+    <nd ref='1946240631' />
+    <tag k='landuse' v='grass' />
+  </way>
+  <way id='190868099' action='modify' timestamp='2015-04-02T13:07:49Z' uid='321042' user='species' visible='true' version='8' changeset='29928330'>
+    <nd ref='2644068110' />
+    <nd ref='2644068114' />
+    <nd ref='2014738553' />
+    <nd ref='2014738661' />
+    <nd ref='3328121350' />
+    <nd ref='2014738690' />
+    <nd ref='2014738606' />
+    <nd ref='2644068116' />
+    <nd ref='2644068112' />
+    <nd ref='2644068110' />
+    <tag k='addr:city' v='Potsdam' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='164' />
+    <tag k='addr:postcode' v='14482' />
+    <tag k='addr:street' v='Rudolf-Breitscheid-Straße' />
+    <tag k='addr:suburb' v='Babelsberg' />
+    <tag k='amenity' v='bicycle_repair_station' />
+    <tag k='building' v='yes' />
+    <tag k='contact:email' v='info@foerderverein-inwole.de;info@projekthaus-potsdam.de' />
+    <tag k='contact:fax' v='+49 331 70 47 66 81' />
+    <tag k='contact:phone' v='+49 331 70476680' />
+    <tag k='contact:website' v='http://projekthaus-potsdam.de' />
+    <tag k='identity' v='commons;transition_initiative' />
+    <tag k='interaction' v='bartering;gifting;diy_and_dit' />
+    <tag k='long_operator' v='Verein zur Förderung innovativer Wohn- und Lebensformen e.V.' />
+    <tag k='mode_of_organisation:scale_of_activity' v='local' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Projekthaus Potsdam' />
+    <tag k='operator' v='INWOLE e.V.' />
+    <tag k='provides' v='food+drink;culture;housing;spaces;objects_of_utility;learning_opportunities;community;participation' />
+    <tag k='shop' v='variety_store' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='topic' v='food+drink;culture;housing;community;participation' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://projekthaus-potsdam.de' />
+  </way>
+  <way id='227287352' action='modify' timestamp='2013-06-25T07:12:36Z' uid='17889' user='rrissiek' visible='true' version='1' changeset='16694922'>
+    <nd ref='1039814644' />
+    <nd ref='1039812709' />
+    <nd ref='1039812747' />
+    <nd ref='1039813542' />
+    <nd ref='1039814405' />
+    <nd ref='1039815231' />
+    <nd ref='2359958691' />
+    <nd ref='1039813342' />
+    <nd ref='1039814193' />
+    <nd ref='1039814973' />
+    <nd ref='1374004789' />
+    <nd ref='1039813090' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Gross Pankower Weg' />
+  </way>
+  <way id='255928596' action='modify' timestamp='2015-04-13T15:56:18Z' uid='278581' user='traces' visible='true' version='3' changeset='30191308'>
+    <nd ref='443952893' />
+    <nd ref='443952896' />
+    <nd ref='443952900' />
+    <nd ref='443952902' />
+    <nd ref='860259080' />
+    <nd ref='443952905' />
+    <nd ref='1583884357' />
+    <nd ref='443952907' />
+    <nd ref='866007372' />
+    <nd ref='443952913' />
+    <nd ref='443952915' />
+    <nd ref='443952917' />
+    <nd ref='443952919' />
+    <nd ref='3454199875' />
+    <nd ref='164642942' />
+    <nd ref='799000194' />
+    <nd ref='2616390943' />
+    <nd ref='442649831' />
+    <nd ref='2117488548' />
+    <nd ref='442649830' />
+    <nd ref='442649836' />
+    <nd ref='442649835' />
+    <nd ref='442649834' />
+    <nd ref='442649838' />
+    <nd ref='442649885' />
+    <nd ref='775717235' />
+    <nd ref='848508705' />
+    <nd ref='815343317' />
+    <nd ref='1108168284' />
+    <nd ref='775717223' />
+    <nd ref='1216694752' />
+    <nd ref='848509143' />
+    <nd ref='2789114069' />
+    <nd ref='775717210' />
+    <nd ref='1827035552' />
+    <nd ref='442649875' />
+    <nd ref='848511372' />
+    <nd ref='872241936' />
+    <nd ref='848511373' />
+    <nd ref='848511374' />
+    <nd ref='442649888' />
+    <nd ref='2616390937' />
+    <nd ref='442649761' />
+    <nd ref='442649546' />
+    <nd ref='442649544' />
+    <nd ref='1389054325' />
+    <nd ref='442649411' />
+    <nd ref='1389054347' />
+    <nd ref='442649407' />
+    <nd ref='442649402' />
+    <nd ref='442649400' />
+    <nd ref='442649193' />
+    <nd ref='1585056866' />
+    <nd ref='528865423' />
+    <nd ref='986339170' />
+    <nd ref='442649195' />
+    <nd ref='1336667319' />
+    <nd ref='848845025' />
+    <nd ref='442649197' />
+    <nd ref='871636127' />
+    <nd ref='848845026' />
+    <nd ref='442649199' />
+    <nd ref='848845020' />
+    <nd ref='871640237' />
+    <nd ref='442649201' />
+    <nd ref='848845021' />
+    <nd ref='867855178' />
+    <nd ref='442649203' />
+    <nd ref='1624566223' />
+    <nd ref='442649205' />
+    <nd ref='442649207' />
+    <nd ref='442649209' />
+    <nd ref='1585056868' />
+    <nd ref='442649210' />
+    <nd ref='442649213' />
+    <nd ref='442649216' />
+    <nd ref='1336671070' />
+    <nd ref='442649219' />
+    <nd ref='1336672288' />
+    <nd ref='442649221' />
+    <nd ref='442649223' />
+    <nd ref='442649417' />
+    <nd ref='442649421' />
+    <nd ref='442649424' />
+    <nd ref='442649487' />
+    <nd ref='442649485' />
+    <nd ref='442649490' />
+    <nd ref='2292169768' />
+    <nd ref='799000149' />
+    <nd ref='775717244' />
+    <nd ref='164642937' />
+    <nd ref='860259086' />
+    <nd ref='164642936' />
+    <nd ref='164642935' />
+    <nd ref='164642945' />
+    <nd ref='443952884' />
+    <nd ref='443952889' />
+    <nd ref='443952891' />
+    <nd ref='443952893' />
+    <tag k='landuse' v='residential' />
+  </way>
   <way id='267398834' action='modify' timestamp='2014-08-18T11:11:52Z' uid='1091851' user='WebMacke' visible='true' version='2' changeset='24829495'>
     <nd ref='2728580880' />
     <nd ref='2728580883' />
@@ -151,6 +2554,24 @@
     <tag k='name' v='Wukania Projektehof' />
     <tag k='operator' v='Wukania e.V.' />
     <tag k='provides' v='housing' />
+    <tag k='source' v='Solikon 2015' />
     <tag k='website' v='http://www.wukania.net' />
   </way>
+  <relation id='-36400' action='modify' visible='true'>
+    <member type='node' ref='-35472' role='' />
+    <member type='node' ref='-35473' role='' />
+    <member type='node' ref='-35471' role='' />
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='amenity' v='coworking_space' />
+    <tag k='contact:phone' v='+49 30 577044711' />
+    <tag k='contact:website' v='http://thinkfarm.de' />
+    <tag k='identity' v='solidarity_economy;commons;degrowth' />
+    <tag k='name' v='Thinkfarm Berlin' />
+    <tag k='office' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </relation>
 </osm>

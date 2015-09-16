@@ -207,560 +207,158 @@
   <bounds minlat='52.4831073' minlon='14.0514977' maxlat='52.4845016' maxlon='14.0565239' origin='CGImap 0.4.0 (1975 thorn-02.openstreetmap.org)' />
   <bounds minlat='52.4831073' minlon='14.0514977' maxlat='52.4845016' maxlon='14.0565239' origin='OpenStreetMap server' />
   <bounds minlat='52.5154994' minlon='13.3255738' maxlat='52.5159303' maxlon='13.3265501' origin='CGImap 0.4.0 (7185 thorn-01.openstreetmap.org)' />
-  <node id='-41723' action='modify' visible='true' lat='52.4974278128' lon='13.36596183295'>
-    <tag k='addr:city' v='Berlin' />
+  <node id='-228' action='modify' visible='true' lat='52.48714095023' lon='14.05271869033' />
+  <node id='-226' action='modify' visible='true' lat='52.48776526558' lon='14.05328970596' />
+  <node id='-224' action='modify' visible='true' lat='52.48691713242' lon='14.05448615264' />
+  <node id='-222' action='modify' visible='true' lat='52.48670023016' lon='14.055262473' />
+  <node id='-220' action='modify' visible='true' lat='52.48635262817' lon='14.05517570779' />
+  <node id='-218' action='modify' visible='true' lat='52.48577921014' lon='14.05383460216' />
+  <node id='-216' action='modify' visible='true' lat='52.45790229958' lon='13.70443330206'>
+    <tag k='addr:city' v='Schöneiche' />
     <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='74' />
-    <tag k='addr:postcode' v='10783' />
-    <tag k='addr:street' v='Bülowstraße' />
-    <tag k='club' v='yes' />
-    <tag k='contact:email' v='garten@allmende-kontor.de;severinhalder@googlemail.com;gerda-muennich-im-allmende-kontor@gmx.de' />
-    <tag k='contact:website' v='http://allmende-kontor.de' />
-    <tag k='identity' v='commons' />
-    <tag k='name' v='Allmende-Kontor' />
-    <tag k='note' v='Vereinssitz Allmende-Kontor' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='15566' />
+    <tag k='addr:street' v='Bismarckstraße' />
+    <tag k='contact:email' v='heikemeves@arcor.de' />
+    <tag k='contact:phone' v='+49 30 64095979' />
+    <tag k='contact:website' v='http://wohnprojekt-schoeneiche.de' />
+    <tag k='identity' v='commons;transition initiative' />
+    <tag k='name' v='Wohnprojekt Schöneiche' />
+    <tag k='provides' v='housing;learning_opportunities;community;participation' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41719' action='modify' visible='true' lat='52.54081040812' lon='13.34780448636'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='6' />
-    <tag k='addr:postcode' v='13353' />
-    <tag k='addr:street' v='Föhrer Straße' />
-    <tag k='contact:email' v='info@lavidaver.de' />
-    <tag k='contact:website' v='http://lavidaver.de/' />
-    <tag k='description' v='collective housing project' />
-    <tag k='identity' v='solidarity_economy;subsistence_economy' />
-    <tag k='name' v='La vida verde' />
-    <tag k='provides' v='housing' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41717' action='modify' visible='true' lat='52.55789325179' lon='13.38511924815'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='58D' />
-    <tag k='addr:postcode' v='13359' />
-    <tag k='addr:street' v='Prinzenallee' />
-    <tag k='contact:email' v='dagmarrehse@gmx.de' />
-    <tag k='contact:phone' v='+49 157 75348418' />
-    <tag k='contact:website' v='http://handgewebtinberlin.wordpress.com' />
-    <tag k='craft' v='weaver' />
-    <tag k='description' v='workshop for manufacture or repair of goods' />
-    <tag k='identity' v='p2p_economy' />
-    <tag k='interaction' v='diy_and_dit' />
-    <tag k='name' v='handgewebt in Berlin' />
-    <tag k='provides' v='objects_of_utility' />
-    <tag k='shop' v='fabric' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41715' action='modify' visible='true' lat='53.3272079151' lon='13.88839244843'>
-    <tag k='addr:city' v='Prenzlau' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='88' />
-    <tag k='addr:postcode' v='17291' />
-    <tag k='addr:street' v='Brüssower Allee' />
-    <tag k='contact:email' v='info@hanffaser.de' />
-    <tag k='contact:phone' v='+49 3984 807 730' />
-    <tag k='contact:website' v='http://hanffaser.de/uckermark' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='mode_of_organisation:hierarchy_chef' v='flat_hierarchy' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Hanffaser Uckermark eG' />
-    <tag k='office' v='company' />
-    <tag k='organic' v='only' />
-    <tag k='regional' v='yes' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41713' action='modify' visible='true' lat='53.32778427322' lon='13.88703476736' />
-  <node id='-41711' action='modify' visible='true' lat='53.32739698554' lon='13.8875290879' />
-  <node id='-41709' action='modify' visible='true' lat='53.32690869256' lon='13.88728382978' />
-  <node id='-41707' action='modify' visible='true' lat='53.32635631903' lon='13.89026038355' />
-  <node id='-41705' action='modify' visible='true' lat='53.32581663684' lon='13.8930349569' />
-  <node id='-41703' action='modify' visible='true' lat='53.32671504518' lon='13.89355585381' />
-  <node id='-41701' action='modify' visible='true' lat='53.32791818432' lon='13.89152010363' />
-  <node id='-41699' action='modify' visible='true' lat='53.32765511072' lon='13.89085713262' />
-  <node id='-41697' action='modify' visible='true' lat='53.32780113676' lon='13.89062857581' />
-  <node id='-41695' action='modify' visible='true' lat='53.32886139775' lon='13.88945390012' />
-  <node id='-41693' action='modify' visible='true' lat='53.09334695229' lon='13.50135055726' />
-  <node id='-41691' action='modify' visible='true' lat='53.09187542795' lon='13.49961287519' />
-  <node id='-41689' action='modify' visible='true' lat='53.09156155059' lon='13.49914451557' />
-  <node id='-41687' action='modify' visible='true' lat='53.09116614339' lon='13.49805846428' />
-  <node id='-41685' action='modify' visible='true' lat='53.09145964187' lon='13.49754937774' />
-  <node id='-41683' action='modify' visible='true' lat='53.09111722678' lon='13.49689095914' />
-  <node id='-41681' action='modify' visible='true' lat='53.08927466075' lon='13.49736610658' />
-  <node id='-41679' action='modify' visible='true' lat='53.08986575801' lon='13.49844537006' />
-  <node id='-41677' action='modify' visible='true' lat='53.0903141712' lon='13.4992191816' />
-  <node id='-41675' action='modify' visible='true' lat='53.09079926748' lon='13.5009025611' />
-  <node id='-41673' action='modify' visible='true' lat='53.09087264291' lon='13.50211758099' />
-  <node id='-41671' action='modify' visible='true' lat='53.09146983275' lon='13.50228388259' />
-  <node id='-41669' action='modify' visible='true' lat='53.09166957357' lon='13.50209721753' />
-  <node id='-41667' action='modify' visible='true' lat='53.09175313834' lon='13.50217188355' />
-  <node id='-41665' action='modify' visible='true' lat='53.09185708453' lon='13.50209721753' />
-  <node id='-41663' action='modify' visible='true' lat='53.0921016628' lon='13.50121480085' />
-  <node id='-41661' action='modify' visible='true' lat='53.0925928533' lon='13.50212776272' />
-  <node id='-41659' action='modify' visible='true' lat='53.09286188473' lon='13.50170691784' />
-  <node id='-41657' action='modify' visible='true' lat='53.09315333354' lon='13.50155419188' />
-  <node id='-41655' action='modify' visible='true' lat='52.9790682847' lon='13.7593460083'>
-    <tag k='addr:city' v='Joachimsthal' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='11' />
-    <tag k='addr:postcode' v='16247' />
-    <tag k='addr:street' v='Grimnitzer Straße' />
-    <tag k='contact:email' v='info@kommunitaet-grimnitz.de' />
-    <tag k='contact:phone' v='+49 33361 70626' />
-    <tag k='contact:website' v='http://kommunitaet-grimnitz.de' />
-    <tag k='denomination' v='lutheran' />
-    <tag k='identity' v='commons;solidarity_economy' />
-    <tag k='name' v='Kommunität Grimnitz' />
-    <tag k='operator' v='Kommunität Grimnitz e.V.' />
-    <tag k='provides' v='housing;spirituality' />
-    <tag k='religion' v='christian' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41653' action='modify' visible='true' lat='53.0706371259' lon='12.0830404758'>
-    <tag k='addr:city' v='Reckenthin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:postcode' v='16928' />
-    <tag k='addr:street' v='Gross Pankower Weg' />
-    <tag k='contact:email' v='corinna@akademie-suffizienz.de' />
-    <tag k='contact:phone' v='+49 176 20362434' />
-    <tag k='contact:website' v='http://akademie-suffizienz.de' />
-    <tag k='identity' v='commons;demonetized_economy;subsistence_economy' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Akademie für Suffizienz' />
-    <tag k='provides' v='housing;spaces;learning_opportunities;community;participation' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41651' action='modify' visible='true' lat='52.92063354533' lon='12.25910716696' />
-  <node id='-41649' action='modify' visible='true' lat='52.92042891896' lon='12.25819081118' />
-  <node id='-41647' action='modify' visible='true' lat='52.92042482643' lon='12.25755275605' />
-  <node id='-41645' action='modify' visible='true' lat='52.91986414517' lon='12.25649385604' />
-  <node id='-41643' action='modify' visible='true' lat='52.91834986025' lon='12.25732197015' />
-  <node id='-41641' action='modify' visible='true' lat='52.91945079157' lon='12.25973843428' />
-  <node id='-41639' action='modify' visible='true' lat='52.91907836069' lon='12.26032897467' />
-  <node id='-41637' action='modify' visible='true' lat='52.9194548842' lon='12.26125890608' />
-  <node id='-41635' action='modify' visible='true' lat='52.91964723734' lon='12.2610009689' />
-  <node id='-41633' action='modify' visible='true' lat='52.9198518674' lon='12.2610009689' />
-  <node id='-41631' action='modify' visible='true' lat='52.91999510787' lon='12.26093987852' />
-  <node id='-41629' action='modify' visible='true' lat='52.92015471811' lon='12.26079054647' />
-  <node id='-41627' action='modify' visible='true' lat='52.39926795595' lon='13.0518973753'>
-    <tag k='addr:city' v='Potsdam' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='47' />
-    <tag k='addr:postcode' v='14467' />
-    <tag k='addr:street' v='Lindenstraße' />
-    <tag k='amenity' v='fablab' />
-    <tag k='contact:email' v='info@wissenschaftsladen-potsdam.de' />
-    <tag k='contact:phone' v='+49 331 23538069' />
-    <tag k='contact:website' v='http://wissenschaftsladen-potsdam.de' />
-    <tag k='identity' v='commons;p2p_economy' />
-    <tag k='name' v='Wissenschaftsladen Potsdam' />
-    <tag k='operator' v='Wissenschaftsladen Potsdam e.V.' />
-    <tag k='provides' v='culture;spaces;learning_opportunities;participation' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41625' action='modify' visible='true' lat='52.5231469' lon='13.2008561'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='28' />
-    <tag k='addr:postcode' v='10405' />
-    <tag k='addr:street' v='Wörther Straße' />
-    <tag k='contact:email' v='info@weltladen-zeichenderzeit.de' />
-    <tag k='contact:phone' v='+49 30 65075586' />
-    <tag k='contact:website' v='http://weltladen-zeichenderzeit.de/' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='Weltladen Prenzlauer Berg' />
-    <tag k='shop' v='fairtrade' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41623' action='modify' visible='true' lat='52.48701943364' lon='13.32841087943'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='17' />
-    <tag k='addr:postcode' v='13189' />
-    <tag k='addr:street' v='Berliner Straße' />
-    <tag k='club' v='yes' />
-    <tag k='contact:email' v='info@kunst-stoffe-berlin.de' />
-    <tag k='contact:phone' v='+49 30 34089840' />
-    <tag k='contact:website' v='http://kunst-stoffe-berlin.de' />
-    <tag k='identity' v='economy_for_the_common_good;degrowth' />
-    <tag k='name' v='Kunst-Stoffe Berlin' />
-    <tag k='note' v='Postanschrift' />
-    <tag k='operator' v='Zentralstelle für wiederverwendbare Materialien - e.V.' />
-    <tag k='source' v='Solikon 2015' />
-    <tag k='topic' v='culture;objects_of_utility;learning_opportunities;participation' />
-  </node>
-  <node id='-41621' action='modify' visible='true' lat='52.48700251877' lon='13.35880679335'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='6' />
-    <tag k='addr:postcode' v='10827' />
-    <tag k='addr:street' v='Crellestraße' />
-    <tag k='club' v='yes' />
-    <tag k='contact:email' v='info@netz-bb.de' />
-    <tag k='contact:website' v='http://netz-bb.de' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='NETZ für Selbstverwaltung und Kooperation Berlin-Brandenburg' />
-    <tag k='operator' v='NETZ für Selbstverwaltung und Kooperation Berlin-Brandenburg e.V.' />
-    <tag k='source' v='Solikon 2015' />
-    <tag k='topic' v='housing;participation;telecommunication' />
-  </node>
-  <node id='-41619' action='modify' visible='true' lat='52.50661295337' lon='13.39166129921'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:postcode' v='10923' />
-    <tag k='addr:street' v='Rudi-Dutschke-Straße' />
-    <tag k='contact:email' v='geno@taz.de' />
-    <tag k='contact:phone' v='+49 30 25902213' />
-    <tag k='contact:website' v='http://www.taz.de/!p4271/' />
-    <tag k='description' v='publishing cooperative' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='TAZ Genossenschaft' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41617' action='modify' visible='true' lat='52.49925505724' lon='13.40054738597'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='4' />
-    <tag k='addr:postcode' v='10969' />
-    <tag k='addr:street' v='Alexandrinenstraße' />
-    <tag k='contact:email' v='repaircafe@kunst-stoffe-berlin.de' />
-    <tag k='contact:website' v='http://repaircafe.org/de/geschehen/repair-cafe-berlin-kreuzberg/' />
-    <tag k='identity' v='subsistence_economy;degrowth' />
-    <tag k='interaction' v='diy_and_dit' />
-    <tag k='mode_of_organisation:purpose' v='non_profit' />
-    <tag k='name' v='Repair Café Kreuzberg' />
-    <tag k='opening_hours' v='Mo[1] 16:00-20:00' />
-    <tag k='provides' v='objects_of_utility;learning_opportunities' />
-    <tag k='source' v='Solikon 2015' />
-    <tag k='website' v='https://www.kunst-stoffe-berlin.de/repair-cafe-de' />
-  </node>
-  <node id='-41615' action='modify' visible='true' lat='52.50349713814' lon='13.41914961477'>
+  <node id='-214' action='modify' visible='true' lat='52.51632432089' lon='13.46810063902'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='36' />
-    <tag k='addr:postcode' v='10999' />
-    <tag k='addr:street' v='Waldemarstraße' />
+    <tag k='addr:postcode' v='10247' />
+    <tag k='addr:street' v='Voigtstraße' />
+    <tag k='contact:email' v='info@spentcollective.de' />
+    <tag k='contact:facebook' v='https://www.facebook.com/spentcollective' />
+    <tag k='contact:phone' v='+49 178 7108005' />
+    <tag k='contact:twitter' v='https://twitter.com/SpentCollectiv1' />
+    <tag k='contact:website' v='http://spentcollective.de' />
+    <tag k='contact:youtube' v='https://www.youtube.com/channel/UC5VBMoJZeelRRLxcL_qA9hA' />
+    <tag k='description' v='brewers&apos; collective;beverage collective' />
+    <tag k='diet:vegan' v='yes' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Spent Brewers Collective' />
+    <tag k='office' v='company' />
+    <tag k='provides' v='food+drink' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-212' action='modify' visible='true' lat='52.51368060973' lon='13.46059887437'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='10247' />
+    <tag k='addr:street' v='Kreutzigerstraße' />
+    <tag k='contact:email' v='buero@sogeg.de' />
+    <tag k='contact:fax' v='+49 30 293 65 718' />
+    <tag k='contact:phone' v='+49 30 54719690' />
+    <tag k='contact:website' v='http://sogeg.de' />
+    <tag k='craft' v='metal_construction' />
+    <tag k='identity' v='commons;solidarity_economy;subsistence_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='SOG - Selbstverwaltete Ostberliner GenossInnenschaft eG' />
+    <tag k='office' v='yes' />
+    <tag k='provides' v='housing' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-210' action='modify' visible='true' lat='52.48226214775' lon='13.46552209711'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='12435' />
+    <tag k='addr:street' v='Karpfenteichstraße' />
+    <tag k='contact:email' v='netzwerk@werkstatt-lastenrad.de' />
+    <tag k='contact:website' v='http://werkstatt-lastenrad.de' />
+    <tag k='identity' v='commons;p2p_economy' />
+    <tag k='interaction' v='diy_and_dit' />
+    <tag k='name' v='Wikiprojekt Werkstatt-Lastenrad' />
+    <tag k='opening_hours' v='Mo,We 16:00-22:00' />
+    <tag k='operator' v='Berliner Lastenrad-Netzwerk' />
+    <tag k='service:bicycle:diy' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-208' action='modify' visible='true' lat='52.4593596289' lon='13.53435136693'>
     <tag k='club' v='yes' />
-    <tag k='contact:email' v='heilehaus@gmx.de' />
-    <tag k='contact:phone' v='+49 30 6154747' />
-    <tag k='contact:website' v='http://heilehaus-berlin.de' />
-    <tag k='identity' v='solidarity_economy;p2p_economy' />
-    <tag k='name' v='Heilehaus' />
-    <tag k='operator' v='Heilehaus e.V.' />
-    <tag k='provides' v='health;learning_opportunities' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41613' action='modify' visible='true' lat='52.50680218573' lon='13.4304244572'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='26-29' />
-    <tag k='addr:postcode' v='10997' />
-    <tag k='addr:street' v='Köpeniker Straße' />
-    <tag k='contact:email' v='info@gekko-berlin.de' />
-    <tag k='contact:phone' v='+49 30 220128050' />
-    <tag k='contact:website' v='http://gekko-berlin.de' />
-    <tag k='fair_trade' v='only' />
-    <tag k='identity' v='solidarity_economy' />
+    <tag k='contact:email' v='berlin-brandenburg@syndikat.org' />
+    <tag k='contact:website' v='http://syndikat.blogsport.eu/' />
+    <tag k='description' v='advice centre;self help contact point' />
+    <tag k='identity' v='solidarity_economy;subsistence_economy' />
     <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Gekko Getränkekollektiv' />
-    <tag k='shop' v='beverages' />
+    <tag k='name' v='Mietshäusersyndikat Berlin-Brandenburg' />
+    <tag k='note' v='Sitz' />
     <tag k='source' v='Solikon 2015' />
+    <tag k='topic' v='housing' />
   </node>
-  <node id='-41611' action='modify' visible='true' lat='52.50931427586' lon='13.44620389375'>
+  <node id='-206' action='modify' visible='true' lat='52.41911009731' lon='13.4979200705'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='19' />
-    <tag k='addr:postcode' v='10243' />
-    <tag k='addr:street' v='Helsingforser Straße' />
-    <tag k='contact:email' v='bella@gleisbeet.de' />
-    <tag k='contact:website' v='http://gleisbeet.de' />
-    <tag k='garden:type' v='community' />
-    <tag k='identity' v='commons;permaculture;subsistence_economy' />
-    <tag k='leisure' v='garden' />
-    <tag k='name' v='GleisBeet' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41609' action='modify' visible='true' lat='52.50928620542' lon='13.45267449212'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='59a' />
-    <tag k='addr:postcode' v='10243' />
-    <tag k='addr:street' v='Warschauer Straße' />
-    <tag k='contact:email' v='info@fahrwerk-berlin.de' />
-    <tag k='contact:phone' v='+49 30 40585100' />
-    <tag k='contact:website' v='http://fahrwerk-berlin.de' />
-    <tag k='description' v='environmentally friendly courier collective' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Fahrwerk' />
-    <tag k='office' v='company' />
-    <tag k='source' v='Solikon 2015' />
-    <tag k='start_date' v='2009' />
-  </node>
-  <node id='-41607' action='modify' visible='true' lat='52.4985581154' lon='13.44808881705'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='27b' />
+    <tag k='addr:housenumber' v='174' />
     <tag k='addr:postcode' v='10997' />
-    <tag k='addr:street' v='Schlesische Straße' />
-    <tag k='contact:email' v='info@cucula.org' />
-    <tag k='contact:phone' v='+49 30 61776730' />
-    <tag k='contact:website' v='http://cucula.org' />
-    <tag k='description' v='woodwork collective with refugees' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='cucula' />
-    <tag k='office' v='company' />
-    <tag k='operator' v='CUCULA e. V.' />
-    <tag k='provides' v='learning_opportunities;community' />
-    <tag k='social_facility:for' v='refugees' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41605' action='modify' visible='true' lat='52.49772204834' lon='13.4427727141'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='20a' />
-    <tag k='addr:postcode' v='10997' />
-    <tag k='addr:street' v='Cuvrystraße' />
-    <tag k='contact:phone' v='+40 30 6126337' />
-    <tag k='description' v='taxi collective' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='Kreuzberger Taxi-Genossenschaft' />
-    <tag k='office' v='company' />
-    <tag k='provides' v='mobility' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41603' action='modify' visible='true' lat='52.4923586636' lon='13.43663469709'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='21' />
-    <tag k='addr:postcode' v='10999' />
-    <tag k='addr:street' v='Glogauer Straße' />
-    <tag k='contact:email' v='email@fairmondo.de' />
-    <tag k='contact:phone' v='+49 30 89615845' />
-    <tag k='contact:website' v='https://fairmondo.de' />
-    <tag k='description' v='consumer cooperative;online platform' />
-    <tag k='identity' v='solidarity_economy;economy_for_the_common_good' />
-    <tag k='name' v='Fairmondo' />
-    <tag k='office' v='company' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41601' action='modify' visible='true' lat='52.49525286452' lon='13.43217337414'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='121' />
-    <tag k='addr:postcode' v='10999' />
-    <tag k='addr:street' v='Reichenberger Straße' />
-    <tag k='amenity' v='doctors' />
-    <tag k='contact:phone' v='+49 30 6126643' />
-    <tag k='contact:website' v='http://praxiskollektiv.de/' />
-    <tag k='description' v='naturopathic practice' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='mode_of_organisation:decision_making' v='by_vote' />
-    <tag k='mode_of_organisation:hierarchy_chef' v='flat_hierarchy' />
-    <tag k='mode_of_organisation:members' v='closed' />
-    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='addr:street' v='Köpenicker Straße' />
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:email' v='office@forumkreuzberg.de' />
+    <tag k='contact:phone' v='+49 30 6110890' />
+    <tag k='contact:website' v='http://www.forumkreuzberg.de' />
+    <tag k='description' v='housing cooperative' />
+    <tag k='identity' v='economy_for_the_common_good' />
     <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='praxiskollektiv: reiche121' />
-    <tag k='opening_hours' v='Mo 08:00-11:30,14:00-17:30; Tu 08:00-11:30,14:00-15:00; Th 08:00-11:30,14:00-17:30; Fr 08:00-11:30' />
+    <tag k='name' v='Forum Kreuzberg' />
+    <tag k='provides' v='housing' />
     <tag k='source' v='Solikon 2015' />
-    <tag k='start_date' v='1979' />
   </node>
-  <node id='-41599' action='modify' visible='true' lat='52.49737898078' lon='13.42857290069'>
+  <node id='-204' action='modify' visible='true' lat='52.49201087253' lon='13.38833497783'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='2a' />
+    <tag k='addr:postcode' v='10961' />
+    <tag k='addr:street' v='Gneisenaustraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='mail@netzwerk-selbsthilfe.de' />
+    <tag k='contact:phone' v='+49 30 6913072' />
+    <tag k='contact:website' v='http://netzwerk-selbsthilfe.de' />
+    <tag k='description' v='Advice centre;Self help contact point;project funding' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='name' v='Netzwerk Selbsthilfe e.V.' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-202' action='modify' visible='true' lat='52.49160246188' lon='13.38759860932'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='10961' />
+    <tag k='addr:street' v='Mehringdamm' />
+    <tag k='charity' v='yes' />
+    <tag k='contact:email' v='buero@buechertisch.org' />
+    <tag k='contact:phone' v='+49 30 61209996' />
+    <tag k='contact:website' v='http://buechertisch.org' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Berliner Büchertisch' />
+    <tag k='shop' v='books' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-200' action='modify' visible='true' lat='52.47514633125' lon='13.45252968191'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10' />
-    <tag k='addr:postcode' v='10999' />
-    <tag k='addr:street' v='Lausitzer Straße' />
+    <tag k='addr:postcode' v='12055' />
+    <tag k='addr:street' v='Mareschstraße' />
     <tag k='club' v='yes' />
-    <tag k='contact:email' v='post@umbruch-bildarchiv.de' />
-    <tag k='contact:phone' v='+49 30 6123037' />
-    <tag k='contact:website' v='http://umbruch-bildarchiv.de' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='interaction' v='cousing' />
-    <tag k='main tag' v='media platform;political work;anti-racism' />
-    <tag k='name' v='Umbruch-Bildarchiv' />
-    <tag k='operator' v='Umbruch Bildarchiv e.V.' />
-    <tag k='provides' v='culture;learning_opportunities;participation' />
+    <tag k='contact:email' v='email@trial-error.org' />
+    <tag k='contact:website' v='http://trial-error.org/' />
+    <tag k='description' v='DIY, handicraft, open-source, upcycling' />
+    <tag k='identity' v='p2p_economy;demonetized_economy' />
+    <tag k='interaction' v='bartering;diy_and_dit' />
+    <tag k='name' v='Trial &amp; Error Kulturlabor' />
+    <tag k='operator' v='Kulturlabor Trial&amp;Error e.V.' />
+    <tag k='provides' v='food+drink;culture;spaces;learning_opportunities;participation' />
     <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='http://kulturlabortrialerror.jimdo.com' />
   </node>
-  <node id='-41597' action='modify' visible='true' lat='52.50100964783' lon='13.4305677782'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='15' />
-    <tag k='addr:postcode' v='10997' />
-    <tag k='addr:street' v='Lausitzer Platz' />
-    <tag k='contact:email' v='info@hinkelstein-druck.de' />
-    <tag k='contact:phone' v='+49 30 4224853' />
-    <tag k='contact:website' v='http://hinkelstein-druck.de' />
-    <tag k='craft' v='printing' />
-    <tag k='description' v='printing cooperative' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='Hinkelsteindruck' />
-    <tag k='office' v='company' />
-    <tag k='organic' v='only' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41595' action='modify' visible='true' lat='52.5007703343' lon='13.42061594773'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='183' />
-    <tag k='addr:postcode' v='10999' />
-    <tag k='addr:street' v='Oranienstraße' />
-    <tag k='contact:email' v='info@ecobasa.org' />
-    <tag k='contact:website' v='http://ecobasa.org' />
-    <tag k='description' v='Postanschrift' />
-    <tag k='identity' v='demonetized_economy;p2p_economy' />
-    <tag k='name' v='Ecobasa' />
-    <tag k='office' v='yes' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41593' action='modify' visible='true' lat='52.50078998703' lon='13.42065307911'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='183' />
-    <tag k='addr:postcode' v='10999' />
-    <tag k='addr:street' v='Oranienstraße' />
-    <tag k='contact:email' v='info@fairbindung.org' />
-    <tag k='contact:phone' v='+49 30 577044752' />
-    <tag k='contact:website' v='http://fairbindung.org' />
-    <tag k='fair_trade' v='only' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Fairbindung' />
-    <tag k='office' v='company' />
-    <tag k='operator' v='Verein FairBindung e.V.' />
-    <tag k='provides' v='learning_opportunities' />
-    <tag k='shop' v='coffee' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41591' action='modify' visible='true' lat='52.50075706585' lon='13.42065631106'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='183' />
-    <tag k='addr:postcode' v='10999' />
-    <tag k='addr:street' v='Oranienstraße' />
-    <tag k='contact:email' v='info@quartiermeister.org' />
-    <tag k='contact:phone' v='+49 178 1897899;+49 176 55167588' />
-    <tag k='contact:website' v='http://quartiermeister.org/de/' />
-    <tag k='description' v='sozial verträgliches Bier' />
-    <tag k='identity' v='economy_for_the_common_good' />
-    <tag k='mode_of_organisation:purpose' v='non_profit' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Quartiermeister' />
-    <tag k='office' v='company' />
-    <tag k='regional' v='yes' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41589' action='modify' visible='true' lat='52.49152154084' lon='13.40995963394'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='11' />
-    <tag k='addr:postcode' v='10967' />
-    <tag k='addr:street' v='Freiligrathstraße' />
-    <tag k='contact:email' v='office@martinakolarek.com' />
-    <tag k='contact:phone' v='+49 30 61655752' />
-    <tag k='contact:website' v='http://die-boden-schafft.de/activities.aspx' />
-    <tag k='description' v='consulting service' />
-    <tag k='identity' v='economy_for_the_common_good' />
-    <tag k='name' v='Die Boden schafft Berlin' />
-    <tag k='office' v='company' />
-    <tag k='provides' v='learning_opportunities' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41587' action='modify' visible='true' lat='52.49017160459' lon='13.42541106749'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='25' />
-    <tag k='addr:postcode' v='12047' />
-    <tag k='addr:street' v='Lenaustraße' />
-    <tag k='contact:email' v='info@chasinho.org' />
-    <tag k='contact:website' v='http://chasinho.org/' />
-    <tag k='fair_trade' v='only' />
-    <tag k='identity' v='economy_for_the_common_good' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Chasino' />
-    <tag k='organic' v='only' />
-    <tag k='shop' v='tea' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41585' action='modify' visible='true' lat='52.49018462994' lon='13.42548849416'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='25' />
-    <tag k='addr:postcode' v='12047' />
-    <tag k='addr:street' v='Lenaustraße' />
-    <tag k='club' v='yes' />
-    <tag k='contact:email' v='info@die-dezentrale.org' />
-    <tag k='contact:facebook' v='https://www.facebook.com/diedezentrale' />
-    <tag k='contact:google_plus' v='https://plus.google.com/115002760022100564436' />
-    <tag k='contact:phone' v='+49 30 6162144' />
-    <tag k='contact:twitter' v='https://twitter.com/fastlinemedia' />
-    <tag k='contact:website' v='http://die-dezentrale.org' />
-    <tag k='description' v='network and sustainable business incubator' />
-    <tag k='identity' v='economy_for_the_common_good;commons' />
-    <tag k='name' v='Die Dezentrale' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41583' action='modify' visible='true' lat='52.49123932154' lon='13.42819378547'>
-    <tag k='access' v='public' />
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='11' />
-    <tag k='addr:postcode' v='12047' />
-    <tag k='addr:street' v='Pflügerstraße' />
-    <tag k='contact:email' v='druckerei@sdw-neukoelln.de' />
-    <tag k='contact:phone' v='+49 30 51059745' />
-    <tag k='contact:website' v='http://sdw-neukoelln.de' />
-    <tag k='fair_trade' v='yes' />
-    <tag k='fee' v='yes' />
-    <tag k='identity' v='solidarity_economy;p2p_economy' />
-    <tag k='interaction' v='diy_and_dit;buying_and_selling' />
-    <tag k='name' v='Siebdruckwerkstatt Neukölln' />
-    <tag k='opening_hours' v='Tu 11:00-19:00 We-Fr 10:00-19:00' />
-    <tag k='organic' v='yes' />
-    <tag k='provides' v='culture;spaces;objects_of_utility;learning_opportunities' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41581' action='modify' visible='true' lat='52.48745093367' lon='13.42816210664'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='3a' />
-    <tag k='addr:postcode' v='12047' />
-    <tag k='addr:street' v='Friedelstraße' />
-    <tag k='contact:email' v='friedelpraxis@gmx.de' />
-    <tag k='contact:phone' v='+49 30 42027404' />
-    <tag k='contact:website' v='http://shiatsu-tcm-praxis.de' />
-    <tag k='health_facility:type' v='office' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='massage' v='shiatsu' />
-    <tag k='medical_system:chinese' v='yes' />
-    <tag k='name' v='Friedelpraxis' />
-    <tag k='office' v='therapist' />
-    <tag k='provides' v='health' />
-    <tag k='shop' v='massage' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41579' action='modify' visible='true' lat='52.48526449571' lon='13.4272548377'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='17' />
-    <tag k='addr:postcode' v='12043' />
-    <tag k='addr:street' v='Karl-Marx-Straße' />
-    <tag k='contact:email' v='metallbau@drittwerk.de' />
-    <tag k='contact:fax' v='+49 30 6941700' />
-    <tag k='contact:phone' v='+49 30 6927144' />
-    <tag k='contact:website' v='http://drittwerk.de' />
-    <tag k='craft' v='metal_construction' />
-    <tag k='description' v='metallworking collective' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='Drittwerk' />
-    <tag k='official_name' v='drittwerk GmbH' />
-    <tag k='source' v='Solikon 2015' />
-  </node>
-  <node id='-41577' action='modify' visible='true' lat='52.47821367611' lon='13.4430391238'>
+  <node id='-198' action='modify' visible='true' lat='52.47821367611' lon='13.4430391238'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='79' />
@@ -784,157 +382,559 @@
     <tag k='provides' v='food+drink;culture;spaces' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41575' action='modify' visible='true' lat='52.47514633125' lon='13.45252968191'>
+  <node id='-196' action='modify' visible='true' lat='52.48526449571' lon='13.4272548377'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='12043' />
+    <tag k='addr:street' v='Karl-Marx-Straße' />
+    <tag k='contact:email' v='metallbau@drittwerk.de' />
+    <tag k='contact:fax' v='+49 30 6941700' />
+    <tag k='contact:phone' v='+49 30 6927144' />
+    <tag k='contact:website' v='http://drittwerk.de' />
+    <tag k='craft' v='metal_construction' />
+    <tag k='description' v='metallworking collective' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Drittwerk' />
+    <tag k='official_name' v='drittwerk GmbH' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-194' action='modify' visible='true' lat='52.48745093367' lon='13.42816210664'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='3a' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Friedelstraße' />
+    <tag k='contact:email' v='friedelpraxis@gmx.de' />
+    <tag k='contact:phone' v='+49 30 42027404' />
+    <tag k='contact:website' v='http://shiatsu-tcm-praxis.de' />
+    <tag k='health_facility:type' v='office' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='massage' v='shiatsu' />
+    <tag k='medical_system:chinese' v='yes' />
+    <tag k='name' v='Friedelpraxis' />
+    <tag k='office' v='therapist' />
+    <tag k='provides' v='health' />
+    <tag k='shop' v='massage' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-192' action='modify' visible='true' lat='52.49123932154' lon='13.42819378547'>
+    <tag k='access' v='public' />
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Pflügerstraße' />
+    <tag k='contact:email' v='druckerei@sdw-neukoelln.de' />
+    <tag k='contact:phone' v='+49 30 51059745' />
+    <tag k='contact:website' v='http://sdw-neukoelln.de' />
+    <tag k='fair_trade' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='identity' v='solidarity_economy;p2p_economy' />
+    <tag k='interaction' v='diy_and_dit;buying_and_selling' />
+    <tag k='name' v='Siebdruckwerkstatt Neukölln' />
+    <tag k='opening_hours' v='Tu 11:00-19:00 We-Fr 10:00-19:00' />
+    <tag k='organic' v='yes' />
+    <tag k='provides' v='culture;spaces;objects_of_utility;learning_opportunities' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-190' action='modify' visible='true' lat='52.49018462994' lon='13.42548849416'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Lenaustraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='info@die-dezentrale.org' />
+    <tag k='contact:facebook' v='https://www.facebook.com/diedezentrale' />
+    <tag k='contact:google_plus' v='https://plus.google.com/115002760022100564436' />
+    <tag k='contact:phone' v='+49 30 6162144' />
+    <tag k='contact:twitter' v='https://twitter.com/fastlinemedia' />
+    <tag k='contact:website' v='http://die-dezentrale.org' />
+    <tag k='description' v='network and sustainable business incubator' />
+    <tag k='identity' v='economy_for_the_common_good;commons' />
+    <tag k='name' v='Die Dezentrale' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-188' action='modify' visible='true' lat='52.49017160459' lon='13.42541106749'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='12047' />
+    <tag k='addr:street' v='Lenaustraße' />
+    <tag k='contact:email' v='info@chasinho.org' />
+    <tag k='contact:website' v='http://chasinho.org/' />
+    <tag k='fair_trade' v='only' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Chasino' />
+    <tag k='organic' v='only' />
+    <tag k='shop' v='tea' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-186' action='modify' visible='true' lat='52.49152154084' lon='13.40995963394'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='10967' />
+    <tag k='addr:street' v='Freiligrathstraße' />
+    <tag k='contact:email' v='office@martinakolarek.com' />
+    <tag k='contact:phone' v='+49 30 61655752' />
+    <tag k='contact:website' v='http://die-boden-schafft.de/activities.aspx' />
+    <tag k='description' v='consulting service' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='name' v='Die Boden schafft Berlin' />
+    <tag k='office' v='company' />
+    <tag k='provides' v='learning_opportunities' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-184' action='modify' visible='true' lat='52.50075706585' lon='13.42065631106'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='contact:email' v='info@quartiermeister.org' />
+    <tag k='contact:phone' v='+49 178 1897899;+49 176 55167588' />
+    <tag k='contact:website' v='http://quartiermeister.org/de/' />
+    <tag k='description' v='sozial verträgliches Bier' />
+    <tag k='identity' v='economy_for_the_common_good' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Quartiermeister' />
+    <tag k='office' v='company' />
+    <tag k='regional' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-182' action='modify' visible='true' lat='52.50078998703' lon='13.42065307911'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='contact:email' v='info@fairbindung.org' />
+    <tag k='contact:phone' v='+49 30 577044752' />
+    <tag k='contact:website' v='http://fairbindung.org' />
+    <tag k='fair_trade' v='only' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Fairbindung' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='Verein FairBindung e.V.' />
+    <tag k='provides' v='learning_opportunities' />
+    <tag k='shop' v='coffee' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-180' action='modify' visible='true' lat='52.5007703343' lon='13.42061594773'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Oranienstraße' />
+    <tag k='contact:email' v='info@ecobasa.org' />
+    <tag k='contact:website' v='http://ecobasa.org' />
+    <tag k='description' v='Postanschrift' />
+    <tag k='identity' v='demonetized_economy;p2p_economy' />
+    <tag k='name' v='Ecobasa' />
+    <tag k='office' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-178' action='modify' visible='true' lat='52.50100964783' lon='13.4305677782'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Lausitzer Platz' />
+    <tag k='contact:email' v='info@hinkelstein-druck.de' />
+    <tag k='contact:phone' v='+49 30 4224853' />
+    <tag k='contact:website' v='http://hinkelstein-druck.de' />
+    <tag k='craft' v='printing' />
+    <tag k='description' v='printing cooperative' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Hinkelsteindruck' />
+    <tag k='office' v='company' />
+    <tag k='organic' v='only' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-176' action='modify' visible='true' lat='52.49737898078' lon='13.42857290069'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10' />
-    <tag k='addr:postcode' v='12055' />
-    <tag k='addr:street' v='Mareschstraße' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Lausitzer Straße' />
     <tag k='club' v='yes' />
-    <tag k='contact:email' v='email@trial-error.org' />
-    <tag k='contact:website' v='http://trial-error.org/' />
-    <tag k='identity' v='p2p_economy;demonetized_economy' />
-    <tag k='interaction' v='bartering;diy_and_dit' />
-    <tag k='main tag' v='DIY, handicraft, open-source, upcycling' />
-    <tag k='name' v='Trial &amp; Error Kulturlabor' />
-    <tag k='operator' v='Kulturlabor Trial&amp;Error e.V.' />
-    <tag k='provides' v='food+drink;culture;spaces;learning_opportunities;participation' />
-    <tag k='source' v='Solikon 2015' />
-    <tag k='website' v='http://kulturlabortrialerror.jimdo.com' />
-  </node>
-  <node id='-41573' action='modify' visible='true' lat='52.49160246188' lon='13.38759860932'>
-    <tag k='addr:city' v='Berlin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='51' />
-    <tag k='addr:postcode' v='10961' />
-    <tag k='addr:street' v='Mehringdamm' />
-    <tag k='charity' v='yes' />
-    <tag k='contact:email' v='buero@buechertisch.org' />
-    <tag k='contact:phone' v='+49 30 61209996' />
-    <tag k='contact:website' v='http://buechertisch.org' />
+    <tag k='contact:email' v='post@umbruch-bildarchiv.de' />
+    <tag k='contact:phone' v='+49 30 6123037' />
+    <tag k='contact:website' v='http://umbruch-bildarchiv.de' />
+    <tag k='description' v='media platform;political work;anti-racism' />
     <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='Berliner Büchertisch' />
-    <tag k='shop' v='books' />
+    <tag k='interaction' v='cousing' />
+    <tag k='name' v='Umbruch-Bildarchiv' />
+    <tag k='operator' v='Umbruch Bildarchiv e.V.' />
+    <tag k='provides' v='culture;learning_opportunities;participation' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41571' action='modify' visible='true' lat='52.49201087253' lon='13.38833497783'>
+  <node id='-174' action='modify' visible='true' lat='52.49525286452' lon='13.43217337414'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='2a' />
-    <tag k='addr:postcode' v='10961' />
-    <tag k='addr:street' v='Gneisenaustraße' />
-    <tag k='club' v='yes' />
-    <tag k='contact:email' v='mail@netzwerk-selbsthilfe.de' />
-    <tag k='contact:phone' v='+49 30 6913072' />
-    <tag k='contact:website' v='http://netzwerk-selbsthilfe.de' />
-    <tag k='identity' v='economy_for_the_common_good' />
-    <tag k='main tag' v='Advice centre;Self help contact point;project funding' />
-    <tag k='name' v='Netzwerk Selbsthilfe e.V.' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Reichenberger Straße' />
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:phone' v='+49 30 6126643' />
+    <tag k='contact:website' v='http://praxiskollektiv.de/' />
+    <tag k='description' v='naturopathic practice' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:decision_making' v='by_vote' />
+    <tag k='mode_of_organisation:hierarchy_chef' v='flat_hierarchy' />
+    <tag k='mode_of_organisation:members' v='closed' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='praxiskollektiv: reiche121' />
+    <tag k='opening_hours' v='Mo 08:00-11:30,14:00-17:30; Tu 08:00-11:30,14:00-15:00; Th 08:00-11:30,14:00-17:30; Fr 08:00-11:30' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='start_date' v='1979' />
+  </node>
+  <node id='-172' action='modify' visible='true' lat='52.4923586636' lon='13.43663469709'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Glogauer Straße' />
+    <tag k='contact:email' v='email@fairmondo.de' />
+    <tag k='contact:phone' v='+49 30 89615845' />
+    <tag k='contact:website' v='https://fairmondo.de' />
+    <tag k='description' v='consumer cooperative;online platform' />
+    <tag k='identity' v='solidarity_economy;economy_for_the_common_good' />
+    <tag k='name' v='Fairmondo' />
+    <tag k='office' v='company' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41569' action='modify' visible='true' lat='52.41911009731' lon='13.4979200705'>
+  <node id='-170' action='modify' visible='true' lat='52.49772204834' lon='13.4427727141'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='174' />
+    <tag k='addr:housenumber' v='20a' />
     <tag k='addr:postcode' v='10997' />
-    <tag k='addr:street' v='Köpenicker Straße' />
-    <tag k='amenity' v='theatre' />
-    <tag k='contact:email' v='office@forumkreuzberg.de' />
-    <tag k='contact:phone' v='+49 30 6110890' />
-    <tag k='contact:website' v='http://www.forumkreuzberg.de' />
-    <tag k='description' v='housing cooperative' />
-    <tag k='identity' v='economy_for_the_common_good' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Forum Kreuzberg' />
-    <tag k='provides' v='housing' />
+    <tag k='addr:street' v='Cuvrystraße' />
+    <tag k='contact:phone' v='+40 30 6126337' />
+    <tag k='description' v='taxi collective' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Kreuzberger Taxi-Genossenschaft' />
+    <tag k='office' v='company' />
+    <tag k='provides' v='mobility' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41567' action='modify' visible='true' lat='52.4593596289' lon='13.53435136693'>
-    <tag k='club' v='yes' />
-    <tag k='contact:email' v='berlin-brandenburg@syndikat.org' />
-    <tag k='contact:website' v='http://syndikat.blogsport.eu/' />
-    <tag k='description' v='advice centre;self help contact point' />
-    <tag k='identity' v='solidarity_economy;subsistence_economy' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Mietshäusersyndikat Berlin-Brandenburg' />
-    <tag k='note' v='Sitz' />
-    <tag k='source' v='Solikon 2015' />
-    <tag k='topic' v='housing' />
-  </node>
-  <node id='-41565' action='modify' visible='true' lat='52.48226214775' lon='13.46552209711'>
+  <node id='-168' action='modify' visible='true' lat='52.4985581154' lon='13.44808881705'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='13' />
-    <tag k='addr:postcode' v='12435' />
-    <tag k='addr:street' v='Karpfenteichstraße' />
-    <tag k='contact:email' v='netzwerk@werkstatt-lastenrad.de' />
-    <tag k='contact:website' v='http://werkstatt-lastenrad.de' />
-    <tag k='identity' v='commons;p2p_economy' />
-    <tag k='interaction' v='diy_and_dit' />
-    <tag k='name' v='Wikiprojekt Werkstatt-Lastenrad' />
-    <tag k='opening_hours' v='Mo,We 16:00-22:00' />
-    <tag k='operator' v='Berliner Lastenrad-Netzwerk' />
-    <tag k='service:bicycle:diy' v='yes' />
+    <tag k='addr:housenumber' v='27b' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Schlesische Straße' />
+    <tag k='contact:email' v='info@cucula.org' />
+    <tag k='contact:phone' v='+49 30 61776730' />
+    <tag k='contact:website' v='http://cucula.org' />
+    <tag k='description' v='woodwork collective with refugees' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='cucula' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='CUCULA e. V.' />
+    <tag k='provides' v='learning_opportunities;community' />
+    <tag k='social_facility:for' v='refugees' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41563' action='modify' visible='true' lat='52.51368060973' lon='13.46059887437'>
+  <node id='-166' action='modify' visible='true' lat='52.50928620542' lon='13.45267449212'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:postcode' v='10247' />
-    <tag k='addr:street' v='Kreutzigerstraße' />
-    <tag k='contact:email' v='buero@sogeg.de' />
-    <tag k='contact:fax' v='+49 30 293 65 718' />
-    <tag k='contact:phone' v='+49 30 54719690' />
-    <tag k='contact:website' v='http://sogeg.de' />
-    <tag k='craft' v='metal_construction' />
-    <tag k='identity' v='commons;solidarity_economy;subsistence_economy' />
+    <tag k='addr:housenumber' v='59a' />
+    <tag k='addr:postcode' v='10243' />
+    <tag k='addr:street' v='Warschauer Straße' />
+    <tag k='contact:email' v='info@fahrwerk-berlin.de' />
+    <tag k='contact:phone' v='+49 30 40585100' />
+    <tag k='contact:website' v='http://fahrwerk-berlin.de' />
+    <tag k='description' v='environmentally friendly courier collective' />
+    <tag k='identity' v='solidarity_economy' />
     <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='SOG - Selbstverwaltete Ostberliner GenossInnenschaft eG' />
-    <tag k='office' v='yes' />
-    <tag k='provides' v='housing' />
+    <tag k='name' v='Fahrwerk' />
+    <tag k='office' v='company' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='start_date' v='2009' />
+  </node>
+  <node id='-164' action='modify' visible='true' lat='52.50931427586' lon='13.44620389375'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='10243' />
+    <tag k='addr:street' v='Helsingforser Straße' />
+    <tag k='contact:email' v='bella@gleisbeet.de' />
+    <tag k='contact:website' v='http://gleisbeet.de' />
+    <tag k='garden:type' v='community' />
+    <tag k='identity' v='commons;permaculture;subsistence_economy' />
+    <tag k='leisure' v='garden' />
+    <tag k='name' v='GleisBeet' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41561' action='modify' visible='true' lat='52.51632432089' lon='13.46810063902'>
+  <node id='-162' action='modify' visible='true' lat='52.50680218573' lon='13.4304244572'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='26-29' />
+    <tag k='addr:postcode' v='10997' />
+    <tag k='addr:street' v='Köpeniker Straße' />
+    <tag k='contact:email' v='info@gekko-berlin.de' />
+    <tag k='contact:phone' v='+49 30 220128050' />
+    <tag k='contact:website' v='http://gekko-berlin.de' />
+    <tag k='fair_trade' v='only' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Gekko Getränkekollektiv' />
+    <tag k='shop' v='beverages' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-160' action='modify' visible='true' lat='52.50349713814' lon='13.41914961477'>
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='36' />
-    <tag k='addr:postcode' v='10247' />
-    <tag k='addr:street' v='Voigtstraße' />
-    <tag k='contact:email' v='info@spentcollective.de' />
-    <tag k='contact:facebook' v='https://www.facebook.com/spentcollective' />
-    <tag k='contact:phone' v='+49 178 7108005' />
-    <tag k='contact:twitter' v='https://twitter.com/SpentCollectiv1' />
-    <tag k='contact:website' v='http://spentcollective.de' />
-    <tag k='contact:youtube' v='https://www.youtube.com/channel/UC5VBMoJZeelRRLxcL_qA9hA' />
-    <tag k='description' v='brewers&apos; collective;beverage collective' />
-    <tag k='diet:vegan' v='yes' />
-    <tag k='identity' v='solidarity_economy' />
-    <tag k='name' v='Spent Brewers Collective' />
-    <tag k='office' v='company' />
-    <tag k='provides' v='food+drink' />
+    <tag k='addr:postcode' v='10999' />
+    <tag k='addr:street' v='Waldemarstraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='heilehaus@gmx.de' />
+    <tag k='contact:phone' v='+49 30 6154747' />
+    <tag k='contact:website' v='http://heilehaus-berlin.de' />
+    <tag k='identity' v='solidarity_economy;p2p_economy' />
+    <tag k='name' v='Heilehaus' />
+    <tag k='operator' v='Heilehaus e.V.' />
+    <tag k='provides' v='health;learning_opportunities' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41559' action='modify' visible='true' lat='52.45790229958' lon='13.70443330206'>
-    <tag k='addr:city' v='Schöneiche' />
+  <node id='-158' action='modify' visible='true' lat='52.49925505724' lon='13.40054738597'>
+    <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='39' />
-    <tag k='addr:postcode' v='15566' />
-    <tag k='addr:street' v='Bismarckstraße' />
-    <tag k='contact:email' v='heikemeves@arcor.de' />
-    <tag k='contact:phone' v='+49 30 64095979' />
-    <tag k='contact:website' v='http://wohnprojekt-schoeneiche.de' />
-    <tag k='identity' v='commons;transition initiative' />
-    <tag k='name' v='Wohnprojekt Schöneiche' />
-    <tag k='provides' v='housing;learning_opportunities;community;participation' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='10969' />
+    <tag k='addr:street' v='Alexandrinenstraße' />
+    <tag k='contact:email' v='repaircafe@kunst-stoffe-berlin.de' />
+    <tag k='contact:website' v='http://repaircafe.org/de/geschehen/repair-cafe-berlin-kreuzberg/' />
+    <tag k='identity' v='subsistence_economy;degrowth' />
+    <tag k='interaction' v='diy_and_dit' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='name' v='Repair Café Kreuzberg' />
+    <tag k='opening_hours' v='Mo[1] 16:00-20:00' />
+    <tag k='provides' v='objects_of_utility;learning_opportunities' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='website' v='https://www.kunst-stoffe-berlin.de/repair-cafe-de' />
+  </node>
+  <node id='-156' action='modify' visible='true' lat='52.50661295337' lon='13.39166129921'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='10923' />
+    <tag k='addr:street' v='Rudi-Dutschke-Straße' />
+    <tag k='contact:email' v='geno@taz.de' />
+    <tag k='contact:phone' v='+49 30 25902213' />
+    <tag k='contact:website' v='http://www.taz.de/!p4271/' />
+    <tag k='description' v='publishing cooperative' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='TAZ Genossenschaft' />
     <tag k='source' v='Solikon 2015' />
   </node>
-  <node id='-41557' action='modify' visible='true' lat='52.48577921014' lon='14.05383460216' />
-  <node id='-41555' action='modify' visible='true' lat='52.48635262817' lon='14.05517570779' />
-  <node id='-41553' action='modify' visible='true' lat='52.48670023016' lon='14.055262473' />
-  <node id='-41551' action='modify' visible='true' lat='52.48691713242' lon='14.05448615264' />
-  <node id='-41549' action='modify' visible='true' lat='52.48776526558' lon='14.05328970596' />
-  <node id='-41547' action='modify' visible='true' lat='52.48714095023' lon='14.05271869033' />
+  <node id='-154' action='modify' visible='true' lat='52.48700251877' lon='13.35880679335'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='10827' />
+    <tag k='addr:street' v='Crellestraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='info@netz-bb.de' />
+    <tag k='contact:website' v='http://netz-bb.de' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='NETZ für Selbstverwaltung und Kooperation Berlin-Brandenburg' />
+    <tag k='operator' v='NETZ für Selbstverwaltung und Kooperation Berlin-Brandenburg e.V.' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='topic' v='housing;participation;telecommunication' />
+  </node>
+  <node id='-152' action='modify' visible='true' lat='52.48701943364' lon='13.32841087943'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='13189' />
+    <tag k='addr:street' v='Berliner Straße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='info@kunst-stoffe-berlin.de' />
+    <tag k='contact:phone' v='+49 30 34089840' />
+    <tag k='contact:website' v='http://kunst-stoffe-berlin.de' />
+    <tag k='identity' v='economy_for_the_common_good;degrowth' />
+    <tag k='name' v='Kunst-Stoffe Berlin' />
+    <tag k='note' v='Postanschrift' />
+    <tag k='operator' v='Zentralstelle für wiederverwendbare Materialien - e.V.' />
+    <tag k='source' v='Solikon 2015' />
+    <tag k='topic' v='culture;objects_of_utility;learning_opportunities;participation' />
+  </node>
+  <node id='-150' action='modify' visible='true' lat='52.5231469' lon='13.2008561'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='10405' />
+    <tag k='addr:street' v='Wörther Straße' />
+    <tag k='contact:email' v='info@weltladen-zeichenderzeit.de' />
+    <tag k='contact:phone' v='+49 30 65075586' />
+    <tag k='contact:website' v='http://weltladen-zeichenderzeit.de/' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='name' v='Weltladen Prenzlauer Berg' />
+    <tag k='shop' v='fairtrade' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-148' action='modify' visible='true' lat='52.39926795595' lon='13.0518973753'>
+    <tag k='addr:city' v='Potsdam' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='14467' />
+    <tag k='addr:street' v='Lindenstraße' />
+    <tag k='amenity' v='fablab' />
+    <tag k='contact:email' v='info@wissenschaftsladen-potsdam.de' />
+    <tag k='contact:phone' v='+49 331 23538069' />
+    <tag k='contact:website' v='http://wissenschaftsladen-potsdam.de' />
+    <tag k='identity' v='commons;p2p_economy' />
+    <tag k='name' v='Wissenschaftsladen Potsdam' />
+    <tag k='operator' v='Wissenschaftsladen Potsdam e.V.' />
+    <tag k='provides' v='culture;spaces;learning_opportunities;participation' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-146' action='modify' visible='true' lat='52.92015471811' lon='12.26079054647' />
+  <node id='-144' action='modify' visible='true' lat='52.91999510787' lon='12.26093987852' />
+  <node id='-142' action='modify' visible='true' lat='52.9198518674' lon='12.2610009689' />
+  <node id='-140' action='modify' visible='true' lat='52.91964723734' lon='12.2610009689' />
+  <node id='-138' action='modify' visible='true' lat='52.9194548842' lon='12.26125890608' />
+  <node id='-136' action='modify' visible='true' lat='52.91907836069' lon='12.26032897467' />
+  <node id='-134' action='modify' visible='true' lat='52.91945079157' lon='12.25973843428' />
+  <node id='-132' action='modify' visible='true' lat='52.91834986025' lon='12.25732197015' />
+  <node id='-130' action='modify' visible='true' lat='52.91986414517' lon='12.25649385604' />
+  <node id='-128' action='modify' visible='true' lat='52.92042482643' lon='12.25755275605' />
+  <node id='-126' action='modify' visible='true' lat='52.92042891896' lon='12.25819081118' />
+  <node id='-124' action='modify' visible='true' lat='52.92063354533' lon='12.25910716696' />
+  <node id='-122' action='modify' visible='true' lat='53.0706371259' lon='12.0830404758'>
+    <tag k='addr:city' v='Reckenthin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='16928' />
+    <tag k='addr:street' v='Gross Pankower Weg' />
+    <tag k='contact:email' v='corinna@akademie-suffizienz.de' />
+    <tag k='contact:phone' v='+49 176 20362434' />
+    <tag k='contact:website' v='http://akademie-suffizienz.de' />
+    <tag k='identity' v='commons;demonetized_economy;subsistence_economy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Akademie für Suffizienz' />
+    <tag k='provides' v='housing;spaces;learning_opportunities;community;participation' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-120' action='modify' visible='true' lat='52.9790682847' lon='13.7593460083'>
+    <tag k='addr:city' v='Joachimsthal' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='16247' />
+    <tag k='addr:street' v='Grimnitzer Straße' />
+    <tag k='contact:email' v='info@kommunitaet-grimnitz.de' />
+    <tag k='contact:phone' v='+49 33361 70626' />
+    <tag k='contact:website' v='http://kommunitaet-grimnitz.de' />
+    <tag k='denomination' v='lutheran' />
+    <tag k='identity' v='commons;solidarity_economy' />
+    <tag k='name' v='Kommunität Grimnitz' />
+    <tag k='operator' v='Kommunität Grimnitz e.V.' />
+    <tag k='provides' v='housing;spirituality' />
+    <tag k='religion' v='christian' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-118' action='modify' visible='true' lat='53.09315333354' lon='13.50155419188' />
+  <node id='-116' action='modify' visible='true' lat='53.09286188473' lon='13.50170691784' />
+  <node id='-114' action='modify' visible='true' lat='53.0925928533' lon='13.50212776272' />
+  <node id='-112' action='modify' visible='true' lat='53.0921016628' lon='13.50121480085' />
+  <node id='-110' action='modify' visible='true' lat='53.09185708453' lon='13.50209721753' />
+  <node id='-108' action='modify' visible='true' lat='53.09175313834' lon='13.50217188355' />
+  <node id='-106' action='modify' visible='true' lat='53.09166957357' lon='13.50209721753' />
+  <node id='-104' action='modify' visible='true' lat='53.09146983275' lon='13.50228388259' />
+  <node id='-102' action='modify' visible='true' lat='53.09087264291' lon='13.50211758099' />
+  <node id='-100' action='modify' visible='true' lat='53.09079926748' lon='13.5009025611' />
+  <node id='-98' action='modify' visible='true' lat='53.0903141712' lon='13.4992191816' />
+  <node id='-96' action='modify' visible='true' lat='53.08986575801' lon='13.49844537006' />
+  <node id='-94' action='modify' visible='true' lat='53.08927466075' lon='13.49736610658' />
+  <node id='-92' action='modify' visible='true' lat='53.09111722678' lon='13.49689095914' />
+  <node id='-90' action='modify' visible='true' lat='53.09145964187' lon='13.49754937774' />
+  <node id='-88' action='modify' visible='true' lat='53.09116614339' lon='13.49805846428' />
+  <node id='-86' action='modify' visible='true' lat='53.09156155059' lon='13.49914451557' />
+  <node id='-84' action='modify' visible='true' lat='53.09187542795' lon='13.49961287519' />
+  <node id='-82' action='modify' visible='true' lat='53.09334695229' lon='13.50135055726' />
+  <node id='-80' action='modify' visible='true' lat='53.32886139775' lon='13.88945390012' />
+  <node id='-78' action='modify' visible='true' lat='53.32780113676' lon='13.89062857581' />
+  <node id='-76' action='modify' visible='true' lat='53.32765511072' lon='13.89085713262' />
+  <node id='-74' action='modify' visible='true' lat='53.32791818432' lon='13.89152010363' />
+  <node id='-72' action='modify' visible='true' lat='53.32671504518' lon='13.89355585381' />
+  <node id='-70' action='modify' visible='true' lat='53.32581663684' lon='13.8930349569' />
+  <node id='-68' action='modify' visible='true' lat='53.32635631903' lon='13.89026038355' />
+  <node id='-66' action='modify' visible='true' lat='53.32690869256' lon='13.88728382978' />
+  <node id='-64' action='modify' visible='true' lat='53.32739698554' lon='13.8875290879' />
+  <node id='-62' action='modify' visible='true' lat='53.32778427322' lon='13.88703476736' />
+  <node id='-60' action='modify' visible='true' lat='53.3272079151' lon='13.88839244843'>
+    <tag k='addr:city' v='Prenzlau' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:postcode' v='17291' />
+    <tag k='addr:street' v='Brüssower Allee' />
+    <tag k='contact:email' v='info@hanffaser.de' />
+    <tag k='contact:phone' v='+49 3984 807 730' />
+    <tag k='contact:website' v='http://hanffaser.de/uckermark' />
+    <tag k='identity' v='solidarity_economy' />
+    <tag k='mode_of_organisation:hierarchy_chef' v='flat_hierarchy' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Hanffaser Uckermark eG' />
+    <tag k='office' v='company' />
+    <tag k='organic' v='only' />
+    <tag k='regional' v='yes' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-58' action='modify' visible='true' lat='52.55789325179' lon='13.38511924815'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='58D' />
+    <tag k='addr:postcode' v='13359' />
+    <tag k='addr:street' v='Prinzenallee' />
+    <tag k='contact:email' v='dagmarrehse@gmx.de' />
+    <tag k='contact:phone' v='+49 157 75348418' />
+    <tag k='contact:website' v='http://handgewebtinberlin.wordpress.com' />
+    <tag k='craft' v='weaver' />
+    <tag k='description' v='workshop for manufacture or repair of goods' />
+    <tag k='identity' v='p2p_economy' />
+    <tag k='interaction' v='diy_and_dit' />
+    <tag k='name' v='handgewebt in Berlin' />
+    <tag k='provides' v='objects_of_utility' />
+    <tag k='shop' v='fabric' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-56' action='modify' visible='true' lat='52.54081040812' lon='13.34780448636'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='13353' />
+    <tag k='addr:street' v='Föhrer Straße' />
+    <tag k='contact:email' v='info@lavidaver.de' />
+    <tag k='contact:website' v='http://lavidaver.de/' />
+    <tag k='description' v='collective housing project' />
+    <tag k='identity' v='solidarity_economy;subsistence_economy' />
+    <tag k='name' v='La vida verde' />
+    <tag k='provides' v='housing' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
+  <node id='-54' action='modify' visible='true' lat='52.4974278128' lon='13.36596183295'>
+    <tag k='addr:city' v='Berlin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:postcode' v='10783' />
+    <tag k='addr:street' v='Bülowstraße' />
+    <tag k='club' v='yes' />
+    <tag k='contact:email' v='garten@allmende-kontor.de;severinhalder@googlemail.com;gerda-muennich-im-allmende-kontor@gmx.de' />
+    <tag k='contact:website' v='http://allmende-kontor.de' />
+    <tag k='identity' v='commons' />
+    <tag k='name' v='Allmende-Kontor' />
+    <tag k='note' v='Vereinssitz Allmende-Kontor' />
+    <tag k='source' v='Solikon 2015' />
+  </node>
   <node id='164642935' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='6' changeset='1878356' lat='52.4996122' lon='13.4168615' />
   <node id='164642936' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='4' changeset='1878356' lat='52.5000184' lon='13.417144' />
   <node id='164642937' timestamp='2009-07-19T21:12:12Z' uid='67540' user='Cobra' visible='true' version='4' changeset='1878356' lat='52.5002499' lon='13.4181617' />
@@ -2031,92 +2031,15 @@
     <tag k='name' v='Leila - all-sharing-shop' />
     <tag k='provides' v='objects_of_utility;clothes' />
   </node>
-  <way id='-42015' action='modify' visible='true'>
-    <nd ref='-41713' />
-    <nd ref='-41711' />
-    <nd ref='-41709' />
-    <nd ref='-41707' />
-    <nd ref='-41705' />
-    <nd ref='-41703' />
-    <nd ref='-41701' />
-    <nd ref='-41699' />
-    <nd ref='-41697' />
-    <nd ref='-41695' />
-    <nd ref='-41713' />
-    <tag k='landuse' v='industrial' />
-  </way>
-  <way id='-42013' action='modify' visible='true'>
-    <nd ref='-41693' />
-    <nd ref='-41691' />
-    <nd ref='-41689' />
-    <nd ref='-41687' />
-    <nd ref='-41685' />
-    <nd ref='-41683' />
-    <nd ref='-41681' />
-    <nd ref='-41679' />
-    <nd ref='-41677' />
-    <nd ref='-41675' />
-    <nd ref='-41673' />
-    <nd ref='-41671' />
-    <nd ref='-41669' />
-    <nd ref='-41667' />
-    <nd ref='-41665' />
-    <nd ref='-41663' />
-    <nd ref='-41661' />
-    <nd ref='-41659' />
-    <nd ref='-41657' />
-    <nd ref='-41693' />
-    <tag k='addr:city' v='Templin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:postcode' v='17268' />
-    <tag k='addr:street' v='Karlshof' />
-    <tag k='contact:email' v='april-april@gegenseitig.de' />
-    <tag k='contact:website' v='http://gegenseitig.de/unsere-pag/april-april-auf-dem-karlshof.html' />
-    <tag k='identity' v='demonetized_economy;subsistence_economy' />
-    <tag k='landuse' v='farmyard' />
-    <tag k='mode_of_organisation:purpose' v='non_profit' />
-    <tag k='mode_of_organisation:self_managed' v='yes' />
-    <tag k='name' v='Projektehof Karlshof / Karla_hof' />
-    <tag k='source' v='Solikon 2015' />
-  </way>
-  <way id='-42011' action='modify' visible='true'>
-    <nd ref='-41651' />
-    <nd ref='-41649' />
-    <nd ref='-41647' />
-    <nd ref='-41645' />
-    <nd ref='-41643' />
-    <nd ref='-41641' />
-    <nd ref='-41639' />
-    <nd ref='-41637' />
-    <nd ref='-41635' />
-    <nd ref='-41633' />
-    <nd ref='-41631' />
-    <nd ref='-41629' />
-    <nd ref='-41651' />
-    <tag k='addr:city' v='Barenthin' />
-    <tag k='addr:country' v='DE' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:postcode' v='16866' />
-    <tag k='addr:street' v='Schönermarker Weg' />
-    <tag k='contact:email' v='oekohof-waldgarten@gmx.de' />
-    <tag k='contact:phone' v='+49 33972 41458' />
-    <tag k='contact:website' v='http://waldgarten.danasus.de/index.html' />
-    <tag k='farm_boxes' v='source' />
-    <tag k='identity' v='permaculture, solidarity_economy' />
-    <tag k='landuse' v='farmyard' />
-    <tag k='name' v='Ökohof Waldgarten' />
-    <tag k='organic' v='only' />
-    <tag k='source' v='Solikon 2015' />
-  </way>
-  <way id='-42009' action='modify' visible='true'>
-    <nd ref='-41557' />
-    <nd ref='-41555' />
-    <nd ref='-41553' />
-    <nd ref='-41551' />
-    <nd ref='-41549' />
-    <nd ref='-41547' />
+  <way id='-521' action='modify' visible='true'>
+    <nd ref='-218' />
+    <nd ref='-220' />
+    <nd ref='-222' />
+    <nd ref='-224' />
+    <nd ref='-226' />
+    <nd ref='-228' />
     <nd ref='1946240555' />
-    <nd ref='-41557' />
+    <nd ref='-218' />
     <tag k='addr:city' v='Müncheberg (Mark)' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2b' />
@@ -2132,6 +2055,83 @@
     <tag k='operator' v='Organischer Landbau in Bienenwerder e.V.' />
     <tag k='organic' v='only' />
     <tag k='source' v='Solikon 2015' />
+  </way>
+  <way id='-519' action='modify' visible='true'>
+    <nd ref='-124' />
+    <nd ref='-126' />
+    <nd ref='-128' />
+    <nd ref='-130' />
+    <nd ref='-132' />
+    <nd ref='-134' />
+    <nd ref='-136' />
+    <nd ref='-138' />
+    <nd ref='-140' />
+    <nd ref='-142' />
+    <nd ref='-144' />
+    <nd ref='-146' />
+    <nd ref='-124' />
+    <tag k='addr:city' v='Barenthin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='16866' />
+    <tag k='addr:street' v='Schönermarker Weg' />
+    <tag k='contact:email' v='oekohof-waldgarten@gmx.de' />
+    <tag k='contact:phone' v='+49 33972 41458' />
+    <tag k='contact:website' v='http://waldgarten.danasus.de/index.html' />
+    <tag k='farm_boxes' v='source' />
+    <tag k='identity' v='permaculture, solidarity_economy' />
+    <tag k='landuse' v='farmyard' />
+    <tag k='name' v='Ökohof Waldgarten' />
+    <tag k='organic' v='only' />
+    <tag k='source' v='Solikon 2015' />
+  </way>
+  <way id='-517' action='modify' visible='true'>
+    <nd ref='-82' />
+    <nd ref='-84' />
+    <nd ref='-86' />
+    <nd ref='-88' />
+    <nd ref='-90' />
+    <nd ref='-92' />
+    <nd ref='-94' />
+    <nd ref='-96' />
+    <nd ref='-98' />
+    <nd ref='-100' />
+    <nd ref='-102' />
+    <nd ref='-104' />
+    <nd ref='-106' />
+    <nd ref='-108' />
+    <nd ref='-110' />
+    <nd ref='-112' />
+    <nd ref='-114' />
+    <nd ref='-116' />
+    <nd ref='-118' />
+    <nd ref='-82' />
+    <tag k='addr:city' v='Templin' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:postcode' v='17268' />
+    <tag k='addr:street' v='Karlshof' />
+    <tag k='contact:email' v='april-april@gegenseitig.de' />
+    <tag k='contact:website' v='http://gegenseitig.de/unsere-pag/april-april-auf-dem-karlshof.html' />
+    <tag k='identity' v='demonetized_economy;subsistence_economy' />
+    <tag k='landuse' v='farmyard' />
+    <tag k='mode_of_organisation:purpose' v='non_profit' />
+    <tag k='mode_of_organisation:self_managed' v='yes' />
+    <tag k='name' v='Projektehof Karlshof / Karla_hof' />
+    <tag k='source' v='Solikon 2015' />
+  </way>
+  <way id='-515' action='modify' visible='true'>
+    <nd ref='-62' />
+    <nd ref='-64' />
+    <nd ref='-66' />
+    <nd ref='-68' />
+    <nd ref='-70' />
+    <nd ref='-72' />
+    <nd ref='-74' />
+    <nd ref='-76' />
+    <nd ref='-78' />
+    <nd ref='-80' />
+    <nd ref='-62' />
+    <tag k='landuse' v='industrial' />
   </way>
   <way id='37739079' action='modify' timestamp='2013-08-11T06:17:25Z' uid='39457' user='Markus59' visible='true' version='8' changeset='17299175'>
     <nd ref='442649196' />
@@ -2357,7 +2357,7 @@
     <nd ref='1946240616' />
     <nd ref='1946240608' />
     <nd ref='1946240632' />
-    <nd ref='-41547' />
+    <nd ref='-228' />
     <nd ref='1946240555' />
     <nd ref='1946240549' />
     <nd ref='1946240577' />
@@ -2558,10 +2558,10 @@
     <tag k='source' v='Solikon 2015' />
     <tag k='website' v='http://www.wukania.net' />
   </way>
-  <relation id='-42029' action='modify' visible='true'>
-    <member type='node' ref='-41593' role='' />
-    <member type='node' ref='-41591' role='' />
-    <member type='node' ref='-41595' role='' />
+  <relation id='-535' action='modify' visible='true'>
+    <member type='node' ref='-182' role='' />
+    <member type='node' ref='-184' role='' />
+    <member type='node' ref='-180' role='' />
     <tag k='addr:city' v='Berlin' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='183' />

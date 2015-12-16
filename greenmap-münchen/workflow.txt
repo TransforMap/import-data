@@ -1,0 +1,20 @@
+open csv in calc, charset UTF-8
+
+rename Column "Breitengrad" to "latitude"
+rename Column "Längengrad" to "longitude"
+  check if coordinates not swapped!
+
+unbedingt die enter in den feldern umwandeln, JOSM liest sonst die einträge nicht!
+
+Nach doppelten Koordinaten suchen, 1 Eintrag war zu mergen da doppelt
+
+Dann im JOSM tags verfeinern:
+  die ID bleibt derweil drauf, vor merge mit OSM weg!
+  place=town auf alle
+  be jedem einzelnen den main tag setzen
+    place auf city ändern, Icon und Primary Term löschen
+
+  beim mergen alle Straßennamen korrigieren!
+    hätte man ev. vorher mittels nominatim machen sollen...
+
+

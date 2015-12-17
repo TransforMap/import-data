@@ -197,7 +197,7 @@
     <tag k='addr:postcode' v='80997' />
     <tag k='addr:street' v='Zittauer Straße' />
     <tag k='contact:email' v='info@roswitha-schalk.com' />
-    <tag k='contact:phone' v='8912762435' />
+    <tag k='contact:phone' v='+49 8912762435' />
     <tag k='contact:website' v='http://www.roswitha-schalk.com/' />
     <tag k='name' v='Roswitha Schalk' />
     <tag k='office' v='consulting' />
@@ -2470,7 +2470,7 @@
     <tag k='addr:postcode' v='80336' />
     <tag k='addr:street' v='Schwanthalerstr.' />
     <tag k='contact:email' v='geschaeftsstelle@einewelthaus.de' />
-    <tag k='contact:fax' v='08985637512' />
+    <tag k='contact:fax' v='+49 8985637512' />
     <tag k='contact:phone' v='+49  8985637510' />
     <tag k='contact:website' v='http://www.einewelthaus.de/' />
     <tag k='fair_trade' v='yes' />
@@ -2501,8 +2501,8 @@
     <tag k='addr:postcode' v='80339' />
     <tag k='addr:street' v='Schwanthalerstraße' />
     <tag k='contact:email' v='info@textbau.com' />
-    <tag k='contact:fax' v='89 21 66 50 56' />
-    <tag k='contact:phone' v='89 21 66 50 55' />
+    <tag k='contact:fax' v='+49 89 21 66 50 56' />
+    <tag k='contact:phone' v='+49 89 21 66 50 55' />
     <tag k='contact:website' v='www.gruenundgloria.de/' />
     <tag k='name' v='text:bau Verlag' />
     <tag k='office' v='newspaper' />
@@ -2857,7 +2857,7 @@
     <tag k='addr:street' v='Pettenkoferstr' />
     <tag k='club' v='yes' />
     <tag k='contact:email' v='info@bn-muenchen.de' />
-    <tag k='contact:fax' v='08951 56 76 77' />
+    <tag k='contact:fax' v='+49 8951 56 76 77' />
     <tag k='contact:phone' v='+49 8951 56 76 0' />
     <tag k='contact:website' v='http://www.bn-muenchen.de/' />
     <tag k='name' v='Bund Naturschutz in Bayern e.V. (BN) Kreisgruppe München' />
@@ -2953,7 +2953,7 @@
     <tag k='addr:street' v='Blumenstraße' />
     <tag k='children' v='designated' />
     <tag k='contact:fax' v='+49 89 2 60 64 34' />
-    <tag k='contact:phone' v='089 26 88 38' />
+    <tag k='contact:phone' v='+49 89 26 88 38' />
     <tag k='contact:website' v='http://www.glockenbachwerkstatt.de/' />
     <tag k='name' v='Glockenbachwerkstatt e.V.' />
     <tag k='place' v='city' />
@@ -3269,7 +3269,7 @@
     <tag k='addr:street' v='Breisacherstraße' />
     <tag k='club' v='yes' />
     <tag k='contact:email' v='kontakt@vcd-m.org' />
-    <tag k='contact:fax' v='08920 15 313' />
+    <tag k='contact:fax' v='+49 8920 15 313' />
     <tag k='contact:phone' v='+49 8920 11 898' />
     <tag k='contact:website' v='http://vcd-m.org/' />
     <tag k='name' v='VCD Verkehrsclub Deutschland Kreisverband München' />
@@ -3491,7 +3491,7 @@
     <tag k='addr:street' v='Waltherstr.' />
     <tag k='club' v='yes' />
     <tag k='contact:email' v='info@oekom-verein.de' />
-    <tag k='contact:fax' v='08976 75 89 56' />
+    <tag k='contact:fax' v='+49 8976 75 89 56' />
     <tag k='contact:phone' v='+49 8954 41 84 11' />
     <tag k='contact:website' v='http://www.oekom-verein.de/' />
     <tag k='name' v='oekom e. V. - Verein für ökologische Kommunikation e. V.' />
@@ -3933,7 +3933,7 @@
     <tag k='addr:street' v='Rosenheimer Str' />
     <tag k='children' v='designated' />
     <tag k='contact:email' v='info@sternwarte-muenchen.de' />
-    <tag k='contact:fax' v='089 49 49 87' />
+    <tag k='contact:fax' v='+49 89 49 49 87' />
     <tag k='contact:phone' v='+49 89 40 62 39' />
     <tag k='contact:website' v='www.sternwarte-muenchen.de' />
     <tag k='man_made' v='observatory' />
@@ -4001,7 +4001,7 @@
     <tag k='addr:street' v='Thalkirchner Straße' />
     <tag k='club' v='yes' />
     <tag k='contact:email' v='paul.bickelbacher@fuss-ev.de' />
-    <tag k='contact:fax' v='08976 70 26 09' />
+    <tag k='contact:fax' v='+49 8976 70 26 09' />
     <tag k='contact:phone' v='+49 8976 70 26 13' />
     <tag k='contact:website' v='http://www.fuss-ev.de/' />
     <tag k='name' v='Fuss e.V. Fachverband Fußverkehr Deutschland' />
@@ -4429,7 +4429,7 @@
     <tag k='addr:street' v='Balanstraße' />
     <tag k='contact:email' v='post@klinglwirt.de' />
     <tag k='contact:fax' v='+49 8985676200' />
-    <tag k='contact:phone' v='89-85676199' />
+    <tag k='contact:phone' v='+49 89 85676199' />
     <tag k='contact:website' v='www.klinglwirt.de/' />
     <tag k='name' v='Klinglwirt' />
     <tag k='organic' v='only' />

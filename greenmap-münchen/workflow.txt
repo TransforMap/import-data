@@ -6,6 +6,8 @@ rename Column "Längengrad" to "longitude"
 
 unbedingt die enter in den feldern umwandeln, JOSM liest sonst die einträge nicht!
 
+Die Description hab ich derweil rausgenommen, da tw. sehr lang.
+
 Nach doppelten Koordinaten suchen, 1 Eintrag war zu mergen da doppelt
 
 Dann im JOSM tags verfeinern:
@@ -18,3 +20,31 @@ Dann im JOSM tags verfeinern:
     hätte man ev. vorher mittels nominatim machen sollen...
 
 
+Neuen Layer createn:
+  not_found - for POIs where the street or location hasn't been found und must be verified by creator
+  not_suitable - for pois that are not suitable for osm (events, birdwatching places, ...)
+
+
+Generiere neue Umap:
+  rechts unter den zeichen-dingern is der upload-knopf, uploade das GeoJSON
+
+  Edit link http://umap.openstreetmap.fr/en/map/anonymous-edit/63967%3A4HRQqYtepNvu2NxXByBvyNzbQdA
+   (links oben auf editieren klicken)
+
+
+Zeit für Erstkontrolle von 320 POIs: 9h
+  - POI auf plausibilität checken (Ort/Adresse/Luftbild)
+  - Typ setzen, "Icon" und "Primary_Term" löschen
+  - tags kontrollieren und ergänzen
+  - wenn fertig, place von town auf city ändern
+
+Es blieben 297 nodes, die nun map_export_ts_v2_bearb.osm drin sind. diese nun mit OSM mergen:
+
+weiter:
+  CTRL-SHIFT-D zum continous dl aktivieren drücken,
+    wenn daten da nochmal zum deaktivieren
+  daten händisch mergen
+    oder addresse C/P von existierender, damit abgekürzte Straße entfernt wird
+  place=* löschen
+  die ID derweil drauf lassen, nachher vor dem upload löschen - zwei dateien, eine mit ID, eine zum upload
+ 

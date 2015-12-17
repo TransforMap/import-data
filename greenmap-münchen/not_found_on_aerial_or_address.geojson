@@ -1,0 +1,229 @@
+
+{
+    "type":"FeatureCollection",
+    "crs":{
+        "type":"name",
+        "name":"EPSG:4326"
+    },
+    "generator":"JOSM",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:postcode":"80636",
+                "contact:fax":"+49 89 35 65 33 43",
+                "contact:phone":"+49 89 35 65 33 44",
+                "addr:street":"volkartstr",
+                "addr:city":"München",
+                "addr:housenumber":"46",
+                "contact:email":"info@projekt21plus.de",
+                "Site ID":"48716",
+                "wheelchair":"no",
+                "addr:country":"DE",
+                "name":"projekt21plus energie neu denken",
+                "contact:website":"http://www.projekt21plus.de",
+                "Primary Term":"Green Enterprise",
+                "place":"town",
+                "Icon":"Grünes Unternehmen"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.526768,
+                    48.15445900000001
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:postcode":"80799",
+                "contact:phone":"089 271 25 18",
+                "addr:street":"Zieblandstr",
+                "addr:city":"München",
+                "addr:housenumber":"11",
+                "contact:email":"info@naturkunstundspiel.de",
+                "Site ID":"48806",
+                "addr:country":"DE",
+                "name":"NaturKunst und Spiel",
+                "contact:website":"www.naturkunstundspiel.de",
+                "Primary Term":"Child Friendly Site",
+                "place":"town",
+                "Icon":"Kulturstätte, Kinderfreundlicher Ort"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.584396,
+                    48.16013099999999
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "shop":"bicycle",
+                "Site ID":"47676",
+                "addr:country":"DE",
+                "name":"Bike Kitchen",
+                "place":"town",
+                "addr:street":"Schuetzenstrasse",
+                "addr:city":"München",
+                "addr:housenumber":"8"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.562984377329999,
+                    48.140008142949995
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "topic":"environment",
+                "office":"ngo",
+                "addr:postcode":"80337",
+                "contact:fax":"+49 8976758956",
+                "contact:phone":"+49 8954 04 53 07",
+                "addr:street":"Walterstrasse",
+                "addr:city":"München",
+                "addr:housenumber":"29 Rgb",
+                "contact:email":"info@klimaherbst.de",
+                "Site ID":"51338",
+                "addr:country":"DE",
+                "name":"Netzwerk Klimaherbst e.V.",
+                "contact:website":"http://www.klimaherbst.de/",
+                "place":"city"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.540377000000001,
+                    48.138102
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:postcode":"85570",
+                "contact:fax":"+49 81211455",
+                "contact:phone":"812146483",
+                "addr:street":"Quellenweg",
+                "addr:city":"München",
+                "addr:housenumber":"20",
+                "contact:email":"reinhard@reinhard-witt.de",
+                "Site ID":"47972",
+                "addr:country":"DE",
+                "name":"Dr. Reinhard Witt - Naturnaher Grünplaner",
+                "contact:website":"www.naturgartenplaner.de/profil/",
+                "Primary Term":"Green Enterprise",
+                "place":"town",
+                "Icon":"Grünes Unternehmen, Regionaler Betrieb"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.613464,
+                    48.12307899999999
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:postcode":"81479",
+                "children":"designated",
+                "addr:street":"Wolfratshauser Straße",
+                "addr:city":"München",
+                "addr:housenumber":"350",
+                "Site ID":"47684",
+                "source":"BenE München",
+                "wheelchair":"yes",
+                "addr:country":"DE",
+                "name":"Gebrauchtwarenhaus Giesing -Wäscherei",
+                "Primary Term":"Reuse Shop/Market",
+                "place":"town",
+                "Icon":"Flohmarkt, Sozialverantwortliches Unternehmen, Wiederverwertung, Recycling",
+                "second_hand":"yes"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.514912461609775,
+                    48.0630302343866
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:postcode":"80331",
+                "Site ID":"48177",
+                "addr:country":"DE",
+                "name":"Soupmama",
+                "contact:phone":"+49 89 23077645",
+                "Primary Term":"Healthy Dining",
+                "place":"town",
+                "addr:street":"Blumenstraße",
+                "addr:city":"München",
+                "Icon":"Gesundes Essen",
+                "addr:housenumber":"1"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.575579330940002,
+                    48.13454685746999
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Site ID":"47574",
+                "addr:country":"DE",
+                "name":"Windkraftwerk",
+                "contact:website":"http://www.diemuenchner.de/Windkraft_Muenchen.html",
+                "Primary Term":"Wind Energy Site",
+                "place":"town",
+                "Icon":"Windenergie"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.607499,
+                    48.216782
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "addr:postcode":"80469",
+                "contact:fax":"+49 895404 13129",
+                "contact:phone":"+49 895404 131 13",
+                "addr:street":"Corneliusstr",
+                "addr:city":"München",
+                "addr:housenumber":"10",
+                "contact:email":"info@solarinitiative-muenchen.de",
+                "Site ID":"47968",
+                "addr:country":"DE",
+                "name":"Solarinitiative München GmbH & Co. KG",
+                "contact:website":"http://www.urbane-energie.eu/ueber-uns/ziele/",
+                "Primary Term":"Green Technology",
+                "place":"town",
+                "Icon":"Grüne Technologie"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    11.575014375100002,
+                    48.132208144
+                ]
+            }
+        }
+    ]
+}

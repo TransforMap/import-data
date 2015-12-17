@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-5665' visible='true' lat='48.06303023439' lon='11.51491246161'>
+    <tag k='Icon' v='Flohmarkt, Sozialverantwortliches Unternehmen, Wiederverwertung, Recycling' />
+    <tag k='Primary Term' v='Reuse Shop/Market' />
+    <tag k='Site ID' v='47684' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='350' />
+    <tag k='addr:postcode' v='81479' />
+    <tag k='addr:street' v='Wolfratshauser Straße' />
+    <tag k='children' v='designated' />
+    <tag k='name' v='Gebrauchtwarenhaus Giesing -Wäscherei' />
+    <tag k='place' v='town' />
+    <tag k='second_hand' v='yes' />
+    <tag k='source' v='BenE München' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='-3424' visible='true' lat='48.123079' lon='11.613464'>
+    <tag k='Icon' v='Grünes Unternehmen, Regionaler Betrieb' />
+    <tag k='Primary Term' v='Green Enterprise' />
+    <tag k='Site ID' v='47972' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='85570' />
+    <tag k='addr:street' v='Quellenweg' />
+    <tag k='contact:email' v='reinhard@reinhard-witt.de' />
+    <tag k='contact:fax' v='+49 81211455' />
+    <tag k='contact:phone' v='812146483' />
+    <tag k='contact:website' v='www.naturgartenplaner.de/profil/' />
+    <tag k='name' v='Dr. Reinhard Witt - Naturnaher Grünplaner' />
+    <tag k='place' v='town' />
+  </node>
+  <node id='-707' visible='true' lat='48.216782' lon='11.607499'>
+    <tag k='Icon' v='Windenergie' />
+    <tag k='Primary Term' v='Wind Energy Site' />
+    <tag k='Site ID' v='47574' />
+    <tag k='addr:country' v='DE' />
+    <tag k='contact:website' v='http://www.diemuenchner.de/Windkraft_Muenchen.html' />
+    <tag k='name' v='Windkraftwerk' />
+    <tag k='place' v='town' />
+  </node>
+  <node id='-705' visible='true' lat='48.14000814295' lon='11.56298437733'>
+    <tag k='Site ID' v='47676' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Schuetzenstrasse' />
+    <tag k='name' v='Bike Kitchen' />
+    <tag k='place' v='town' />
+    <tag k='shop' v='bicycle' />
+  </node>
+  <node id='-703' visible='true' lat='48.132208144' lon='11.5750143751'>
+    <tag k='Icon' v='Grüne Technologie' />
+    <tag k='Primary Term' v='Green Technology' />
+    <tag k='Site ID' v='47968' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='80469' />
+    <tag k='addr:street' v='Corneliusstr' />
+    <tag k='contact:email' v='info@solarinitiative-muenchen.de' />
+    <tag k='contact:fax' v='+49 895404 13129' />
+    <tag k='contact:phone' v='+49 895404 131 13' />
+    <tag k='contact:website' v='http://www.urbane-energie.eu/ueber-uns/ziele/' />
+    <tag k='name' v='Solarinitiative München GmbH &amp; Co. KG' />
+    <tag k='place' v='town' />
+  </node>
+  <node id='-701' visible='true' lat='48.13454685747' lon='11.57557933094'>
+    <tag k='Icon' v='Gesundes Essen' />
+    <tag k='Primary Term' v='Healthy Dining' />
+    <tag k='Site ID' v='48177' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='80331' />
+    <tag k='addr:street' v='Blumenstraße' />
+    <tag k='contact:phone' v='+49 89 23077645' />
+    <tag k='name' v='Soupmama' />
+    <tag k='place' v='town' />
+  </node>
+  <node id='-699' visible='true' lat='48.138102' lon='11.540377'>
+    <tag k='Site ID' v='51338' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='29 Rgb' />
+    <tag k='addr:postcode' v='80337' />
+    <tag k='addr:street' v='Walterstrasse' />
+    <tag k='contact:email' v='info@klimaherbst.de' />
+    <tag k='contact:fax' v='+49 8976758956' />
+    <tag k='contact:phone' v='+49 8954 04 53 07' />
+    <tag k='contact:website' v='http://www.klimaherbst.de/' />
+    <tag k='name' v='Netzwerk Klimaherbst e.V.' />
+    <tag k='office' v='ngo' />
+    <tag k='place' v='city' />
+    <tag k='topic' v='environment' />
+  </node>
+  <node id='-697' visible='true' lat='48.154459' lon='11.526768'>
+    <tag k='Icon' v='Grünes Unternehmen' />
+    <tag k='Primary Term' v='Green Enterprise' />
+    <tag k='Site ID' v='48716' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='80636' />
+    <tag k='addr:street' v='volkartstr' />
+    <tag k='contact:email' v='info@projekt21plus.de' />
+    <tag k='contact:fax' v='+49 89 35 65 33 43' />
+    <tag k='contact:phone' v='+49 89 35 65 33 44' />
+    <tag k='contact:website' v='http://www.projekt21plus.de' />
+    <tag k='name' v='projekt21plus energie neu denken' />
+    <tag k='place' v='town' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-695' visible='true' lat='48.160131' lon='11.584396'>
+    <tag k='Icon' v='Kulturstätte, Kinderfreundlicher Ort' />
+    <tag k='Primary Term' v='Child Friendly Site' />
+    <tag k='Site ID' v='48806' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='80799' />
+    <tag k='addr:street' v='Zieblandstr' />
+    <tag k='contact:email' v='info@naturkunstundspiel.de' />
+    <tag k='contact:phone' v='089 271 25 18' />
+    <tag k='contact:website' v='www.naturkunstundspiel.de' />
+    <tag k='name' v='NaturKunst und Spiel' />
+    <tag k='place' v='town' />
+  </node>
+</osm>

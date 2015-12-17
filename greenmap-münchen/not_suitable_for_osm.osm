@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-711' visible='true' lat='48.177782' lon='11.54917'>
+    <tag k='Icon' v='Wald/Naturpark, Beobachtung von Vögeln &amp; Wildtieren, Aktivitäten im Schnee, Sonnenaufgang/-untergang' />
+    <tag k='Primary Term' v='Sunrise/Sunset Site' />
+    <tag k='Site ID' v='47452' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='children' v='Kinder erwünscht' />
+    <tag k='name' v='Olympiaberg' />
+    <tag k='place' v='town' />
+  </node>
+  <node id='-709' visible='true' lat='48.209389' lon='11.706018'>
+    <tag k='Icon' v='Signifikanter Lebensraum, Lebensraum für Wildtiere' />
+    <tag k='Primary Term' v='Wildlife Habitat' />
+    <tag k='Site ID' v='51627' />
+    <tag k='addr:country' v='DE' />
+    <tag k='area' v='yes' />
+    <tag k='contact:email' v='info@birdinggermany.de' />
+    <tag k='contact:website' v='http://www.birdinggermany.de/Ismaninger.htm' />
+    <tag k='name' v='Ismaninger Speichersee bei München' />
+    <tag k='place' v='town' />
+  </node>
+</osm>

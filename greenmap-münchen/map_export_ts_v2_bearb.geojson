@@ -37,7 +37,7 @@
             "properties":{
                 "topic":"environment",
                 "addr:postcode":"80336",
-                "contact:fax":"08951 56 76 77",
+                "contact:fax":"+49 8951 56 76 77",
                 "contact:phone":"+49 8951 56 76 0",
                 "addr:street":"Pettenkoferstr",
                 "addr:city":"München",
@@ -1195,7 +1195,7 @@
             "properties":{
                 "office":"ngo",
                 "addr:postcode":"80336",
-                "contact:fax":"08985637512",
+                "contact:fax":"+49 8985637512",
                 "fair_trade":"yes",
                 "contact:phone":"+49  8985637510",
                 "addr:street":"Schwanthalerstr.",
@@ -2720,7 +2720,7 @@
             "properties":{
                 "topic":"environment",
                 "addr:postcode":"80337",
-                "contact:fax":"08976 75 89 56",
+                "contact:fax":"+49 8976 75 89 56",
                 "contact:phone":"+49 8954 41 84 11",
                 "addr:street":"Waltherstr.",
                 "addr:city":"München",
@@ -2928,8 +2928,8 @@
                 "topic":"environment",
                 "office":"newspaper",
                 "addr:postcode":"80339",
-                "contact:fax":"89 21 66 50 56",
-                "contact:phone":"89 21 66 50 55",
+                "contact:fax":"+49 89 21 66 50 56",
+                "contact:phone":"+49 89 21 66 50 55",
                 "addr:street":"Schwanthalerstraße",
                 "addr:city":"München",
                 "addr:housenumber":"155",
@@ -3083,7 +3083,7 @@
             "properties":{
                 "addr:postcode":"81669",
                 "contact:fax":"+49 8985676200",
-                "contact:phone":"89-85676199",
+                "contact:phone":"+49 89 85676199",
                 "addr:street":"Balanstraße",
                 "addr:city":"München",
                 "addr:housenumber":"16",
@@ -3755,7 +3755,7 @@
             "properties":{
                 "topic":"mobility",
                 "addr:postcode":"81667",
-                "contact:fax":"08920 15 313",
+                "contact:fax":"+49 8920 15 313",
                 "contact:phone":"+49 8920 11 898",
                 "addr:street":"Breisacherstraße",
                 "addr:city":"München",
@@ -6104,7 +6104,7 @@
             "properties":{
                 "addr:postcode":"80331",
                 "contact:fax":"+49 89 2 60 64 34",
-                "contact:phone":"089 26 88 38",
+                "contact:phone":"+49 89 26 88 38",
                 "children":"designated",
                 "addr:street":"Blumenstraße",
                 "addr:city":"München",
@@ -6231,7 +6231,7 @@
                 "topic":"environment",
                 "office":"consulting",
                 "addr:postcode":"80997",
-                "contact:phone":"8912762435",
+                "contact:phone":"+49 8912762435",
                 "addr:street":"Zittauer Straße",
                 "addr:city":"München",
                 "addr:housenumber":"32a",
@@ -7433,7 +7433,7 @@
             "properties":{
                 "topic":"mobility",
                 "addr:postcode":"80337",
-                "contact:fax":"08976 70 26 09",
+                "contact:fax":"+49 8976 70 26 09",
                 "contact:phone":"+49 8976 70 26 13",
                 "addr:street":"Thalkirchner Straße",
                 "addr:city":"München",
@@ -7565,7 +7565,7 @@
             "type":"Feature",
             "properties":{
                 "addr:postcode":"81671",
-                "contact:fax":"089 49 49 87",
+                "contact:fax":"+49 89 49 49 87",
                 "contact:phone":"+49 89 40 62 39",
                 "children":"designated",
                 "observatory:type":"astronomical",

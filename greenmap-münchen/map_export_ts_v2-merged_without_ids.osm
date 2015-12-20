@@ -785,7 +785,10 @@
   <bounds minlat='48.1416208' minlon='11.5829331' maxlat='48.1424414' maxlon='11.5902194' origin='CGImap 0.4.0 (8686 thorn-02.openstreetmap.org)' />
   <bounds minlat='48.1380727' minlon='11.5887251' maxlat='48.1416208' maxlon='11.5902194' origin='CGImap 0.4.0 (8693 thorn-02.openstreetmap.org)' />
   <bounds minlat='48.1375376' minlon='11.585355' maxlat='48.139169' maxlon='11.5889982' origin='CGImap 0.4.0 (15734 thorn-02.openstreetmap.org)' />
-  <node id='-15888' action='modify' visible='true' lat='48.0630975862' lon='11.67925042182'>
+  <bounds minlat='48.213421' minlon='11.6291356' maxlat='48.2150224' maxlon='11.6319036' origin='CGImap 0.4.0 (13531 thorn-03.openstreetmap.org)' />
+  <bounds minlat='48.1520938' minlon='11.5696442' maxlat='48.1530744' maxlon='11.5709317' origin='CGImap 0.4.0 (13543 thorn-03.openstreetmap.org)' />
+  <bounds minlat='48.1397344' minlon='11.5624559' maxlat='48.140232' maxlon='11.563223' origin='CGImap 0.4.0 (26133 thorn-01.openstreetmap.org)' />
+  <node id='-457' action='modify' visible='true' lat='48.0630975862' lon='11.67925042182'>
     <tag k='addr:city' v='Ottobrunn' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:postcode' v='85521' />
@@ -800,7 +803,7 @@
     <tag k='regional' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15886' action='modify' visible='true' lat='48.07305041363' lon='11.66501150554'>
+  <node id='-455' action='modify' visible='true' lat='48.07305041363' lon='11.66501150554'>
     <tag k='addr:city' v='Neubiberg' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='6' />
@@ -814,7 +817,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15884' action='modify' visible='true' lat='48.07369409157' lon='11.88722685648'>
+  <node id='-453' action='modify' visible='true' lat='48.07369409157' lon='11.88722685648'>
     <tag k='addr:city' v='Kirchseeon' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2' />
@@ -829,7 +832,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15882' action='modify' visible='true' lat='48.087146' lon='11.605103'>
+  <node id='-451' action='modify' visible='true' lat='48.087146' lon='11.605103'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='11' />
@@ -843,7 +846,7 @@
     <tag k='social_facility:for' v='migrant' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15880' action='modify' visible='true' lat='48.09566525068' lon='11.52390282004'>
+  <node id='-449' action='modify' visible='true' lat='48.09566525068' lon='11.52390282004'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='70  Haus 60  3. Stock' />
@@ -856,7 +859,7 @@
     <tag k='name' v='PLATFORM' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15878' action='modify' visible='true' lat='48.09525714523' lon='11.58370227407'>
+  <node id='-447' action='modify' visible='true' lat='48.09525714523' lon='11.58370227407'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='25' />
@@ -871,7 +874,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='food+drink' />
   </node>
-  <node id='-15876' action='modify' visible='true' lat='48.097186' lon='11.54485'>
+  <node id='-445' action='modify' visible='true' lat='48.097186' lon='11.54485'>
     <tag k='addr:city' v='München – Thalkirchen' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='22' />
@@ -886,7 +889,7 @@
     <tag k='provides' v='culture' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15874' action='modify' visible='true' lat='48.09776242287' lon='11.58160311111'>
+  <node id='-443' action='modify' visible='true' lat='48.09776242287' lon='11.58160311111'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:postcode' v='81547' />
@@ -901,7 +904,7 @@
     <tag k='regional' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15872' action='modify' visible='true' lat='48.099937' lon='11.640626'>
+  <node id='-441' action='modify' visible='true' lat='48.099937' lon='11.640626'>
     <tag k='access:description' v='you need a card to rent a car' />
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
@@ -917,7 +920,7 @@
     <tag k='name' v='Stadtteilauto München' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15870' action='modify' visible='true' lat='48.10183882239' lon='11.41992115167'>
+  <node id='-439' action='modify' visible='true' lat='48.10183882239' lon='11.41992115167'>
     <tag k='addr:city' v='Krailling' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='3' />
@@ -933,7 +936,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='learning_opportunities;environment' />
   </node>
-  <node id='-15868' action='modify' visible='true' lat='48.102889' lon='11.601412'>
+  <node id='-437' action='modify' visible='true' lat='48.102889' lon='11.601412'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='20' />
@@ -948,7 +951,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility' />
   </node>
-  <node id='-15866' action='modify' visible='true' lat='48.10333075869' lon='11.48506043842'>
+  <node id='-435' action='modify' visible='true' lat='48.10333075869' lon='11.48506043842'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='16' />
@@ -964,7 +967,7 @@
     <tag k='topic' v='environment' />
     <tag k='wheelchair' v='no' />
   </node>
-  <node id='-15864' action='modify' visible='true' lat='48.10347541258' lon='11.63861213952'>
+  <node id='-433' action='modify' visible='true' lat='48.10347541258' lon='11.63861213952'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='12' />
@@ -979,7 +982,7 @@
     <tag k='operator' v='Verein für Gemeinwesenarbeit ZAK-Stadtteilbüro' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15862' action='modify' visible='true' lat='48.10432649265' lon='11.5397045307'>
+  <node id='-431' action='modify' visible='true' lat='48.10432649265' lon='11.5397045307'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='4a' />
@@ -992,7 +995,7 @@
     <tag k='name' v='Stadtimker' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15860' action='modify' visible='true' lat='48.10480219551' lon='11.60019637778'>
+  <node id='-429' action='modify' visible='true' lat='48.10480219551' lon='11.60019637778'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='30' />
@@ -1004,7 +1007,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15858' action='modify' visible='true' lat='48.10699274382' lon='11.54580928837'>
+  <node id='-427' action='modify' visible='true' lat='48.10699274382' lon='11.54580928837'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='207' />
@@ -1018,7 +1021,7 @@
     <tag k='source' v='BenE München' />
     <tag k='sport' v='climbing' />
   </node>
-  <node id='-15856' action='modify' visible='true' lat='48.10976815932' lon='11.72478934101'>
+  <node id='-425' action='modify' visible='true' lat='48.10976815932' lon='11.72478934101'>
     <tag k='addr:city' v='Haar' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='1' />
@@ -1032,7 +1035,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15854' action='modify' visible='true' lat='48.11206896407' lon='11.5718873086'>
+  <node id='-423' action='modify' visible='true' lat='48.11206896407' lon='11.5718873086'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='60' />
@@ -1047,7 +1050,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15852' action='modify' visible='true' lat='48.11271373794' lon='11.60420113971'>
+  <node id='-421' action='modify' visible='true' lat='48.11271373794' lon='11.60420113971'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='9' />
@@ -1059,14 +1062,14 @@
     <tag k='name' v='Die Honigpumpe' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15850' action='modify' visible='true' lat='48.11273060866' lon='11.54915331856'>
+  <node id='-419' action='modify' visible='true' lat='48.11273060866' lon='11.54915331856'>
     <tag k='addr:country' v='DE' />
     <tag k='amenity' v='marketplace' />
     <tag k='food' v='yes' />
     <tag k='name' v='Wochenmarkt Untersendling' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15848' action='modify' visible='true' lat='48.11349226014' lon='11.58456672794'>
+  <node id='-417' action='modify' visible='true' lat='48.11349226014' lon='11.58456672794'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='36' />
@@ -1079,7 +1082,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15846' action='modify' visible='true' lat='48.11584766266' lon='11.5895343109'>
+  <node id='-415' action='modify' visible='true' lat='48.11584766266' lon='11.5895343109'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8' />
@@ -1094,7 +1097,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15844' action='modify' visible='true' lat='48.11636824778' lon='11.57242812883'>
+  <node id='-413' action='modify' visible='true' lat='48.11636824778' lon='11.57242812883'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='11' />
@@ -1109,7 +1112,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15842' action='modify' visible='true' lat='48.11744518795' lon='11.5540576099'>
+  <node id='-411' action='modify' visible='true' lat='48.11744518795' lon='11.5540576099'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10' />
@@ -1125,7 +1128,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='food+drink' />
   </node>
-  <node id='-15840' action='modify' visible='true' lat='48.11739353091' lon='11.55398394127'>
+  <node id='-409' action='modify' visible='true' lat='48.11739353091' lon='11.55398394127'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10 / Kontorhaus 1' />
@@ -1141,7 +1144,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15838' action='modify' visible='true' lat='48.117338' lon='11.483315'>
+  <node id='-407' action='modify' visible='true' lat='48.117338' lon='11.483315'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='30' />
@@ -1155,7 +1158,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='learning_opportunities;environment' />
   </node>
-  <node id='-15836' action='modify' visible='true' lat='48.1174863386' lon='11.35617472656'>
+  <node id='-405' action='modify' visible='true' lat='48.1174863386' lon='11.35617472656'>
     <tag k='addr:city' v='Germering' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='18' />
@@ -1168,7 +1171,7 @@
     <tag k='office' v='consulting' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15834' action='modify' visible='true' lat='48.11520032572' lon='11.56980257652'>
+  <node id='-403' action='modify' visible='true' lat='48.11520032572' lon='11.56980257652'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='12' />
@@ -1182,7 +1185,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='participation' />
   </node>
-  <node id='-15832' action='modify' visible='true' lat='48.118996' lon='11.550261'>
+  <node id='-401' action='modify' visible='true' lat='48.118996' lon='11.550261'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='48' />
@@ -1197,7 +1200,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15830' action='modify' visible='true' lat='48.119466' lon='11.576807'>
+  <node id='-399' action='modify' visible='true' lat='48.119466' lon='11.576807'>
     <tag k='access:description' v='you need a card to rent a car' />
     <tag k='amenity' v='car_sharing' />
     <tag k='contact:email' v='info@stadtteilauto.de' />
@@ -1208,7 +1211,7 @@
     <tag k='name' v='Stadtteilauto Kolumbusplatz' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15828' action='modify' visible='true' lat='48.12059550866' lon='11.54484406678'>
+  <node id='-397' action='modify' visible='true' lat='48.12059550866' lon='11.54484406678'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='16' />
@@ -1224,7 +1227,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='housing' />
   </node>
-  <node id='-15826' action='modify' visible='true' lat='48.12098751045' lon='11.55719618591'>
+  <node id='-395' action='modify' visible='true' lat='48.12098751045' lon='11.55719618591'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='73' />
@@ -1239,7 +1242,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility' />
   </node>
-  <node id='-15824' action='modify' visible='true' lat='48.12126074328' lon='11.48029049003'>
+  <node id='-393' action='modify' visible='true' lat='48.12126074328' lon='11.48029049003'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8' />
@@ -1254,7 +1257,7 @@
     <tag k='production_input:money:crowdfunding' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15822' action='modify' visible='true' lat='48.12185396844' lon='11.53357754318'>
+  <node id='-391' action='modify' visible='true' lat='48.12185396844' lon='11.53357754318'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='25' />
@@ -1268,7 +1271,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15820' action='modify' visible='true' lat='48.12191247703' lon='11.53423648409'>
+  <node id='-389' action='modify' visible='true' lat='48.12191247703' lon='11.53423648409'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='23' />
@@ -1284,7 +1287,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15818' action='modify' visible='true' lat='48.12311770768' lon='11.55934828931'>
+  <node id='-387' action='modify' visible='true' lat='48.12311770768' lon='11.55934828931'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2' />
@@ -1298,7 +1301,7 @@
     <tag k='social_facility:for' v='underprivileged' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15816' action='modify' visible='true' lat='48.12333135213' lon='11.53697578982'>
+  <node id='-385' action='modify' visible='true' lat='48.12333135213' lon='11.53697578982'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='1' />
@@ -1312,7 +1315,7 @@
     <tag k='office' v='advertising_agency' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15814' action='modify' visible='true' lat='48.12498826726' lon='11.5489903007'>
+  <node id='-383' action='modify' visible='true' lat='48.12498826726' lon='11.5489903007'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='88' />
@@ -1326,7 +1329,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment;energy' />
   </node>
-  <node id='-15812' action='modify' visible='true' lat='48.124985' lon='11.5655'>
+  <node id='-381' action='modify' visible='true' lat='48.124985' lon='11.5655'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='20' />
@@ -1337,7 +1340,7 @@
     <tag k='office' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15810' action='modify' visible='true' lat='48.12510492523' lon='11.60426124344'>
+  <node id='-379' action='modify' visible='true' lat='48.12510492523' lon='11.60426124344'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10' />
@@ -1352,7 +1355,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='culture' />
   </node>
-  <node id='-15808' action='modify' visible='true' lat='48.12598689731' lon='11.74173164662'>
+  <node id='-377' action='modify' visible='true' lat='48.12598689731' lon='11.74173164662'>
     <tag k='addr:city' v='Haar' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2' />
@@ -1366,7 +1369,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='energy;environment' />
   </node>
-  <node id='-15806' action='modify' visible='true' lat='48.126484' lon='11.543723'>
+  <node id='-375' action='modify' visible='true' lat='48.126484' lon='11.543723'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2' />
@@ -1380,7 +1383,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15804' action='modify' visible='true' lat='48.12658148226' lon='11.58177641327'>
+  <node id='-373' action='modify' visible='true' lat='48.12658148226' lon='11.58177641327'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='16' />
@@ -1395,7 +1398,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='food+drink' />
   </node>
-  <node id='-15802' action='modify' visible='true' lat='48.126613119' lon='11.60900437069'>
+  <node id='-371' action='modify' visible='true' lat='48.126613119' lon='11.60900437069'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='7' />
@@ -1410,7 +1413,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility;environment' />
   </node>
-  <node id='-15800' action='modify' visible='true' lat='48.12675975009' lon='11.55351187952'>
+  <node id='-369' action='modify' visible='true' lat='48.12675975009' lon='11.55351187952'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='135' />
@@ -1425,7 +1428,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15798' action='modify' visible='true' lat='48.126967' lon='11.5976429983'>
+  <node id='-367' action='modify' visible='true' lat='48.126967' lon='11.5976429983'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='13' />
@@ -1440,7 +1443,7 @@
     <tag k='office' v='ngo' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15796' action='modify' visible='true' lat='48.12723783065' lon='11.57269728333'>
+  <node id='-365' action='modify' visible='true' lat='48.12723783065' lon='11.57269728333'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='28' />
@@ -1454,7 +1457,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='participation' />
   </node>
-  <node id='-15794' action='modify' visible='true' lat='48.12705728499' lon='11.6084858354'>
+  <node id='-363' action='modify' visible='true' lat='48.12705728499' lon='11.6084858354'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='5' />
@@ -1469,7 +1472,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='housing' />
   </node>
-  <node id='-15792' action='modify' visible='true' lat='48.12761406573' lon='11.60048838103'>
+  <node id='-361' action='modify' visible='true' lat='48.12761406573' lon='11.60048838103'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='6' />
@@ -1487,7 +1490,7 @@
     <tag k='studio:type' v='audio' />
     <tag k='topic' v='culture;community;environment' />
   </node>
-  <node id='-15790' action='modify' visible='true' lat='48.12852293591' lon='11.57289056482'>
+  <node id='-359' action='modify' visible='true' lat='48.12852293591' lon='11.57289056482'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='9' />
@@ -1501,7 +1504,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='participation' />
   </node>
-  <node id='-15788' action='modify' visible='true' lat='48.12801909363' lon='11.61980035447'>
+  <node id='-357' action='modify' visible='true' lat='48.12801909363' lon='11.61980035447'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='46' />
@@ -1513,7 +1516,7 @@
     <tag k='provides' v='objects_of_utility' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15786' action='modify' visible='true' lat='48.1286229581' lon='11.55375943658'>
+  <node id='-355' action='modify' visible='true' lat='48.1286229581' lon='11.55375943658'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='4' />
@@ -1528,7 +1531,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility' />
   </node>
-  <node id='-15784' action='modify' visible='true' lat='48.12870166924' lon='11.55935970817'>
+  <node id='-353' action='modify' visible='true' lat='48.12870166924' lon='11.55935970817'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='29, Rgb., 2. Stock' />
@@ -1542,7 +1545,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15782' action='modify' visible='true' lat='48.12874927094' lon='11.55937883026'>
+  <node id='-351' action='modify' visible='true' lat='48.12874927094' lon='11.55937883026'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='29' />
@@ -1557,7 +1560,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15780' action='modify' visible='true' lat='48.128593' lon='11.594543'>
+  <node id='-349' action='modify' visible='true' lat='48.128593' lon='11.594543'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2' />
@@ -1569,7 +1572,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15778' action='modify' visible='true' lat='48.12876567928' lon='11.55928994017'>
+  <node id='-347' action='modify' visible='true' lat='48.12876567928' lon='11.55928994017'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='29' />
@@ -1584,7 +1587,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15776' action='modify' visible='true' lat='48.1288505917' lon='11.56153053298'>
+  <node id='-345' action='modify' visible='true' lat='48.1288505917' lon='11.56153053298'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='16a' />
@@ -1597,7 +1600,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='health' />
   </node>
-  <node id='-15774' action='modify' visible='true' lat='48.12871217649' lon='11.5592630215'>
+  <node id='-343' action='modify' visible='true' lat='48.12871217649' lon='11.5592630215'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='29' />
@@ -1611,7 +1614,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15772' action='modify' visible='true' lat='48.13206508895' lon='11.54804822546'>
+  <node id='-341' action='modify' visible='true' lat='48.13206508895' lon='11.54804822546'>
     <tag k='amenity' v='marketplace' />
     <tag k='children' v='designated' />
     <tag k='fixme' v='exact location' />
@@ -1620,7 +1623,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15770' action='modify' visible='true' lat='48.1302852545' lon='11.60387188246'>
+  <node id='-339' action='modify' visible='true' lat='48.1302852545' lon='11.60387188246'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='12' />
@@ -1635,7 +1638,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility;housing' />
   </node>
-  <node id='-15768' action='modify' visible='true' lat='48.12968301607' lon='11.70064285746'>
+  <node id='-337' action='modify' visible='true' lat='48.12968301607' lon='11.70064285746'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='20' />
@@ -1650,7 +1653,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='food+drink;environment' />
   </node>
-  <node id='-15766' action='modify' visible='true' lat='48.129939' lon='11.583441'>
+  <node id='-335' action='modify' visible='true' lat='48.129939' lon='11.583441'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='1' />
@@ -1665,7 +1668,7 @@
     <tag k='observatory:type' v='astronomical' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15764' action='modify' visible='true' lat='48.13025502966' lon='11.60388198819'>
+  <node id='-333' action='modify' visible='true' lat='48.13025502966' lon='11.60388198819'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='12' />
@@ -1680,7 +1683,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility' />
   </node>
-  <node id='-15762' action='modify' visible='true' lat='48.13067404973' lon='11.57488533515'>
+  <node id='-331' action='modify' visible='true' lat='48.13067404973' lon='11.57488533515'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='37' />
@@ -1694,7 +1697,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15760' action='modify' visible='true' lat='48.13074309013' lon='11.57475233464'>
+  <node id='-329' action='modify' visible='true' lat='48.13074309013' lon='11.57475233464'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='37' />
@@ -1707,7 +1710,7 @@
     <tag k='name' v='urbane gärten münchen' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15758' action='modify' visible='true' lat='48.13081260512' lon='11.57483668058'>
+  <node id='-327' action='modify' visible='true' lat='48.13081260512' lon='11.57483668058'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='37' />
@@ -1722,7 +1725,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15756' action='modify' visible='true' lat='48.13112779059' lon='11.59886122089'>
+  <node id='-325' action='modify' visible='true' lat='48.13112779059' lon='11.59886122089'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10' />
@@ -1733,7 +1736,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15754' action='modify' visible='true' lat='48.13135945981' lon='11.59644748904'>
+  <node id='-323' action='modify' visible='true' lat='48.13135945981' lon='11.59644748904'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='13' />
@@ -1749,7 +1752,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15752' action='modify' visible='true' lat='48.13151703208' lon='11.56760022024'>
+  <node id='-321' action='modify' visible='true' lat='48.13151703208' lon='11.56760022024'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='3' />
@@ -1762,7 +1765,7 @@
     <tag k='shop' v='tea' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15750' action='modify' visible='true' lat='48.131404' lon='11.621861'>
+  <node id='-319' action='modify' visible='true' lat='48.131404' lon='11.621861'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='33' />
@@ -1777,7 +1780,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15748' action='modify' visible='true' lat='48.131547' lon='11.622076'>
+  <node id='-317' action='modify' visible='true' lat='48.131547' lon='11.622076'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='33' />
@@ -1790,7 +1793,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='food+drink' />
   </node>
-  <node id='-15746' action='modify' visible='true' lat='48.13159496865' lon='11.56718504522'>
+  <node id='-315' action='modify' visible='true' lat='48.13159496865' lon='11.56718504522'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8' />
@@ -1803,7 +1806,7 @@
     <tag k='name' v='freiraum e.V.' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15744' action='modify' visible='true' lat='48.13168212506' lon='11.53546983368'>
+  <node id='-313' action='modify' visible='true' lat='48.13168212506' lon='11.53546983368'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='31a / 1.Stock' />
@@ -1818,7 +1821,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='participation' />
   </node>
-  <node id='-15742' action='modify' visible='true' lat='48.13197046078' lon='11.57468798334'>
+  <node id='-311' action='modify' visible='true' lat='48.13197046078' lon='11.57468798334'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10' />
@@ -1832,7 +1835,7 @@
     <tag k='office' v='company' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15740' action='modify' visible='true' lat='48.13312826812' lon='11.58146012428'>
+  <node id='-309' action='modify' visible='true' lat='48.13312826812' lon='11.58146012428'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:flats' v='3. OG' />
@@ -1848,7 +1851,7 @@
     <tag k='social_facility:for' v='women' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15738' action='modify' visible='true' lat='48.13328291776' lon='11.58284380103'>
+  <node id='-307' action='modify' visible='true' lat='48.13328291776' lon='11.58284380103'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8' />
@@ -1862,7 +1865,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15736' action='modify' visible='true' lat='48.13400358231' lon='11.56673358706'>
+  <node id='-305' action='modify' visible='true' lat='48.13400358231' lon='11.56673358706'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10, 2. OG' />
@@ -1877,7 +1880,7 @@
     <tag k='shop' v='beauty' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15734' action='modify' visible='true' lat='48.1340316088' lon='11.56817866181'>
+  <node id='-303' action='modify' visible='true' lat='48.1340316088' lon='11.56817866181'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='47' />
@@ -1892,7 +1895,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15732' action='modify' visible='true' lat='48.1349562048' lon='11.58534182307'>
+  <node id='-301' action='modify' visible='true' lat='48.1349562048' lon='11.58534182307'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='5' />
@@ -1906,7 +1909,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='participation' />
   </node>
-  <node id='-15730' action='modify' visible='true' lat='48.13410561115' lon='11.5768140237'>
+  <node id='-299' action='modify' visible='true' lat='48.13410561115' lon='11.5768140237'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='3a' />
@@ -1920,7 +1923,7 @@
     <tag k='office' v='foundation' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15728' action='modify' visible='true' lat='48.13437896365' lon='11.56132326364'>
+  <node id='-297' action='modify' visible='true' lat='48.13437896365' lon='11.56132326364'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10a / II' />
@@ -1935,7 +1938,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15726' action='modify' visible='true' lat='48.135306' lon='11.542726'>
+  <node id='-295' action='modify' visible='true' lat='48.135306' lon='11.542726'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='27' />
@@ -1947,7 +1950,7 @@
     <tag k='shop' v='clothes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15724' action='modify' visible='true' lat='48.1354564533' lon='11.54042281211'>
+  <node id='-293' action='modify' visible='true' lat='48.1354564533' lon='11.54042281211'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='39' />
@@ -1962,7 +1965,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15722' action='modify' visible='true' lat='48.12486365909' lon='11.54896412673'>
+  <node id='-291' action='modify' visible='true' lat='48.12486365909' lon='11.54896412673'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='88' />
@@ -1976,7 +1979,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility;environment' />
   </node>
-  <node id='-15720' action='modify' visible='true' lat='48.12490765585' lon='11.54897485878'>
+  <node id='-289' action='modify' visible='true' lat='48.12490765585' lon='11.54897485878'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='88' />
@@ -1991,7 +1994,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15718' action='modify' visible='true' lat='48.13604' lon='11.557105'>
+  <node id='-287' action='modify' visible='true' lat='48.13604' lon='11.557105'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='61' />
@@ -2005,7 +2008,7 @@
     <tag k='office' v='advertising_agency' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15716' action='modify' visible='true' lat='48.13603443661' lon='11.55832170954'>
+  <node id='-285' action='modify' visible='true' lat='48.13603443661' lon='11.55832170954'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='28' />
@@ -2019,7 +2022,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15714' action='modify' visible='true' lat='48.136455' lon='11.562121'>
+  <node id='-283' action='modify' visible='true' lat='48.136455' lon='11.562121'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='22' />
@@ -2034,7 +2037,7 @@
     <tag k='social_facility:for' v='migrant' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15712' action='modify' visible='true' lat='48.136491' lon='11.590716'>
+  <node id='-281' action='modify' visible='true' lat='48.136491' lon='11.590716'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='42097' />
@@ -2048,7 +2051,7 @@
     <tag k='office' v='company' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15710' action='modify' visible='true' lat='48.13660112242' lon='11.56394989236'>
+  <node id='-279' action='modify' visible='true' lat='48.13660112242' lon='11.56394989236'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='4a' />
@@ -2063,7 +2066,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15708' action='modify' visible='true' lat='48.13655174368' lon='11.55447133377'>
+  <node id='-277' action='modify' visible='true' lat='48.13655174368' lon='11.55447133377'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='64a' />
@@ -2078,7 +2081,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15706' action='modify' visible='true' lat='48.13769121119' lon='11.55465406427'>
+  <node id='-275' action='modify' visible='true' lat='48.13769121119' lon='11.55465406427'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='64' />
@@ -2093,7 +2096,7 @@
     <tag k='office' v='newspaper' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15704' action='modify' visible='true' lat='48.13762103277' lon='11.54089605682'>
+  <node id='-273' action='modify' visible='true' lat='48.13762103277' lon='11.54089605682'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='155' />
@@ -2108,7 +2111,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15702' action='modify' visible='true' lat='48.13733823656' lon='11.55464828497'>
+  <node id='-271' action='modify' visible='true' lat='48.13733823656' lon='11.55464828497'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='73' />
@@ -2120,7 +2123,7 @@
     <tag k='social_facility:for' v='disabled person' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15700' action='modify' visible='true' lat='48.13803985237' lon='11.55297696474'>
+  <node id='-269' action='modify' visible='true' lat='48.13803985237' lon='11.55297696474'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='80' />
@@ -2135,7 +2138,7 @@
     <tag k='office' v='ngo' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15698' action='modify' visible='true' lat='48.13776018128' lon='11.55289176244'>
+  <node id='-267' action='modify' visible='true' lat='48.13776018128' lon='11.55289176244'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='80' />
@@ -2150,7 +2153,7 @@
     <tag k='name' v='Nord Süd Forum München e.V.' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15696' action='modify' visible='true' lat='48.13796490903' lon='11.56424530789'>
+  <node id='-265' action='modify' visible='true' lat='48.13796490903' lon='11.56424530789'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='1' />
@@ -2164,7 +2167,7 @@
     <tag k='religion' v='christian' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15694' action='modify' visible='true' lat='48.138111' lon='11.566428'>
+  <node id='-263' action='modify' visible='true' lat='48.138111' lon='11.566428'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:description' v='Eingang: Herzog-Wilhelm-Straße' />
@@ -2179,7 +2182,7 @@
     <tag k='office' v='government' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15692' action='modify' visible='true' lat='48.13806415825' lon='11.54101770557'>
+  <node id='-261' action='modify' visible='true' lat='48.13806415825' lon='11.54101770557'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='87' />
@@ -2194,7 +2197,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15690' action='modify' visible='true' lat='48.13830967429' lon='11.54474587516'>
+  <node id='-259' action='modify' visible='true' lat='48.13830967429' lon='11.54474587516'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='49' />
@@ -2210,7 +2213,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15688' action='modify' visible='true' lat='48.138336' lon='11.54047'>
+  <node id='-257' action='modify' visible='true' lat='48.138336' lon='11.54047'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='68' />
@@ -2225,7 +2228,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='participation' />
   </node>
-  <node id='-15686' action='modify' visible='true' lat='48.13835635601' lon='11.54047329425'>
+  <node id='-255' action='modify' visible='true' lat='48.13835635601' lon='11.54047329425'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='68' />
@@ -2238,7 +2241,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='participation' />
   </node>
-  <node id='-15684' action='modify' visible='true' lat='48.13879815982' lon='11.54179531444'>
+  <node id='-253' action='modify' visible='true' lat='48.13879815982' lon='11.54179531444'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='9' />
@@ -2252,7 +2255,7 @@
     <tag k='name' v='Waldgärtner, Siggi Fuchs' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15682' action='modify' visible='true' lat='48.13868603083' lon='11.48250428851'>
+  <node id='-251' action='modify' visible='true' lat='48.13868603083' lon='11.48250428851'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='33' />
@@ -2265,7 +2268,7 @@
     <tag k='office' v='ngo' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15680' action='modify' visible='true' lat='48.13880354711' lon='11.55316013326'>
+  <node id='-249' action='modify' visible='true' lat='48.13880354711' lon='11.55316013326'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='77a' />
@@ -2279,7 +2282,7 @@
     <tag k='name' v='Trägerverein für regionale soziale Arbeit e.V. Geschäftsbereich REGSAM' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15678' action='modify' visible='true' lat='48.13920525885' lon='11.60477141176'>
+  <node id='-247' action='modify' visible='true' lat='48.13920525885' lon='11.60477141176'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10' />
@@ -2294,7 +2297,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15676' action='modify' visible='true' lat='48.139409' lon='11.552618'>
+  <node id='-245' action='modify' visible='true' lat='48.139409' lon='11.552618'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='28a' />
@@ -2308,7 +2311,7 @@
     <tag k='office' v='government' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15674' action='modify' visible='true' lat='48.14006225779' lon='11.56772498992'>
+  <node id='-243' action='modify' visible='true' lat='48.14006225779' lon='11.56772498992'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8' />
@@ -2323,7 +2326,7 @@
     <tag k='office' v='foundation' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15672' action='modify' visible='true' lat='48.14012450144' lon='11.56786331131'>
+  <node id='-241' action='modify' visible='true' lat='48.14012450144' lon='11.56786331131'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8' />
@@ -2338,7 +2341,7 @@
     <tag k='provides' v='learning_opportunities' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15670' action='modify' visible='true' lat='48.13999860645' lon='11.53024481136'>
+  <node id='-239' action='modify' visible='true' lat='48.13999860645' lon='11.53024481136'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='137' />
@@ -2350,7 +2353,7 @@
     <tag k='office' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15668' action='modify' visible='true' lat='48.14014390409' lon='11.58737144029'>
+  <node id='-237' action='modify' visible='true' lat='48.14014390409' lon='11.58737144029'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:postcode' v='80538' />
@@ -2365,7 +2368,7 @@
     <tag k='regional' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15666' action='modify' visible='true' lat='48.14219807219' lon='11.56006623913'>
+  <node id='-235' action='modify' visible='true' lat='48.14219807219' lon='11.56006623913'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='5' />
@@ -2379,7 +2382,7 @@
     <tag k='office' v='association' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15664' action='modify' visible='true' lat='48.14380075623' lon='11.57166689153'>
+  <node id='-233' action='modify' visible='true' lat='48.14380075623' lon='11.57166689153'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='21' />
@@ -2395,7 +2398,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15662' action='modify' visible='true' lat='48.14332417773' lon='11.55701225708'>
+  <node id='-231' action='modify' visible='true' lat='48.14332417773' lon='11.55701225708'>
     <tag k='access:description' v='you need a card to rent a car' />
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
@@ -2407,7 +2410,7 @@
     <tag k='name' v='STATTAUTO Station' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15660' action='modify' visible='true' lat='48.14420122373' lon='11.55033602949'>
+  <node id='-229' action='modify' visible='true' lat='48.14420122373' lon='11.55033602949'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='10' />
@@ -2422,7 +2425,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='energy;environment' />
   </node>
-  <node id='-15658' action='modify' visible='true' lat='48.14521354386' lon='11.57749774058'>
+  <node id='-227' action='modify' visible='true' lat='48.14521354386' lon='11.57749774058'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8' />
@@ -2437,7 +2440,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility' />
   </node>
-  <node id='-15656' action='modify' visible='true' lat='48.14522554387' lon='11.57755574058'>
+  <node id='-225' action='modify' visible='true' lat='48.14522554387' lon='11.57755574058'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8 / II' />
@@ -2451,7 +2454,7 @@
     <tag k='name' v='Verein zur Sicherstellung überörtlicher Erholungsgebiete in den Landkreisen um München e.V.' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15654' action='modify' visible='true' lat='48.14526054389' lon='11.57751774058'>
+  <node id='-223' action='modify' visible='true' lat='48.14526054389' lon='11.57751774058'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='8' />
@@ -2465,7 +2468,7 @@
     <tag k='name' v='Europäische Metropolregion München e.V.' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15652' action='modify' visible='true' lat='48.14698151926' lon='11.65776288215'>
+  <node id='-221' action='modify' visible='true' lat='48.14698151926' lon='11.65776288215'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='111' />
@@ -2477,7 +2480,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15650' action='modify' visible='true' lat='48.14711317289' lon='11.56133610458'>
+  <node id='-219' action='modify' visible='true' lat='48.14711317289' lon='11.56133610458'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='44' />
@@ -2492,7 +2495,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15648' action='modify' visible='true' lat='48.147273' lon='11.560954'>
+  <node id='-217' action='modify' visible='true' lat='48.147273' lon='11.560954'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='46' />
@@ -2507,7 +2510,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15646' action='modify' visible='true' lat='48.14664581245' lon='11.57224503007'>
+  <node id='-215' action='modify' visible='true' lat='48.14664581245' lon='11.57224503007'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='40' />
@@ -2523,7 +2526,7 @@
     <tag k='regional' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15644' action='modify' visible='true' lat='48.147765' lon='11.462801'>
+  <node id='-213' action='modify' visible='true' lat='48.147765' lon='11.462801'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='1' />
@@ -2536,7 +2539,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='food+drink' />
   </node>
-  <node id='-15642' action='modify' visible='true' lat='48.14764408139' lon='11.57949972773'>
+  <node id='-211' action='modify' visible='true' lat='48.14764408139' lon='11.57949972773'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2' />
@@ -2550,7 +2553,7 @@
     <tag k='office' v='government' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15640' action='modify' visible='true' lat='48.14835680718' lon='11.47111408357'>
+  <node id='-209' action='modify' visible='true' lat='48.14835680718' lon='11.47111408357'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='7b' />
@@ -2564,7 +2567,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='energy;environment' />
   </node>
-  <node id='-15638' action='modify' visible='true' lat='48.14878804593' lon='11.56816191797'>
+  <node id='-207' action='modify' visible='true' lat='48.14878804593' lon='11.56816191797'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='21' />
@@ -2578,7 +2581,7 @@
     <tag k='name' v='Lehrstuhl für Holzbau und Baukonstruktion' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15636' action='modify' visible='true' lat='48.14889326631' lon='11.57279682545'>
+  <node id='-205' action='modify' visible='true' lat='48.14889326631' lon='11.57279682545'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='66' />
@@ -2592,7 +2595,7 @@
     <tag k='office' v='architect' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15634' action='modify' visible='true' lat='48.149343' lon='11.56381'>
+  <node id='-203' action='modify' visible='true' lat='48.149343' lon='11.56381'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='36' />
@@ -2607,7 +2610,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15632' action='modify' visible='true' lat='48.149853' lon='11.575127'>
+  <node id='-201' action='modify' visible='true' lat='48.149853' lon='11.575127'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='54' />
@@ -2622,7 +2625,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='recycling' />
   </node>
-  <node id='-15630' action='modify' visible='true' lat='48.150213' lon='11.557032'>
+  <node id='-199' action='modify' visible='true' lat='48.150213' lon='11.557032'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='41' />
@@ -2638,7 +2641,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15628' action='modify' visible='true' lat='48.15061166674' lon='11.5783411'>
+  <node id='-197' action='modify' visible='true' lat='48.15061166674' lon='11.5783411'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='71' />
@@ -2655,7 +2658,7 @@
     <tag k='provides' v='learning_opportunities' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15626' action='modify' visible='true' lat='48.15084834423' lon='11.552026841'>
+  <node id='-195' action='modify' visible='true' lat='48.15084834423' lon='11.552026841'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='44' />
@@ -2671,7 +2674,7 @@
     <tag k='organic' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15624' action='modify' visible='true' lat='48.15172256972' lon='11.56195787364'>
+  <node id='-193' action='modify' visible='true' lat='48.15172256972' lon='11.56195787364'>
     <tag k='access:description' v='you need a card to rent a car' />
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
@@ -2683,7 +2686,7 @@
     <tag k='name' v='STATTAUTO Station' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15622' action='modify' visible='true' lat='48.15167810454' lon='11.55276597386'>
+  <node id='-191' action='modify' visible='true' lat='48.15167810454' lon='11.55276597386'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='21' />
@@ -2699,13 +2702,13 @@
     <tag k='regional' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15620' action='modify' visible='true' lat='48.15265034666' lon='11.53336192697'>
+  <node id='-189' action='modify' visible='true' lat='48.15265034666' lon='11.53336192697'>
     <tag k='amenity' v='marketplace' />
     <tag k='food' v='yes' />
     <tag k='name' v='Wochenmarkt Neuhausen' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15618' action='modify' visible='true' lat='48.15123539594' lon='11.57204463636'>
+  <node id='-187' action='modify' visible='true' lat='48.15123539594' lon='11.57204463636'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='65' />
@@ -2720,7 +2723,7 @@
     <tag k='name' v='Münchner Forum e.V.' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15616' action='modify' visible='true' lat='48.1517999218' lon='11.57113537147'>
+  <node id='-185' action='modify' visible='true' lat='48.1517999218' lon='11.57113537147'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='68' />
@@ -2731,7 +2734,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15614' action='modify' visible='true' lat='48.152028' lon='11.55157'>
+  <node id='-183' action='modify' visible='true' lat='48.152028' lon='11.55157'>
     <tag k='access:description' v='you need a card to rent a car' />
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
@@ -2743,7 +2746,7 @@
     <tag k='name' v='STATTAUTO Station' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15612' action='modify' visible='true' lat='48.152076' lon='11.565076'>
+  <node id='-181' action='modify' visible='true' lat='48.152076' lon='11.565076'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='37' />
@@ -2758,7 +2761,7 @@
     <tag k='operator' v='Institut für angewandte Raumaneigung GbR' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15610' action='modify' visible='true' lat='48.15258266045' lon='11.63469575929'>
+  <node id='-179' action='modify' visible='true' lat='48.15258266045' lon='11.63469575929'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='166' />
@@ -2773,7 +2776,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15608' action='modify' visible='true' lat='48.15295269895' lon='11.56562729947'>
+  <node id='-177' action='modify' visible='true' lat='48.15295269895' lon='11.56562729947'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='104' />
@@ -2784,7 +2787,7 @@
     <tag k='shop' v='clothes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15606' action='modify' visible='true' lat='48.15388369774' lon='11.55769310226'>
+  <node id='-175' action='modify' visible='true' lat='48.15388369774' lon='11.55769310226'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='89' />
@@ -2799,7 +2802,7 @@
     <tag k='provides' v='learning_opportunities' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15604' action='modify' visible='true' lat='48.15222458801' lon='11.42140053298'>
+  <node id='-173' action='modify' visible='true' lat='48.15222458801' lon='11.42140053298'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='14' />
@@ -2812,7 +2815,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='energy;environment' />
   </node>
-  <node id='-15602' action='modify' visible='true' lat='48.1531605772' lon='11.55236314584'>
+  <node id='-171' action='modify' visible='true' lat='48.1531605772' lon='11.55236314584'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='34' />
@@ -2825,7 +2828,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15600' action='modify' visible='true' lat='48.15361294503' lon='11.5415177207'>
+  <node id='-169' action='modify' visible='true' lat='48.15361294503' lon='11.5415177207'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='37' />
@@ -2839,7 +2842,7 @@
     <tag k='name' v='Kinderstadtplan München - Spiellandschaft Stadt' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15598' action='modify' visible='true' lat='48.15363209962' lon='11.5682081024'>
+  <node id='-167' action='modify' visible='true' lat='48.15363209962' lon='11.5682081024'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:postcode' v='80799' />
@@ -2854,7 +2857,7 @@
     <tag k='regional' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15596' action='modify' visible='true' lat='48.154517' lon='11.530192'>
+  <node id='-165' action='modify' visible='true' lat='48.154517' lon='11.530192'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2a' />
@@ -2869,7 +2872,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='housing' />
   </node>
-  <node id='-15594' action='modify' visible='true' lat='48.15479278384' lon='11.5580276318'>
+  <node id='-163' action='modify' visible='true' lat='48.15479278384' lon='11.5580276318'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='155' />
@@ -2884,7 +2887,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='learning_opportunities' />
   </node>
-  <node id='-15592' action='modify' visible='true' lat='48.155258995' lon='11.53011824545'>
+  <node id='-161' action='modify' visible='true' lat='48.155258995' lon='11.53011824545'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='9' />
@@ -2899,7 +2902,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15590' action='modify' visible='true' lat='48.15577235168' lon='11.57051911584'>
+  <node id='-159' action='modify' visible='true' lat='48.15577235168' lon='11.57051911584'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='6' />
@@ -2912,7 +2915,7 @@
     <tag k='name' v='Münchner Friedensbündnis' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15588' action='modify' visible='true' lat='48.156857' lon='11.538869'>
+  <node id='-157' action='modify' visible='true' lat='48.156857' lon='11.538869'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='46' />
@@ -2927,7 +2930,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15586' action='modify' visible='true' lat='48.15750939115' lon='11.58056368322'>
+  <node id='-155' action='modify' visible='true' lat='48.15750939115' lon='11.58056368322'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='21' />
@@ -2943,7 +2946,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='sustainability' />
   </node>
-  <node id='-15584' action='modify' visible='true' lat='48.157805' lon='11.509187'>
+  <node id='-153' action='modify' visible='true' lat='48.157805' lon='11.509187'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='1' />
@@ -2959,7 +2962,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='food+drink;environment' />
   </node>
-  <node id='-15582' action='modify' visible='true' lat='48.15810129869' lon='11.54297912113'>
+  <node id='-151' action='modify' visible='true' lat='48.15810129869' lon='11.54297912113'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:postcode' v='80636' />
@@ -2970,7 +2973,7 @@
     <tag k='provides' v='food+drink' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15580' action='modify' visible='true' lat='48.15868345216' lon='11.54986163252'>
+  <node id='-149' action='modify' visible='true' lat='48.15868345216' lon='11.54986163252'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='112d' />
@@ -2985,7 +2988,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='culture' />
   </node>
-  <node id='-15578' action='modify' visible='true' lat='48.158638' lon='11.587724'>
+  <node id='-147' action='modify' visible='true' lat='48.158638' lon='11.587724'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='1b' />
@@ -2998,7 +3001,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='housing' />
   </node>
-  <node id='-15576' action='modify' visible='true' lat='48.15893417149' lon='11.56442664857'>
+  <node id='-145' action='modify' visible='true' lat='48.15893417149' lon='11.56442664857'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='37' />
@@ -3013,7 +3016,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='sustainability' />
   </node>
-  <node id='-15574' action='modify' visible='true' lat='48.158915' lon='11.580834'>
+  <node id='-143' action='modify' visible='true' lat='48.158915' lon='11.580834'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='22' />
@@ -3028,7 +3031,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15572' action='modify' visible='true' lat='48.158918' lon='11.542645'>
+  <node id='-141' action='modify' visible='true' lat='48.158918' lon='11.542645'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='76' />
@@ -3042,7 +3045,7 @@
     <tag k='office' v='ngo' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15570' action='modify' visible='true' lat='48.15903382546' lon='11.56991090884'>
+  <node id='-139' action='modify' visible='true' lat='48.15903382546' lon='11.56991090884'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='28' />
@@ -3056,7 +3059,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='participation' />
   </node>
-  <node id='-15568' action='modify' visible='true' lat='48.15954179652' lon='11.53063519417'>
+  <node id='-137' action='modify' visible='true' lat='48.15954179652' lon='11.53063519417'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='20' />
@@ -3071,7 +3074,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='culture;environment' />
   </node>
-  <node id='-15566' action='modify' visible='true' lat='48.159978' lon='11.569577'>
+  <node id='-135' action='modify' visible='true' lat='48.159978' lon='11.569577'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='27a' />
@@ -3087,7 +3090,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15564' action='modify' visible='true' lat='48.16149493743' lon='11.59059834559'>
+  <node id='-133' action='modify' visible='true' lat='48.16149493743' lon='11.59059834559'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='5' />
@@ -3104,7 +3107,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15562' action='modify' visible='true' lat='48.16157362054' lon='11.58559833721'>
+  <node id='-131' action='modify' visible='true' lat='48.16157362054' lon='11.58559833721'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='61' />
@@ -3121,7 +3124,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='learning_opportunities' />
   </node>
-  <node id='-15560' action='modify' visible='true' lat='48.1616154706' lon='11.58561834457'>
+  <node id='-129' action='modify' visible='true' lat='48.1616154706' lon='11.58561834457'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='61' />
@@ -3137,7 +3140,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='culture;learning_opportunities' />
   </node>
-  <node id='-15558' action='modify' visible='true' lat='48.16236201834' lon='11.5854719814'>
+  <node id='-127' action='modify' visible='true' lat='48.16236201834' lon='11.5854719814'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='6' />
@@ -3150,7 +3153,7 @@
     <tag k='shop' v='bakery' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15556' action='modify' visible='true' lat='48.16255035365' lon='11.53171145186'>
+  <node id='-125' action='modify' visible='true' lat='48.16255035365' lon='11.53171145186'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='3' />
@@ -3165,7 +3168,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='food+drink' />
   </node>
-  <node id='-15554' action='modify' visible='true' lat='48.16304448059' lon='11.44897420076'>
+  <node id='-123' action='modify' visible='true' lat='48.16304448059' lon='11.44897420076'>
     <tag k='amenity' v='marketplace' />
     <tag k='contact:email' v='info@muenchner-bauernmaerkte.de' />
     <tag k='contact:fax' v='+49 89 55873470' />
@@ -3176,7 +3179,7 @@
     <tag k='regional' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15552' action='modify' visible='true' lat='48.16285558437' lon='11.57693542023'>
+  <node id='-121' action='modify' visible='true' lat='48.16285558437' lon='11.57693542023'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='1' />
@@ -3189,7 +3192,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='housing' />
   </node>
-  <node id='-15550' action='modify' visible='true' lat='48.16365080585' lon='11.55849371374'>
+  <node id='-119' action='modify' visible='true' lat='48.16365080585' lon='11.55849371374'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='56' />
@@ -3205,7 +3208,7 @@
     <tag k='opening_hours' v='off' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15548' action='modify' visible='true' lat='48.16362093355' lon='11.56960877963'>
+  <node id='-117' action='modify' visible='true' lat='48.16362093355' lon='11.56960877963'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='20' />
@@ -3219,7 +3222,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='sustainability' />
   </node>
-  <node id='-15546' action='modify' visible='true' lat='48.164389' lon='11.560908'>
+  <node id='-115' action='modify' visible='true' lat='48.164389' lon='11.560908'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='7' />
@@ -3236,7 +3239,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='learning_opportunities' />
   </node>
-  <node id='-15544' action='modify' visible='true' lat='48.16540324923' lon='11.58938208372'>
+  <node id='-113' action='modify' visible='true' lat='48.16540324923' lon='11.58938208372'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='40' />
@@ -3251,7 +3254,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='energy;environment' />
   </node>
-  <node id='-15542' action='modify' visible='true' lat='48.16584743387' lon='11.62355567996'>
+  <node id='-111' action='modify' visible='true' lat='48.16584743387' lon='11.62355567996'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='156' />
@@ -3263,7 +3266,7 @@
     <tag k='name' v='Atelierhaus FOE e.V.' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15540' action='modify' visible='true' lat='48.16892129235' lon='11.57900529769'>
+  <node id='-109' action='modify' visible='true' lat='48.16892129235' lon='11.57900529769'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='9' />
@@ -3278,7 +3281,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='housing' />
   </node>
-  <node id='-15538' action='modify' visible='true' lat='48.16937557774' lon='11.45822075338'>
+  <node id='-107' action='modify' visible='true' lat='48.16937557774' lon='11.45822075338'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='3' />
@@ -3293,7 +3296,7 @@
     <tag k='name' v='Kartoffelkombinat eG' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15536' action='modify' visible='true' lat='48.171567' lon='11.644092'>
+  <node id='-105' action='modify' visible='true' lat='48.171567' lon='11.644092'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='110' />
@@ -3305,7 +3308,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='mobility' />
   </node>
-  <node id='-15534' action='modify' visible='true' lat='48.171967' lon='11.532941'>
+  <node id='-103' action='modify' visible='true' lat='48.171967' lon='11.532941'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2' />
@@ -3317,7 +3320,7 @@
     <tag k='name' v='SWM Ladestationen für Elektroautos, Stadtwerke München GmbH' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15532' action='modify' visible='true' lat='48.17195017254' lon='11.80131767095'>
+  <node id='-101' action='modify' visible='true' lat='48.17195017254' lon='11.80131767095'>
     <tag k='addr:city' v='Poing' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='2-8' />
@@ -3330,7 +3333,7 @@
     <tag k='office' v='company' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15530' action='modify' visible='true' lat='48.17279' lon='11.595426'>
+  <node id='-99' action='modify' visible='true' lat='48.17279' lon='11.595426'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:postcode' v='80805' />
@@ -3345,7 +3348,7 @@
     <tag k='regional' v='yes' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15528' action='modify' visible='true' lat='48.17280216412' lon='11.25508913587'>
+  <node id='-97' action='modify' visible='true' lat='48.17280216412' lon='11.25508913587'>
     <tag k='addr:city' v='Fürstenfeldbruck' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='14' />
@@ -3359,7 +3362,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='energy;environment' />
   </node>
-  <node id='-15526' action='modify' visible='true' lat='48.174954' lon='11.524615'>
+  <node id='-95' action='modify' visible='true' lat='48.174954' lon='11.524615'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='192' />
@@ -3375,7 +3378,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15524' action='modify' visible='true' lat='48.175342' lon='11.551187'>
+  <node id='-93' action='modify' visible='true' lat='48.175342' lon='11.551187'>
     <tag k='amenity' v='marketplace' />
     <tag k='children' v='designated' />
     <tag k='name' v='Flohmarkt an der Parkaue' />
@@ -3383,7 +3386,7 @@
     <tag k='source' v='BenE München' />
     <tag k='wheelchair' v='yes' />
   </node>
-  <node id='-15522' action='modify' visible='true' lat='48.175867' lon='11.523521'>
+  <node id='-91' action='modify' visible='true' lat='48.175867' lon='11.523521'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='93' />
@@ -3398,7 +3401,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='health' />
   </node>
-  <node id='-15520' action='modify' visible='true' lat='48.178907' lon='11.568791'>
+  <node id='-89' action='modify' visible='true' lat='48.178907' lon='11.568791'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='14' />
@@ -3413,7 +3416,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15518' action='modify' visible='true' lat='48.17894790284' lon='11.56886188344'>
+  <node id='-87' action='modify' visible='true' lat='48.17894790284' lon='11.56886188344'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='14' />
@@ -3429,7 +3432,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15516' action='modify' visible='true' lat='48.179115' lon='11.56884'>
+  <node id='-85' action='modify' visible='true' lat='48.179115' lon='11.56884'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='14' />
@@ -3443,7 +3446,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15514' action='modify' visible='true' lat='48.18053168861' lon='11.42041282144'>
+  <node id='-83' action='modify' visible='true' lat='48.18053168861' lon='11.42041282144'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='6' />
@@ -3457,7 +3460,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='energy;environment' />
   </node>
-  <node id='-15512' action='modify' visible='true' lat='48.18137809209' lon='11.48901671095'>
+  <node id='-81' action='modify' visible='true' lat='48.18137809209' lon='11.48901671095'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='32a' />
@@ -3471,7 +3474,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15510' action='modify' visible='true' lat='48.18251774145' lon='11.54918028169'>
+  <node id='-79' action='modify' visible='true' lat='48.18251774145' lon='11.54918028169'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='20' />
@@ -3485,7 +3488,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15508' action='modify' visible='true' lat='48.18407343472' lon='11.63483692389'>
+  <node id='-77' action='modify' visible='true' lat='48.18407343472' lon='11.63483692389'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='4' />
@@ -3499,7 +3502,7 @@
     <tag k='office' v='company' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15506' action='modify' visible='true' lat='48.19290127817' lon='11.58483115053'>
+  <node id='-75' action='modify' visible='true' lat='48.19290127817' lon='11.58483115053'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='3' />
@@ -3512,7 +3515,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='energy;environment' />
   </node>
-  <node id='-15504' action='modify' visible='true' lat='48.19437890588' lon='11.88966274669'>
+  <node id='-73' action='modify' visible='true' lat='48.19437890588' lon='11.88966274669'>
     <tag k='addr:city' v='Ottenhofen' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='20' />
@@ -3527,7 +3530,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15502' action='modify' visible='true' lat='48.25373825135' lon='11.64926400258'>
+  <node id='-71' action='modify' visible='true' lat='48.25373825135' lon='11.64926400258'>
     <tag k='addr:city' v='Garching' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='25' />
@@ -3539,7 +3542,7 @@
     <tag k='name' v='Netzwerk blühendes Garching' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15500' action='modify' visible='true' lat='48.25520491489' lon='11.5537220838'>
+  <node id='-69' action='modify' visible='true' lat='48.25520491489' lon='11.5537220838'>
     <tag k='addr:city' v='Oberschleißheim' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='29' />
@@ -3553,7 +3556,7 @@
     <tag k='source' v='BenE München' />
     <tag k='topic' v='environment' />
   </node>
-  <node id='-15498' action='modify' visible='true' lat='48.36747721033' lon='10.89973968161'>
+  <node id='-67' action='modify' visible='true' lat='48.36747721033' lon='10.89973968161'>
     <tag k='addr:city' v='Augsburg' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='3' />
@@ -3566,7 +3569,7 @@
     <tag k='office' v='association' />
     <tag k='source' v='BenE München' />
   </node>
-  <node id='-15496' action='modify' visible='true' lat='48.13540327097' lon='11.60070204783'>
+  <node id='-65' action='modify' visible='true' lat='48.13540327097' lon='11.60070204783'>
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='42' />
@@ -3576,9 +3579,36 @@
     <tag k='contact:website' v='http://www.kim-kino.de/' />
     <tag k='name' v='KiM' />
   </node>
-  <node id='-15494' action='modify' visible='true' lat='48.14310279784' lon='11.57118851835' />
-  <node id='-15492' action='modify' visible='true' lat='48.14354935714' lon='11.57085975141' />
-  <node id='-15490' action='modify' visible='true' lat='48.14363129795' lon='11.57113575517' />
+  <node id='-63' action='modify' visible='true' lat='48.14310279784' lon='11.57118851835' />
+  <node id='-61' action='modify' visible='true' lat='48.14354935714' lon='11.57085975141' />
+  <node id='-59' action='modify' visible='true' lat='48.14363129795' lon='11.57113575517' />
+  <node id='-57' action='modify' visible='true' lat='48.15250491137' lon='11.57025622911'>
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='80799' />
+    <tag k='addr:street' v='Zieblandstraße' />
+    <tag k='child_friendly' v='yes' />
+    <tag k='contact:email' v='info@naturkunstundspiel.de' />
+    <tag k='contact:phone' v='+49 89 271 25 18' />
+    <tag k='contact:website' v='www.naturkunstundspiel.de' />
+    <tag k='name' v='NaturKunst und Spiel' />
+    <tag k='office' v='yes' />
+    <tag k='topic' v='environment' />
+  </node>
+  <node id='-53' action='modify' visible='true' lat='48.11320865409' lon='11.587459445'>
+    <tag k='Site ID' v='47684' />
+    <tag k='addr:city' v='München' />
+    <tag k='addr:country' v='DE' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='81539' />
+    <tag k='addr:street' v='Untersbergstraße' />
+    <tag k='children' v='designated' />
+    <tag k='name' v='Gebrauchtwarenhaus Giesing' />
+    <tag k='shop' v='second_hand' />
+    <tag k='source' v='BenE München' />
+    <tag k='wheelchair' v='yes' />
+  </node>
   <node id='27597346' timestamp='2011-12-23T15:43:22Z' uid='367380' user='Mloni' visible='true' version='3' changeset='10187945' lat='48.1265192' lon='11.7042095' />
   <node id='27597348' timestamp='2014-08-02T23:59:53Z' uid='233768' user='f-andreas' visible='true' version='3' changeset='24507251' lat='48.1263575' lon='11.7043581' />
   <node id='27597350' timestamp='2014-08-02T23:59:53Z' uid='233768' user='f-andreas' visible='true' version='3' changeset='24507251' lat='48.1277262' lon='11.7079093' />
@@ -5431,11 +5461,11 @@
   <node id='3815621700' timestamp='2015-11-03T15:05:36Z' uid='225990' user='muetzekoeln' visible='true' version='1' changeset='35057355' lat='48.1285525' lon='11.6919687' />
   <node id='3832896246' timestamp='2015-11-12T17:00:31Z' uid='371369' user='mucx' visible='true' version='1' changeset='35265944' lat='48.1260965' lon='11.7018178' />
   <node id='3832898259' timestamp='2015-11-12T17:00:31Z' uid='371369' user='mucx' visible='true' version='1' changeset='35265944' lat='48.1248401' lon='11.7024172' />
-  <way id='-16661' action='modify' visible='true'>
+  <way id='-1479' action='modify' visible='true'>
     <nd ref='539181219' />
-    <nd ref='-15494' />
-    <nd ref='-15492' />
-    <nd ref='-15490' />
+    <nd ref='-63' />
+    <nd ref='-61' />
+    <nd ref='-59' />
     <nd ref='539181253' />
     <nd ref='2489934944' />
     <nd ref='539181249' />
@@ -6707,7 +6737,7 @@
     <nd ref='2489934915' />
     <nd ref='539181244' />
     <nd ref='2489934592' />
-    <nd ref='-15490' />
+    <nd ref='-59' />
     <nd ref='539181253' />
     <nd ref='2489934944' />
     <nd ref='973745922' />

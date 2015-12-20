@@ -48,3 +48,15 @@ weiter:
   place=* löschen
   die ID derweil drauf lassen, nachher vor dem upload löschen - zwei dateien, eine mit ID, eine zum upload
  
+So:
+  197 neue Objekte
+  312 modifizierte objekte -> bei 115 attribute hinzugefügt
+
+  welche typen von objekten
+    73 Vereine
+    42 companies
+    16 organic
+    18 regional
+    9 fair trade
+    11 second hand
+    75 "green" - with topic environment

@@ -1,0 +1,33 @@
+name	addr:country	addr:street	addr:housenumber	addr:postcode	addr:city	POI_TYPE	amenity	shop	tourism	craft	club	office	man_made	social_facility	social_facility:for	leisure	garden:type	payment:none	natural	access	type	building	landuse	place	dedication	squatted	vacant	internet_access	description	#N/A	image	contact:website	contact:email	contact:phone	opening_hours	organic	fair-trade	regional	CATEGORY-TAG1	CATEGORY-TAG2	CATEGORY-TAG3	lat	lon
+Example-community-garden-name	FR	examplestreet	42a	4711	exampletown	Community garden										garden	community												This is the most exemplary garden ever, focusing on planting example plants.	Der Beispielgarten hat es sich zur Aufgabe gemacht, von jeder Pflanze ein Beispiel zu pflanzen	examplegarden.jpg	https://www.examplegarden.fr	garden@example.com	+43 12	Mo-Fr 16:00-18:00; Sa-So 14:00-17:00	only	limited	no	community garden	intercultural garden	permaculture	-180	90
+Cargonomia	HU	Dembinszki utca 	32		Budapest	Coworking space	coworking_space																									http://cargonomia.hu	info@cargonomia.hu										
+Varronomia	HU	Dembinszki utca 	32		Budapest	workshop for manufacture or repair of goods	workshop																									https://www.facebook.com/Varronomia-818852724894178/?fref=ts											
+Repair cafe	HU	Dembinszki utca 	32		Budapest	workshop for manufacture or repair of goods	workshop																									https://www.facebook.com/groups/321701627864341/?ref=ts&fref=ts											
+Degrowth Center (Budapest Degrowth conference team)	HU	Dembinszki utca 	32		Budapest	Degrowth conference organization group																										budapest.degrowth.org - nemnovekedes.net											
+Cyclonomia	HU	Katona Jozsef utca	39		Budapest	self help contact points	social_facility							support_group																		http://cyclonomia.org/	kontakt@cyclonomia.org										
+Pipacs Pékseg	HU	Bécsi út	267		Budapest	Bakery		bakery																								http://pipacspekseg.hu/	info@pipacspekseg.hu	+36 704298964									
+Haziko	HU	Dembinszki utca 	32		Budapest	consumer cooperative (food coop)					foodcoop																					http://www.haziko.farm/	info@haziko.farm	+36 20 513 1323									
+Muszi	HU	Blaha Lujza Tér	1		Budapest	Arts Centre			arts_centre																							muszi.org	info@muszi.org										
+Hackerspace	HU	Bástya utca	12		Budapest	hackerspace										hackerspace																http://hsbp.org/											
+Transition Wekerle	HU	Petur u.	7		Budapest	Association Office						association																				https://www.transitionnetwork.org/initiatives/talakul-wekerle-transition-wekerle	atalakulo.wekerle@gmail.com										
+Aurora	HU	Aurora utca	11		Budapest	Community center	community_centre																									https://www.facebook.com/auroraunofficial/?fref=ts	info@auroraonline.hu										
+Golya	HU	Bókay János utca	34		Budapest	Community center	community_centre																									http://golyapresszo.hu/	golyahaz@gmail.com	+36 1 785 5568									
+Noha Studio	HU	Pozsonyi utca	12		Budapest	Workshop																										http://nohastudio.hu/	noha@nohastudio.hu	+36 1 788 10 99									
+Meszelato	HU	Raday utca	18		Budapest	Association Office						association																				http://www.messzelato.hu/	info@messzelato.hu	+36 30 252 6437									
+Vedegylet Transition	HU	Kálmán Imre utca 	25		Budapest	Association Office						association																				http://vedegylet.hu/	iroda @ vedegylet.hu	+36 339 07 13									
+Greenpeace	HU	Zászlós utca	54		Budapest	Association Office						association																				http://www.greenpeace.org/hungary/hu/	info.hu@greenpeace.org	+36 1 392 7663									
+ESSRG	HU	Romer Floris	38		Budapest	University	university																									https://www.essrg.hu/	info@essrg.hu										
+Szatyor	HU	Gyulai pál utca	14		Budapest	Organic store																										http://szatyorbolt.hu/		+36 203228181									
+Zamboki biokert	HU	szent laszlo utca 			Zsambok	Farmers market	marketplace																									http://www.zsambokibiokert.hu/	zsamboki.biokert@gmail.com										
+Tudatos Vásárlók Egyesülete	HU	Móricz Zsigmond körtér 	3a		Budapest	Association Office						association																				http://tudatosvasarlo.hu/	tve@tve.hu	+36 1 225 8136									
+MTVSZ	HU	Üllői út	91b		Budapest	Association Office						association																				http://www.mtvsz.hu/	info@mtvsz.hu	+36 1 216 7297									
+Kossuth Klub	HU	Múzeum ut	7		Budapest	community center	community_centre																									kossuth-klub.hu	info@kossuth-klub.hu	+36 1 338 31 66									
+Gödör	HU	Király utca	8		Budapest	Club					yes																					http://www.godorklub.hu/	info@godorklub.hu	+36 20 201 3868									
+Dürer Kert	HU	Ajtósi Dürer sor 	19-21		Budapest	Club					yes																					http://www.durerkert.com/		+36 1 789 4444									
+Humusz Haz	HU	Saru utca	11		Budapest	Green Association																										http://www.humusz.hu/humuszhaz	humus@humus.hu	+36 1 386 26 48									
+Szimpla Piac	HU	Kazinczy utca	14		Budapest	Farmers market	marketplace																									http://www.szimpla.hu/szimpla-piac	piac@szimpla.hu	+36 204273375									
+Bio piac (Mom park)	HU	Csörsz utca	18		Budapest	Farmers market	marketplace																									http://www.biokultura.org/index.php/csorsz-okopiac	okopiac@biokultura.org	+36 30 435 5680									
+Leonardo Community gardens	HU	Tömő utca	14		Budapest	Community garden										garden	community															http://kozossegikertek.hu/kertek/viii-kerulet/corvin-setany/	kozossegikertek@kek.org.hu										
+Kelen Community gardens	HU	Fehérvári út	135		Budapest	Community garden										garden	community															http://kozossegikertek.hu/kertek/kelen-kert/	kelenkert@gmail.com										
+Eszmélet	HU	Múzeum utca	7		Budapest	Journal																										http://eszmelet.hu/	eszmelet1989@gmail.com	+36 30 532 0000									
+Magyar Waldorf Szövetség	HU	Asbóth utca	17		Budapest	School	school																									http://www.waldorf.hu/	mwsz@waldorf.hu	+36 1 793 5743									

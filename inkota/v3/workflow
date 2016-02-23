@@ -1,0 +1,39 @@
+1. erster Durchgang geocoding
+  -> exact
+    -> merge mit allen manuell bereits adresskorrigierten weiter in file OK
+  -> onlyroad
+  -> unsuccessful
+    -> welche mit und welche ohne koordinaten
+    -> welche ohne -> derzeit händisch korrigieren
+
+ausgang 89
+
+Ergebnis 3 files:
+OK 48
+onlyroad-4umap 20
+unsucc-4umap 19 
+
+müssen selbe namen (1. spalte) wie ausgangsdatei haben
+cat OK *4umap | cut -f 1 -d","|sort|uniq|wc # oder diff mit ausgang|cut -f 1 
+
+alle alten "latitude/longitude"-Spalten löschen, damit nur mehr die neuen lat und lon da sind
+alle leeren spalten löschen und die, die für umap uninteressant sind
+
+als csv hochladen, 
+dann links über das symbol unter dem [-] hovern, edit layer
+  Umbenennen in "city only" oder "road only"
+  Type of layer to clustered stellen
+  rechts advanced properties, andere farbe einstellen
+
+danach in jeden cluster reinzoomen und POIs leicht verschieben, die auf selben koordinaten liegen (selbe straße oder Stadt)
+
+
+Beim 2. mal "Choose Layer" -> Import in a new layer auswählen
+  layernamen ändern
+  layer auf clustered stellen
+
+immer wieder zwischendurch speichern!
+
+Wenn fertig, rechts den Schlüssel wählen, only editable with secret link, den weiterschicken
+
+http://umap.openstreetmap.fr/en/map/anonymous-edit/72492%3A_6sFSnN-KyMlhqmMWjuyDXNn0gU

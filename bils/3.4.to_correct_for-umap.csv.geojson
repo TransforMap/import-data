@@ -1,0 +1,111 @@
+
+{
+    "type":"FeatureCollection",
+    "crs":{
+        "type":"name",
+        "name":"EPSG:4326"
+    },
+    "generator":"JOSM",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Bulgarian Food Bank",
+                "addr:country":"BG",
+                "addr:orig_street":"бул.Васил Левски",
+                "addr:housenumber":"106",
+                "addr:postcode":"1000",
+                "addr:city":"София",
+                "POI_TYPE":"food bank",
+                "amenity":"social_facility",
+                "social_facility":"food_bank",
+                "description":"The organisation acts as an interface between the food industry and social welfare organisations to increase access to food aid in Bulgaria. It sets up routines for guaranteeing that donated food is safe and properly managed.",
+                "description:bg":"Организацията работи като свързващо звено между хранителната индустрия и социалните организации, за да увеличи многократно достъпа до хранително подпомагане в България. Тя създава системи за сигурност и контрол на храните, които постъпват като дарения.",
+                "website":"http://bgfoodbank.org",
+                "contact:email":"contact@bgfoodbank.org",
+                "contact:phone":"+3592 953 4100",
+                "organic":"no",
+                "fair-trade":"no",
+                "regional":"yes",
+                "CATEGORY-TAG1":"food bank",
+                "CATEGORY-TAG2":"food waste",
+                "addr:street":"бул. Васил Левски",
+                "place":"town"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    23.33513707528534,
+                    42.698131603817885
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Farmhopping",
+                "addr:country":"BG",
+                "addr:orig_street":"ул. Крум Попов",
+                "addr:housenumber":"56",
+                "addr:postcode":"1421",
+                "addr:city":"София",
+                "POI_TYPE":"farmers market",
+                "amenity":"marketplace",
+                "description":"The organisation acts as an interface between the food industry and social welfare organisations to increase access to food aid in Bulgaria. It sets up routines for guaranteeing that donated food is safe and properly managed.",
+                "description:bg":"farmhopping е спасението на градския човек, който иска да пазарува чиста храна от малки български ферми, произведена с грижа както за неговото здраве, така и за природата.",
+                "website":"https://farmhopping.com",
+                "contact:email":"info@farmhopping.com",
+                "contact:phone":"+359700 20 080",
+                "opening_hours":"http://www.betahaus.bg/en/",
+                "organic":"yes",
+                "fair-trade":"yes",
+                "regional":"yes",
+                "CATEGORY-TAG1":"fermer market",
+                "CATEGORY-TAG2":"local farmers",
+                "CATEGORY-TAG3":"fresh food",
+                "addr:street":"Крум Попов",
+                "place":"town"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    23.3264575,
+                    42.6812103
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Magniti Ltd",
+                "addr:country":"BG",
+                "addr:orig_street":"ул. Филиповско шосе",
+                "addr:housenumber":"38",
+                "addr:postcode":"1324",
+                "addr:city":"София",
+                "POI_TYPE":"Arts Centre",
+                "amenity":"arts_centre",
+                "description":"Magnetic Bulgaria magnets are: 1.Bulgarian production, 2.Handmade 3.Recyclable - Environmentally friendly technology and 4. Designed to support noble causes",
+                "description:bg":"Магнитите Магнетична България са: 1. Българското производство, 2. Ръчна изработка, 3. Рециклируеми - технология опазваща околната среда и 4. Създадени за подкрепа на благородни каузи",
+                "website":"http://www.magneticbulgaria.eu/bg/",
+                "contact:email":"sales@magneticbulgaria.eu",
+                "contact:phone":"+359896609809",
+                "organic":"no",
+                "fair-trade":"no",
+                "regional":"no",
+                "CATEGORY-TAG1":"artshop",
+                "CATEGORY-TAG2":"souvenirs",
+                "CATEGORY-TAG3":"magnets",
+                "addr:street":"Филиповско шосе",
+                "place":"town"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    23.2621752,
+                    42.724344
+                ]
+            }
+        }
+    ]
+}

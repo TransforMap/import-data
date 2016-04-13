@@ -1,0 +1,79 @@
+
+{
+    "type":"FeatureCollection",
+    "crs":{
+        "type":"name",
+        "name":"EPSG:4326"
+    },
+    "generator":"JOSM",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Terrabona Cooperativa V.",
+                "addr:country":"ES",
+                "addr:orig_street":"Pol. Ind. Picassent C/1",
+                "addr:housenumber":"parcela D5 nau 1",
+                "addr:city":"Picassent. Valencia",
+                "POI_TYPE":"farm",
+                "landuse":"farmyard",
+                "description:es":"Cooperativa de integración social sin ánimo de lucro q ue nace de la necesidad de sus miembros fundadores d realizar un trabajo social enriquecedor que beneficie a la sociedad. Se dedica a la producción, transformación, compra y venta de productos ecológicos y se mueve por la responsabilidad y el compromiso con la SALUD, con la alimentación ecológica, para ofrecer productos ecológicos de proximidad y que sean, al mismo tiempo, asequibles a cualquier economía, fomentando el producto local con el apoyo de productores de la zona. Es una cooperativa de integración social porque formamos un equipo variado, personas de diferentes sectores profesionales y con diferentes capacidades personales, pero preocupados todos por fomentar el empleo de personas con discapacidad psíquica de Picassent (Valencia) y que al final del proceso son los que hacen posible que los productos ecológicos de Terrabona lleguen a sus clientes.",
+                "CATEGORY-TAG1":"Social inclusion through employment",
+                "CATEGORY-TAG2":"Food growing",
+                "place":"city"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -0.46116,
+                    39.36354999999999
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Muestra Agroecológica de Zaragoza",
+                "addr:country":"ES",
+                "addr:orig_street":"Plaza Sinués Urbiola",
+                "addr:housenumber":"1",
+                "addr:city":"Zaragoza",
+                "POI_TYPE":"farmers market",
+                "amenity":"marketplace",
+                "description:es":"Mercado directo de agricultores locales ecológicos. Es un punto de encuentro entre agricultores locales y ciudadanos, que ha permitido recuperar el contacto directo entre productor y consumidor. Su finalidad es crear conciencia social en torno al consumo sostenible y respetuoso con el medio ambiente y promover la soberanía alimentaria desde lo local.",
+                "CATEGORY-TAG1":"Regular Farmers Market with local producers",
+                "addr:street":"Calle de José Sinués y Urbiola",
+                "place":"town"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.1398446,
+                    42.125586500000004
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"ALMOCAFRE",
+                "addr:country":"ES",
+                "addr:orig_street":"Avenida de los Custodios",
+                "addr:housenumber":"5",
+                "addr:city":"Córdoba",
+                "POI_TYPE":"organic store",
+                "description:es":"Cooperativa de consumidores y productores ecológicos desde 1994. Nuestros objetivos son: promover y fomentar el consumo y producción de alimentos y bienes a nivel local provenientes de la agricultura ecológica;Desarrollar un proyecto de máximo beneficio social, autogestionario y solidario;Colaborar con otras entidades con fines similares;Potenciar productos ecológicos provenientes de la agricultura familiar y de cooperativas de agricultura con carácter social.",
+                "CATEGORY-TAG1":"Social inclusion through employment",
+                "addr:street":"Avenida de los Custodios",
+                "place":"town"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -4.7902031,
+                    37.8759898
+                ]
+            }
+        }
+    ]
+}

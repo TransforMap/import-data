@@ -1,0 +1,34 @@
+
+{
+    "type":"FeatureCollection",
+    "crs":{
+        "type":"name",
+        "name":"EPSG:4326"
+    },
+    "generator":"JOSM",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Muestra Agroecológica de Zaragoza",
+                "addr:country":"ES",
+                "addr:orig_street":"Plaza Sinués Urbiola",
+                "addr:housenumber":"1",
+                "addr:city":"Zaragoza",
+                "POI_TYPE":"farmers market",
+                "amenity":"marketplace",
+                "description:es":"Mercado directo de agricultores locales ecológicos. Es un punto de encuentro entre agricultores locales y ciudadanos, que ha permitido recuperar el contacto directo entre productor y consumidor. Su finalidad es crear conciencia social en torno al consumo sostenible y respetuoso con el medio ambiente y promover la soberanía alimentaria desde lo local.",
+                "CATEGORY-TAG1":"Regular Farmers Market with local producers",
+                "addr:street":"Calle de José Sinués y Urbiola",
+                "place":"town"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.1398446,
+                    42.125586500000004
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,766 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7968904777,
+          53.0740395
+        ]
+      },
+      "properties": {
+        "name": "Ab geht die Lucie!",
+        "addr:country": "DE",
+        "addr:orig_street": "Lucie-Flechtmann-Platz",
+        "addr:housenumber": "",
+        "addr:postcode": "28199",
+        "addr:city": "Bremen",
+        "main_tag": "Community garden",
+        "addr:street": "Lucie-Flechtmann-Platz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.229221165180206,
+          51.476307949654554
+        ]
+      },
+      "properties": {
+        "name": "Alsengarten",
+        "addr:country": "DE",
+        "addr:street": "Hinterhof der Alsenstraße",
+        "addr:housenumber": "19a",
+        "addr:postcode": "44789",
+        "addr:city": "Bochum",
+        "main_tag": "community garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72119426727295,
+          51.08307797389903
+        ]
+      },
+      "properties": {
+        "name": "Aprikosen für Alle",
+        "addr:country": "DE",
+        "addr:street": "Leisninger Straße ",
+        "addr:housenumber": "80",
+        "addr:postcode": "01127",
+        "addr:city": "Dresden",
+        "main_tag": "Community garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.986472725868225,
+          51.152866215786446
+        ]
+      },
+      "properties": {
+        "name": "Bäckerei Back 2",
+        "addr:country": "DE",
+        "addr:street": "Einkaufspassage Deminaniplatz",
+        "addr:housenumber": "19/20",
+        "addr:postcode": "2826",
+        "addr:city": "Görlitz",
+        "main_tag": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.446575,
+          52.4055121
+        ]
+      },
+      "properties": {
+        "name": "Bauerngarten Berlin Mette",
+        "addr:country": "DE",
+        "addr:orig_street": "Querweg ",
+        "addr:housenumber": "6 1/2",
+        "addr:postcode": "12529",
+        "addr:city": "Schönefeld",
+        "main_tag": "Community garden",
+        "addr:street": "Querweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.818228840827942,
+          53.071362318007935
+        ]
+      },
+      "properties": {
+        "name": "Bauernladen Paulskloster",
+        "addr:country": "DE",
+        "addr:orig_street": "Beim Paulskloster ",
+        "addr:housenumber": "28",
+        "addr:postcode": "28203",
+        "addr:city": "Bremen ",
+        "main_tag": "organic store",
+        "addr:street": "Beim Paulskloster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.971991658210754,
+          48.76869959249712
+        ]
+      },
+      "properties": {
+        "name": "Bio Streuobst-Hof Stöckl",
+        "addr:country": "DE",
+        "addr:orig_street": "Hauptstraße ",
+        "addr:housenumber": "6",
+        "addr:postcode": "93352",
+        "addr:city": "Rohr",
+        "main_tag": "farm",
+        "addr:street": "Hauptstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.045910954475403,
+          51.4863503842781
+        ]
+      },
+      "properties": {
+        "name": "Bonnekamp-Stiftung für die integrative Stadt",
+        "addr:country": "DE",
+        "addr:street": "Welterbe Zollverein, A9, Gelsenkirchener Straße",
+        "addr:housenumber": "181",
+        "addr:postcode": "45309",
+        "addr:city": "Essen",
+        "main_tag": "research"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05798053741455,
+          52.397848040356465
+        ]
+      },
+      "properties": {
+        "name": "BUND Brandenburg",
+        "addr:country": "DE",
+        "addr:orig_street": "Friedrich-Ebert-Str.",
+        "addr:housenumber": "114a",
+        "addr:postcode": "14467",
+        "addr:city": "Potsdam",
+        "main_tag": "club",
+        "addr:street": "Friedrich-Ebert-Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.858646988868713,
+          51.34172662027352
+        ]
+      },
+      "properties": {
+        "name": "Die junge AbL",
+        "addr:country": "DE",
+        "addr:orig_street": "Walburger Straße",
+        "addr:housenumber": "2",
+        "addr:postcode": "37213",
+        "addr:city": "Witzenhausen",
+        "main_tag": "club",
+        "addr:street": "Walburger Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7276371717453,
+          52.33636175492747
+        ]
+      },
+      "properties": {
+        "name": "Ein Vermehrungsgarten für Hannover",
+        "addr:country": "DE",
+        "addr:street": "An der Bauernwiese",
+        "addr:housenumber": "42",
+        "addr:postcode": "30459",
+        "addr:city": "Hannover",
+        "main_tag": "Community garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.693535566329954,
+          52.376809229520326
+        ]
+      },
+      "properties": {
+        "name": "Essenszeit - Agentur für gesundes Leben",
+        "addr:country": "DE",
+        "addr:orig_street": "Zur Schwanenburg ",
+        "addr:housenumber": "11",
+        "addr:postcode": "30453",
+        "addr:city": "Hannover",
+        "main_tag": "Restaurant",
+        "addr:street": "Zur Schwanenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.120781898498535,
+          49.41536373131531
+        ]
+      },
+      "properties": {
+        "name": "Gartenbaubetrieb noris inklusion gGmbH -  Rent-a-Huhn",
+        "addr:country": "DE",
+        "addr:street": "Berthold-Brecht-Straße ",
+        "addr:housenumber": "6",
+        "addr:postcode": "90471",
+        "addr:city": "Nürnberg",
+        "main_tag": "farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.958181083202362,
+          53.5522011589383
+        ]
+      },
+      "properties": {
+        "name": "Gartendeck",
+        "addr:country": "DE",
+        "addr:orig_street": "Große Freiheit",
+        "addr:housenumber": "62-68",
+        "addr:postcode": "22767",
+        "addr:city": "Hamburg",
+        "main_tag": "Community garden",
+        "addr:street": "Große Freiheit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10042119026184,
+          49.025702198353876
+        ]
+      },
+      "properties": {
+        "name": "Gemeinschaftsgarten am Protzenweiher ",
+        "addr:country": "DE",
+        "addr:orig_street": "Am Protzenweiher",
+        "addr:housenumber": "",
+        "addr:postcode": "93059",
+        "addr:city": "Regensburg",
+        "main_tag": "community garden",
+        "addr:street": "Am Protzenweiher"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.712466597557068,
+          52.28212039724893
+        ]
+      },
+      "properties": {
+        "name": "Heuhüpfer e.V. - Lernort Kampfelder Hof",
+        "addr:country": "DE",
+        "addr:street": "Hauptstraße ",
+        "addr:housenumber": "31",
+        "addr:postcode": "30966",
+        "addr:city": "Hemmingen OT Hiddestorf",
+        "main_tag": "farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.829290270805359,
+          53.373494700195565
+        ]
+      },
+      "properties": {
+        "name": "Hofgemeinschaft Oldendorf",
+        "addr:country": "DE",
+        "addr:orig_street": "Oldendorfer Landstraße ",
+        "addr:housenumber": "24",
+        "addr:postcode": "27729",
+        "addr:city": "Holste",
+        "main_tag": "farm",
+        "addr:street": "Oldendorfer Landstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.39257562160492,
+          48.77583057298483
+        ]
+      },
+      "properties": {
+        "name": "Imkerei Goldblüte e.V.",
+        "addr:country": "DE",
+        "addr:orig_street": "Heckenweg",
+        "addr:housenumber": "24",
+        "addr:postcode": "73773",
+        "addr:city": "Aichwald",
+        "main_tag": "beekeeper",
+        "addr:street": "Heckenweg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.986100196838379,
+          53.50685051203823
+        ]
+      },
+      "properties": {
+        "name": "Interkultureller Garten Wilhelmsburg e.V. ",
+        "addr:country": "DE",
+        "addr:street": "hinter dem Haus Veringstraße",
+        "addr:housenumber": "147",
+        "addr:postcode": "21107",
+        "addr:city": "Hamburg",
+        "main_tag": "Community garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0232595205307,
+          53.84500441720361
+        ]
+      },
+      "properties": {
+        "name": "Kattendorfer Hof",
+        "addr:country": "DE",
+        "addr:orig_street": "Dorfstraße ",
+        "addr:housenumber": "1a",
+        "addr:postcode": "24568",
+        "addr:city": "Kattendorf",
+        "main_tag": "farm",
+        "addr:street": "Dorfstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.951778650283813,
+          53.5518266908952
+        ]
+      },
+      "properties": {
+        "name": "KEBAP KulturEnergieBunkerAltonaProjekt e.V.",
+        "addr:country": "DE",
+        "addr:orig_street": "Schomburgstraße ",
+        "addr:housenumber": "6",
+        "addr:postcode": "22767",
+        "addr:city": "Hamburg",
+        "main_tag": "energy supply",
+        "addr:street": "Schomburgstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969226419925688,
+          53.5580727031678
+        ]
+      },
+      "properties": {
+        "name": "Keimzelle – TAUSCHPLATZ für Alle ",
+        "addr:country": "DE",
+        "addr:street": "Ölmühlenplatz im Karolinenviertel",
+        "addr:housenumber": "",
+        "addr:postcode": "20357",
+        "addr:city": "Hamburg",
+        "main_tag": "Community garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77823680639267,
+          51.046501911239794
+        ]
+      },
+      "properties": {
+        "name": "Leibspeise Dresden",
+        "addr:country": "DE",
+        "addr:orig_street": "Haydnstraße",
+        "addr:housenumber": "39/40",
+        "addr:postcode": "1309",
+        "addr:city": "Dresden",
+        "main_tag": "caterer",
+        "addr:street": "Haydnstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.337053656578064,
+          52.53348312561552
+        ]
+      },
+      "properties": {
+        "name": "Moabienen",
+        "addr:country": "DE",
+        "addr:street": "Siemensstraße",
+        "addr:housenumber": "27",
+        "addr:postcode": "10551",
+        "addr:city": "Berlin ",
+        "main_tag": "beekeeper"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.629910707473755,
+          52.49449387216674
+        ]
+      },
+      "properties": {
+        "name": "Mosterei Ketzür",
+        "addr:country": "DE",
+        "addr:orig_street": "Ketzürer Dorfstraße ",
+        "addr:housenumber": "30",
+        "addr:postcode": "14778",
+        "addr:city": "Beetzseeheide",
+        "main_tag": "local producer",
+        "addr:street": "Ketzürer Dorfstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.549742221832275,
+          48.1614410617216
+        ]
+      },
+      "properties": {
+        "name": "o’pflanzt is!",
+        "addr:country": "DE",
+        "addr:street": "Emma-Ihrer-Straße",
+        "addr:housenumber": "",
+        "addr:postcode": "80637",
+        "addr:city": "München",
+        "main_tag": "Community garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8268624816,
+          53.07287655
+        ]
+      },
+      "properties": {
+        "name": "ÖkoMarkt auf dem Ziegenmarkt",
+        "addr:country": "DE",
+        "addr:orig_street": "Ziegenmarkt",
+        "addr:housenumber": "",
+        "addr:postcode": "28203",
+        "addr:city": "Bremen",
+        "main_tag": "farmers market",
+        "addr:street": "Ziegenmarkt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81978452205658,
+          53.07280299673868
+        ]
+      },
+      "properties": {
+        "name": "Ökomarkt Ostertor",
+        "addr:country": "DE",
+        "addr:street": "Ulrichsplatz/Wulwestraße",
+        "addr:housenumber": "",
+        "addr:postcode": "28203",
+        "addr:city": "Bremen",
+        "main_tag": "farmers market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.828485608100891,
+          53.071114142532394
+        ]
+      },
+      "properties": {
+        "name": "ÖkoMarkt Steintor",
+        "addr:country": "DE",
+        "addr:orig_street": "Mecklenburger Straße",
+        "addr:housenumber": "",
+        "addr:postcode": "28203",
+        "addr:city": "Bremen",
+        "main_tag": "farmers market",
+        "addr:street": "Mecklenburger Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.673874735832213,
+          52.74833059421012
+        ]
+      },
+      "properties": {
+        "name": "Ökonauten EG",
+        "addr:country": "DE",
+        "addr:street": "Sydower Feld",
+        "addr:housenumber": "4",
+        "addr:postcode": "16359",
+        "addr:city": "Biesenthal",
+        "main_tag": "local producer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.415417075157166,
+          52.54425839952424
+        ]
+      },
+      "properties": {
+        "name": "Social Seeds",
+        "addr:country": "DE",
+        "addr:street": "Gneistraße ",
+        "addr:housenumber": "10",
+        "addr:postcode": "10437",
+        "addr:city": "Berlin",
+        "main_tag": "club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.260608077049255,
+          48.93193086612634
+        ]
+      },
+      "properties": {
+        "name": "SoLaWi Tiefbrunn",
+        "addr:country": "DE",
+        "addr:orig_street": "Mangoldingerstraße",
+        "addr:housenumber": "11",
+        "addr:postcode": "93098",
+        "addr:city": "Tiefbrunn/Mintraching",
+        "main_tag": "farm",
+        "addr:street": "Mangoldinger Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.034430861473083,
+          49.45435172227845
+        ]
+      },
+      "properties": {
+        "name": "Stadtgarten Gartenküche",
+        "addr:country": "DE",
+        "addr:orig_street": "Wandererstraße",
+        "addr:housenumber": "44",
+        "addr:postcode": "90431",
+        "addr:city": "Nürnberg",
+        "main_tag": "community garden",
+        "addr:street": "Wandererstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90142822265625,
+          53.57640388440089
+        ]
+      },
+      "properties": {
+        "name": "Tifu Tutenberg Institut für Umweltgestaltung e.V. – Permakulturgarten ",
+        "addr:country": "DE",
+        "addr:street": "Schulgartenweg / Altonaer Volkspark",
+        "addr:housenumber": "",
+        "addr:postcode": "22525",
+        "addr:city": "Hamburg",
+        "main_tag": "Community Garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.728296995162964,
+          52.37754768933199
+        ]
+      },
+      "properties": {
+        "name": "Transition Initiative Hannover",
+        "addr:country": "DE",
+        "addr:street": "Hausmannstraße",
+        "addr:housenumber": "9-10",
+        "addr:postcode": "30159",
+        "addr:city": "Hannover",
+        "main_tag": "club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.838624358177185,
+          48.30378262296572
+        ]
+      },
+      "properties": {
+        "name": "Uria e.V. ",
+        "addr:country": "DE",
+        "addr:street": "Dorfstraße ",
+        "addr:housenumber": "42",
+        "addr:postcode": "72336",
+        "addr:city": "Balingen-Ostdorf",
+        "main_tag": "club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.144455313682556,
+          51.266352388069194
+        ]
+      },
+      "properties": {
+        "name": "Utopiastadtgarten",
+        "addr:country": "DE",
+        "addr:street": "Am Bahnhof Mirke, Mirker Straße",
+        "addr:housenumber": "48",
+        "addr:postcode": "42105",
+        "addr:city": "Wuppertal",
+        "main_tag": "Community garden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.136762738227844,
+          51.25626997148948
+        ]
+      },
+      "properties": {
+        "name": "Wandelgarten mit Wandelkino",
+        "addr:country": "DE",
+        "addr:orig_street": "Luisenstraße",
+        "addr:housenumber": "110",
+        "addr:postcode": "42103",
+        "addr:city": "Wuppertal",
+        "main_tag": "community garden",
+        "addr:street": "Luisenstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1276621,
+          51.3235594
+        ]
+      },
+      "properties": {
+        "name": "Die Biohöfe im Windrather Tal",
+        "addr:country": "DE",
+        "addr:street": "Windrather Tal",
+        "addr:housenumber": "",
+        "addr:postcode": "42553",
+        "addr:city": "Windrath",
+        "main_tag": "farm"
+      }
+    }
+  ]
+}

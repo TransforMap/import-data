@@ -1,0 +1,50 @@
+name,addr:country,addr:orig_street,addr:housenumber,addr:postcode,addr:city,main_tag,longitude,latitute,lat,lon,addr:street,place
+INSELGRÜN,DE,Güterstraße,4,70372,Stuttgart,Community garden,,,48.7974729,9.226405,Güterstraße,isolated_dwelling
+Bienenschutz Stuttgart,DE,Johannesstraße ,65,70176,Stuttgart,beekeeper,,,48.779852,9.1595436,Johannesstraße,isolated_dwelling
+plattsalat,DE,Bismarckstr.,55/1,70197,Stuttgart,organic store,,,48.7721782,9.15407694952749,Bismarckstraße,isolated_dwelling
+Bäckerei Weber GmbH,DE,Ringstr. ,48,71364,Winnenden,bakery,,,48.87651395,9.39552399233664,Ringstraße,isolated_dwelling
+Genussgemeinschaft Städter und Bauern e.V.,DE,Holzstraße ,15b,80469,München,farmers market,,,48.1298895,11.5684046,Holzstraße,isolated_dwelling
+Kartoffelkombinat,DE,Durasweg,3,81247,München,farm,,,48.1693873,11.4582012,Durasweg,isolated_dwelling
+Waldgärtner,DE,Schrenkstr.,9,80339,München,farm,,,48.1387664,11.5416717,Schrenkstraße,isolated_dwelling
+Bioland-Imkerei Berg & Blüte,DE,Rambaldistraße,27,81929,München,beekeeper,,,48.1657125,11.6478435,Rambaldistraße,isolated_dwelling
+MOTTE – Stadtteil&Kulturzentrum,DE,Eulenstraße,43,22765,Hamburg,Community center,,,53.5502248,9.9277721,Eulenstraße,isolated_dwelling
+Agrar Koordination & FIA e.V.,DE,Nernstweg,32-34,22765,Hamburg,education,,,53.5563266,9.9326631,Nernstweg,isolated_dwelling
+Lernbauernhof Schulte-Tigges,DE,Kümper Heide,21,44329,Dortmund,farm,,,51.5737588,7.50016265235562,Kümper Heide,isolated_dwelling
+SoLawi Dortmund,DE,Kümper Heide,21,44329,Dortmund,community garden,,,51.5737588,7.50016265235562,Kümper Heide,isolated_dwelling
+Fleisch & Mehr... Feines zum Geniessen - Sebastian Spickernagel KG,DE,D.-Martin-Luther-Straße,2,93047,Regensburg,butcher,,,49.0168618,12.1011964,D.-Martin-Luther-Straße,isolated_dwelling
+Arbeitskreis UniGarten,DE,Universitätsstraße,31,93053,Regensburg,community garden,,,48.9933206,12.0898917,Universitätsstraße,isolated_dwelling
+Küche für Alle,DE,Am Ölberg,2,93047,Regensburg,community Kitchen,,,49.0184124,12.0912749,Am Ölberg,isolated_dwelling
+Slow Food Regensburg,DE,Küffnerstraße,3,93059,Regensburg,food council,,,49.02214255,12.1005706434572,Küffnerstraße,isolated_dwelling
+Gemeinschaft Spörgelhof ,DE,Am Wiesenweg ,1,16359,Lanke,farm,,,52.74414485,13.5789162,Am Wiesenweg,isolated_dwelling
+freiLand CSA,DE,Friedrich-Engels-Straße,22,14473,Potsdam,consumer cooperative,,,52.3895574,13.077686935565,Friedrich-Engels-Straße,isolated_dwelling
+Biohof Werder,DE,Hoher Weg ,10,14542,Werder/Havel,farm,,,52.3790833,12.9319926349428,Hoher Weg,isolated_dwelling
+Schepershof,DE,Windrather Straße,134,42553,Velbert,farm,,,51.3140977,7.1319004,Windrather Straße,isolated_dwelling
+Hof zur Hellen,DE,Windrather Straße,197,42553,Velbert-Neviges,farm,,,51.3194239,7.1343834,Windrather Straße,isolated_dwelling
+Bioladen Natur und Gesundheit ,DE,Stresemannstraße,3,42275,Wuppertal,organic store,,,51.2688882,7.19644563499872,Stresemannstraße,isolated_dwelling
+"Stadt, Land, Beides",DE,,,,Nürnberg,consumer cooperative,,,48.3619187,12.9118642,,isolated_dwelling
+Biolandhof Karl Dollinger,DE,Offenbau ,24,91177,Thalmässing,farm,,,49.1222885,11.2709681,Offenbau,isolated_dwelling
+Bio-Verbraucher e.V. ,DE,Rieterstraße,20,90419,Nürnberg,club,,,49.4630187,11.067376,Rieterstraße,isolated_dwelling
+Kein Patent,DE,Frohschammerstraße,14,80807,München,club,,,48.1791081,11.5687822,Frohschammerstraße,isolated_dwelling
+Reyerhof,DE,Unteraicher Straße,8,70567,Stuttgart-Möhringen,farm,,,48.7244278,9.14492801713147,Unteraicher Straße,isolated_dwelling
+Green Fair Planet e.V. ,DE,Blücherstr.,1,32423,Minden,club,,,52.2912342,8.94322,Blücherstraße,isolated_dwelling
+Naturschutzbund Niedersachsen,DE,Alleestraße,36,30167,Hannover,club,,,52.38970815,9.70745849887023,Alleestraße,isolated_dwelling
+Die Bäcker - Zeit für Geschmack e.V.,DE,Bert-Brecht-Weg,32,30890,Barsinghausen,bakery,,,52.2800816,9.52034041920296,,isolated_dwelling
+UFER-Projekte Dresden e.V.,DE,Arthur-Weineck-Straße,3,1157,Dresden,Community garden,,,51.0517974,13.6772792945647,Arthur-Weineck-Straße,isolated_dwelling
+DeinHof – Solidarische Gemüsekoop Dresden,DE,Niederwarthaer Straße,50,1445,Radebeul,consumer cooperative,,,51.0994584,13.6053465,Niederwarthaer Straße,isolated_dwelling
+Hof zur bunten Kuh,DE,Lichtenwalder Straße,1,9669,Frankenberg,farm,,,50.89539175,13.0109782655005,Lichtenwalder Straße,isolated_dwelling
+Paradinsel-Hof,DE,Köthensdorfer Hauptstraße,7,9249,Taura,farm,,,50.90688865,12.8618862371563,Köthensdorfer Hauptstraße,isolated_dwelling
+Biolandhof Apfelbacher,DE,Tombergstraße,1,53332,Bornheim,farm,,,50.7490109,6.96425230219557,Tombergstraße,isolated_dwelling
+Kölner Bio-Bauer,DE,Poll-Vingster-Straße,215,51105,Köln,farm,,,50.926554,7.01725340397193,Poll-Vingster Straße,isolated_dwelling
+NeuLand Köln,DE,Koblenzer Straße,15,50968,Köln,community garden,,,50.9143096,6.9645854,Koblenzer Straße,isolated_dwelling
+Wilde Gärtnerei,DE,Bernauer Straße,6,16321,Rüdnitz,farm,,,52.7192273,13.6236517,Bernauer Straße,isolated_dwelling
+Fördergemeinschaft Ökologischer Landbau / Aktionsbündnis Agrarwende Berlin-Brandenburg,DE,Marienstraße,19-20,10117,Berlin,club,,,52.5224673,13.3834587116564,Marienstraße,isolated_dwelling
+SpeiseGut,DE,Kladower Damm,57,14089,Berlin-Spandau,farm,,,52.47823215,13.1814524356521,Kladower Damm,isolated_dwelling
+VERN,DE,Burgstraße,20,16278,Greiffenberg/Uckermark,club,,,53.0887752,13.9586821,Burgstraße,isolated_dwelling
+Markthalle Neun,DE,Eisenbahnstraße,42/43,10997,Berlin ,convenience store,,,52.5021469,13.4312004,Eisenbahnstraße,isolated_dwelling
+Gemeinschaftsgarten Allmende-Kontor,DE,Tempelhofer Feld,,12049,Berlin,Community garden,52.474522,13.416945,52.4729578,13.4027557,,isolated_dwelling
+Bauerngarten Berlin Pankow,DE,Blankenfelder Chaussee,5,13159,Berlin,community garden,,,52.6053291,13.3991708,Blankenfelder Chaussee,isolated_dwelling
+Bauerngarten Berlin Havelmathen,DE,Kladower Damm,57,14089,Berlin Spandau,community garden,,,52.47823215,13.1814524356521,Kladower Damm,isolated_dwelling
+LohmannsHof,DE,Eichenstraße ,24,27313,Westen,farm,,,52.8366237,9.3026735,Eichenstraße,isolated_dwelling
+Ökomarkt Neustadt,DE,Pappelstraße/Delmestraße,,28199,Bremen,farmers market,,,53.0682354,8.790565,Pappelstraße,isolated_dwelling
+Organischer Landbau in Bienenwerder,DE,Bienenwerder, 2b,15374,Müncheberg (Mark),farm,,,52.48680865,14.0539307883,,isolated_dwelling
+Solidarische Landwirtschaft – Gut Adolphshof,DE,,,31275,Lehrte-Hämelerwald,farm,52.332932,10.118776,52.332932,10.118776,,

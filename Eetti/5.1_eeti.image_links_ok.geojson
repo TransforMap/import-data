@@ -1,0 +1,290 @@
+
+{
+    "type":"FeatureCollection",
+    "crs":{
+        "type":"name",
+        "name":"EPSG:4326"
+    },
+    "generator":"JOSM",
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Osuuskunta Jalavala",
+                "addr:country":"FI",
+                "addr:housenumber":"44-46 C 9",
+                "addr:postcode":"00560",
+                "addr:city":"Helsinki",
+                "POI_TYPE":"Work Cooperative",
+                "description":"Working cooperative providing wellness services.",
+                "description:fi":"Osuuskunta Jalavala on monialainen osuuskunta, joukko eri alojen asiantuntijoita ja osaajia, joita yhdistää kiinnostus työskennellä kestävästi edistäen niin ihmisten kuin ympäristön hyvinvointia.",
+                "website":"http://www.jalavala.fi/",
+                "CATEGORY-TAG1":"cooperative",
+                "SSEDAS_PARTNER":"Eetti",
+                "addr:street":"Limingantie"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    24.960156799999996,
+                    60.2073567
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Mea Manna",
+                "addr:country":"FI",
+                "addr:housenumber":"1",
+                "addr:postcode":"15110",
+                "addr:city":"Lahti",
+                "POI_TYPE":"Restaurant",
+                "amenity":"restaurant",
+                "description":"Mea Manna is a social restaurant with a great big heart.",
+                "description:fi":"MeaManna on luomuruokaa ja kakkuja tarjoava kahvila, joka toimii erityistä tukea tarvitsevien aikuisten työpajana Lahdessa.",
+                "website":"http://www.meamanna.fi",
+                "contact:email":"meamanna@kaupunkikyla.fi",
+                "organic":"yes",
+                "fair-trade":"yes",
+                "regional":"yes",
+                "CATEGORY-TAG1":"Restaurant",
+                "addr:street":"Hollolankatu",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    25.648840664279174,
+                    60.98340124364416
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Suomen Talkoot ry",
+                "addr:country":"FI",
+                "addr:street":"Hirvikatu",
+                "addr:housenumber":"20 A 2",
+                "addr:postcode":"33240",
+                "addr:city":"Tampere",
+                "POI_TYPE":"Community garden",
+                "leisure":"garden",
+                "garden:type":"community",
+                "description":"Community gardening and cleaning voluntary work.",
+                "description:fi":"Talkoillaan hyvinvointikampanja ja Haist' Kukkanen kaupunkiviljelyprojekti.",
+                "website":"https://suomentalkoot.wordpress.com/",
+                "contact:email":"suomentalkoot@gmail.com",
+                "CATEGORY-TAG1":"Urban Gardening",
+                "CATEGORY-TAG2":"Community Gardening",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    23.7129191,
+                    61.498760000000004
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Hyväntekijä",
+                "addr:country":"FI",
+                "addr:street":"Koskikatu",
+                "addr:housenumber":"1",
+                "addr:postcode":"80100",
+                "addr:city":"Joensuu",
+                "POI_TYPE":"boutique",
+                "shop":"boutique",
+                "description":"Social store and online store selling products that do good.",
+                "description:fi":"Hyväntekijäa -verkkokauppa on yhteiskunnallinen yritys, joka myy vastuullisesti tuotettuja tuotteita.",
+                "image":"https://datengarten.allmende.io/public.php?service=files&t=f234d4b4af767bf97d8a36520cbf1a22&download",
+                "website":"http://www.hyvantekija.fi/",
+                "contact:email":"info@hyvantekija.fi",
+                "organic":"yes",
+                "fair-trade":"yes",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    29.7631328,
+                    62.5991732
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Stadin aikapankki",
+                "addr:country":"FI",
+                "addr:street":"Kaarlenkatu",
+                "addr:housenumber":"15",
+                "addr:postcode":"00530",
+                "addr:city":"Helsinki",
+                "POI_TYPE":"Timebank",
+                "description":"Helsinki Timebank",
+                "description:fi":"Stadin Aikapankin verkkotorilla vaihdetaan palveluita aikaa vastaan. Periaatteena on, että kaikkien aika, työ ja avun tarve ovat yhtä arvokkaita!",
+                "image":"https://datengarten.allmende.io/public.php?service=files&t=0566a6af6da07c1612ff37db8531a563&download",
+                "website":"https://stadinaikapankki.wordpress.com/",
+                "CATEGORY-TAG1":"Time banking",
+                "CATEGORY-TAG2":"Alternative currencies",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    24.9517904,
+                    60.1865518
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Oma Maa",
+                "addr:country":"FI",
+                "addr:street":"Kaarlenkatu",
+                "addr:housenumber":"15",
+                "addr:postcode":"00530",
+                "addr:city":"Helsinki",
+                "POI_TYPE":"consumer cooperative (food coop)",
+                "club":"foodcoop",
+                "description":"Oma Maa",
+                "description:fi":"Kahvila ja luomuruokaosuuskunta, tuottaa jäsenilleen ruokaa kumppanuusmaatalouden periaatteilla.",
+                "image":"https://datengarten.allmende.io/public.php?service=files&t=8dd38ee2ada82576d2294cb4eb89d406&download",
+                "website":"http://www.omamaa.fi",
+                "contact:email":"jasenet@omamaa.fi",
+                "opening_hours":"http://www.omamaa.fi/kahvila-2/",
+                "organic":"only",
+                "regional":"yes",
+                "CATEGORY-TAG1":"CSA",
+                "CATEGORY-TAG2":"Food cooperative (legal coop status) / Consumer Cooperative",
+                "CATEGORY-TAG3":"Café",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    24.9517904,
+                    60.1865518
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Ehta Raha",
+                "addr:country":"FI",
+                "addr:street":"Jollaksentie",
+                "addr:housenumber":"54 D 1",
+                "addr:postcode":"00850",
+                "addr:city":"Helsinki",
+                "POI_TYPE":"Ethical Financing",
+                "description":"Ehta Raha is a common good cooperative providing ethical financing e.g. community bonds.",
+                "description:fi":"Ehta Raha on yhteisön tarpeista lähtevää rahoitusta.",
+                "website":"http://www.ehtaraha.fi",
+                "opening_hours":"https://www.facebook.com/Vaaterekki",
+                "CATEGORY-TAG1":"Community bonds",
+                "CATEGORY-TAG2":"Microfinance",
+                "CATEGORY-TAG3":"Participatory Budgeting",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    25.08376925337295,
+                    60.164009938771905
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Tampereen kehitysmaakauppa",
+                "addr:country":"FI",
+                "addr:street":"Kohmankaari",
+                "addr:housenumber":"3",
+                "addr:postcode":"33310",
+                "addr:city":"Tampere",
+                "POI_TYPE":"Fair Trade Shop",
+                "shop":"fairtrade",
+                "description":"Fair Trade wholesale.",
+                "description:fi":"Tampereen kehitysmaakauppa ry edistää reilua kaupankäyntiä teollisuus- ja kehitysmaiden välillä.",
+                "website":"http://www.kehitysmaakauppa.org/",
+                "contact:email":"posti@kehitysmaakauppa.org",
+                "organic":"yes",
+                "fair-trade":"only",
+                "CATEGORY-TAG1":"Fair Trade",
+                "CATEGORY-TAG2":"Wholesalers",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    23.63598364788513,
+                    61.503635790637915
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Turun Kirjakahvila",
+                "addr:country":"FI",
+                "addr:street":"Vanha Suurtori",
+                "addr:housenumber":"3",
+                "addr:postcode":"20500",
+                "addr:city":"Turku",
+                "POI_TYPE":"cafe",
+                "amenity":"cafe",
+                "description":"Turku Book Cafe is a bookstore, gallery and cafe.",
+                "description:fi":"Turun Kirjakahvila on vuodesta 1981 toiminut kirjakauppa, galleria ja vegaaninen kahvila, joka tarjoaa kulttuurielämyksiä viehättävässä ympäristössä.",
+                "website":"http://www.kirjakahvila.org/",
+                "opening_hours":"http://www.kirjakahvila.org/?page_id=7",
+                "organic":"yes",
+                "fair-trade":"yes",
+                "CATEGORY-TAG1":"Café",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    22.27561341223373,
+                    60.450387514465234
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"Vaaterekki",
+                "addr:country":"FI",
+                "addr:street":"Vuorikatu",
+                "addr:housenumber":"22",
+                "addr:postcode":"00100",
+                "addr:city":"Helsinki",
+                "POI_TYPE":"Garment rental",
+                "description":"Vaaterekki is a garment rental focusing on Finnish design.",
+                "description:fi":"Vaatelainaamo, josta voi lainata kotimaista muotia.",
+                "website":"https://www.facebook.com/Vaaterekki",
+                "opening_hours":"https://www.facebook.com/Vaaterekki",
+                "organic":"yes",
+                "regional":"yes",
+                "CATEGORY-TAG1":"Garment rental",
+                "CATEGORY-TAG2":"Sharing, re-use",
+                "SSEDAS_PARTNER":"Eetti"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    24.9471295,
+                    60.1728054
+                ]
+            }
+        }
+    ]
+}

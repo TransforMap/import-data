@@ -1,0 +1,633 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "MediumTurquoise",
+          "iconUrl": "/uploads/pictogram/park2-24_1.png"
+        },
+        "name": "Birke schützt Buche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.501950740814209,
+          51.33467051899984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villa Locomuna",
+        "description": "Intentionale, politische Kommune, Wohn- und Lebensraum\nwww.villa-locomuna.de/\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.462543725967409,
+          51.3193481201061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24.png"
+        },
+        "name": "Essbarer Park",
+        "description": "Essbarer Park, angelegt von Essbare Stadt e.V. 2010\nhttp://essbare-stadt.de/wp/projekte/essbarer-park-waldau-waitzstr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.509804248809814,
+          51.291828031164876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ForstFeldGarten",
+        "description": "Gemeinschaftsgarten, 7000qm, Nachbarschaftsparzellen, Permakultur-Waldgarten\nhttp://essbare-stadt.de/wp/projekte/forstfeldgarten/",
+        "_storage_options": {
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.535875320434572,
+          51.29586015550648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24.png"
+        },
+        "name": "Gemeinschaftsgarten Falkenweg",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4303035736084,
+          51.336778582284495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24.png"
+        },
+        "name": "Gemeinschaftsgarten Huttenplatz",
+        "description": "Gartenprojekt, entstanden im Rahmen des documenta13-Projektes \"Commoning in Kassel\"\nhttp://anstiftung.de/hessen/102372-gemeinschaftsgarten-huttenplatz,-kassel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.46076273918152,
+          51.31500288116476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24.png"
+        },
+        "name": "Gemeinschaftsgarten Wesertor",
+        "description": "http://gemeinschaftsgarten-wesertor.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.516236186027529,
+          51.32377675568186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/garden-24.png"
+        },
+        "name": "Gemüse-Selbst-Ernte Waldauer Fußweg",
+        "description": "http://essbare-stadt.de/wp/projekte/gemueseselbsternte/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.508194923400879,
+          51.30601605059121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/garden-24.png"
+        },
+        "name": "Gemüse-Selbst-Ernte Wienerstraße",
+        "description": "Selbsterntefeld\nhttp://essbare-stadt.de/wp/projekte/gemueseselbsternte/10-kopie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.487863779067993,
+          51.33120825879744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Green",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24.png"
+        },
+        "name": "Guerilla Verde",
+        "description": "Guerilla Gardening Beet\nhttp://essbare-stadt.de/wp/projekte/guerilla-verde/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.503954350948336,
+          51.31355772979299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "ForestGreen",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24_1.png"
+        },
+        "name": "Pomologische Gärten",
+        "description": "Essbare Stadt Projekt \"StadtFruchtGeNuss\": neue Allmende, 10 Obstbaume, gepflanzt 2015\nhttp://essbare-stadt.de/wp/projekte/stadtfruchtgenuss/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4802463054657,
+          51.301609177911594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/cafe-24_1.png"
+        },
+        "name": "Werkstatt Kassel e.V.",
+        "description": "Soziokulturzentrum, Café, Ausstellungen, Autorencafè\nhttp://www.werkstatt-kassel.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.460939764976503,
+          51.31595511380124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/park2-24.png"
+        },
+        "name": "Blüchergarten",
+        "description": "Ältester Gemeinschaftgarten in Kassel seit 1986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.505190849304201,
+          51.30908115999029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FachBeschäft für Interaktion (FBI)",
+        "description": "Unser Laden ist ein offener Raum mit unterschiedlichen Aktivitäten. Neben Kunstausstellungen und weiteren Kunstbetrieb, gibt es hier Seminare, Vorträge, Workshops, Lebensmittelrettung, Kochen sowie ein Künstlerkollektiv... für weitere Ideen sind wir offen....",
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/monument-24_1.png",
+          "color": "DodgerBlue"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.486705064773561,
+          51.30692487352613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/park-24_1.png",
+          "color": "Black"
+        },
+        "name": "Garten J(E)den",
+        "description": "FreiRaum für Kunst & Kultur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.50223505496979,
+          51.33463365216583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/harbor-24-white.png",
+          "color": "Lime"
+        },
+        "name": "I.M.A. Internationale Musikerhilfe e.V. ",
+        "description": "TONSTUDIO\nDie Internationale Musikerhilfe e. V. ist ein gemeinnütziger Verein und als besonders förderungswürdig anerkannt. Eingetragen ist der Verein im Vereinsregister Kassel (VR 2730). Grundgedanke des Vereins ist die Förderung bedürftiger MusikerInnen auf internationaler Ebene, Förderung internationaler Gesinnung, der Toleranz auf allen Gebieten der Kultur und des Völkerverständigungsgedankens.\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.523665904998781,
+          51.31833225619952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Klangkeller e.V.",
+        "_storage_options": {
+          "color": "DarkOrchid",
+          "iconUrl": "/uploads/pictogram/school-24.png"
+        },
+        "description": "Der Verein zur Förderung musikalischer Jugendkultur, Klang Keller e.V., ist ein Musikzentrum für Jugendliche und junge Erwachsene am Kasseler Kulturbahnhof. Das Projekt ging im Oktober 2008 als gemeinsamer Proberaum für eine Reihe von Musikern an den Start und hat sich bis heute zu einem Ort für kreativen Austausch zwischen jungen und erfahreneren Künstlern entwickelt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.485439062118532,
+          51.31835907797795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kulturfabrik Salzmann",
+        "description": "besteht seit 1987. Seit Entmietung und durch Investoren-Spekulation verschuldeter Verfall der Salzmann-Fabrik wird seit 2013 der Kupferhammer (Leipziger Str. 407) als Ersatzspielstätte genutzt.\nSalzmann ist Mitglied in der \"Landesarbeitsgemeinschaft der Kulturinitiativen\nund soziokulturellen Zentren in Hessen\" (LAKS Hessen e.V.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.556175619363785,
+          51.294510842170055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/park2-24_1.png",
+          "color": "SpringGreen"
+        },
+        "name": "Rainbow Crystal Garden",
+        "description": "WELCOME HOME\nRAINBOWFAMILY\nOF LIVING LIGHT\n\nCommonische Allmende\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.502731263637545,
+          51.334769388999284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Green",
+          "iconUrl": "/uploads/pictogram/garden-24_1.png"
+        },
+        "name": "TRAFO",
+        "description": "TRA.FO\n\nsteht für\n\nT\\ransformator\nR\\esonanzraum\nA\\utopoiesis\nF\\eldforschung\nO\\ase für Kunst + Kultur\n\nSeit 2002 belebt die freie Kunst- und Kulturinitiative TRA.FO das kleine Trafohaus am Lutherplatz mit Kunstausstellungen, Musikprojekten, Performances und Workshops.\n\nIm Außenraum entfaltet sich seit 2005 die lebendige Skulptur „plan t“ als wildwüchsiger Permakultur-Garten, der im öffentlichen Raum als botanisches Experimentierfeld natürliche Muster offenbart, Biomassenakkumulation betreibt und als Extrakt neue Generationen von Lebenskeimen hervorbringt, eine Arbeit zur Transformation vom Feld der Knappheit in ein Feld der Fülle und zugleich Keimzelle des Kasseler Projektes „Essbare Stadt“.\n\nTRA.FO arbeitet seit 10 Jahren im Kontext „Soziale Plastik“, fördert Kultur von unten, versteht sich als Sozio- und Permakultur-Projekt und öffnet unkommerziellen Raum für szene-, alters- und kulturübergreifende Begegnung."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.496281892061234,
+          51.3187496683493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Tanzcrew, gegründet in 2013, Performances, Shows, die thematisch oft übergreifend sind (oft soziologische und sozialkritische Betrachtungsweise auf gesellschaftl. Problematiken,  Themen, Strukturen). Die Crew setzt sich insbesondere für soziale und umweltbezogene Projekte ein, unterstützt diese in Form von künstlerisch-tänzerischen Beiträgen/Darstellungen. Die Crew nimmt auch an Meisterschaften teil. (Kategorien: Tanz, darstellende Kunst, Tanztheater, Umwelt-Projekte, Soziale Projekte, Vernetzung mit: Conviva e.V. , Navacopah, Klangkeller e.V., Bunte Wege GuG, United Mind, Zusammenarbeit mit regionalen Künstlern wie Silvio Vincent, Tim Taylor, Jintanino) ",
+        "name": "Ventil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.507559239864351,
+          51.31504144026464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aktivhof \"Villa PiccoBella\"",
+        "description": "In Planung: Ort zum Aktiv sein und Lernen für Kinder: Den richtigen Umgang mit Tieren erlernen, in der Natur sein, Basteln oder im Garten das eigene Gemüse ernten u.v.m. \n\nKontakt für Ideen und Mitstreiterinnen:\nFAIRändern e.V., Email: info@fairaendern.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.133511781692507,
+          51.35795437886563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/garden-24_1.png",
+          "color": "ForestGreen"
+        },
+        "name": "Bürgergeld e.V. ",
+        "description": "BürgerBlüte \n\nRegionalwährung für Kassel und Nordhessen\n\nWebseite: www.buergerbluete.de\n\nLokale Untenehmen, also Produzenten, Händler, Handwerker, Dienstleister, werden durch die BürgerBlüte gegenüber überregionalen Ketten bevorzugt. Sie gewinnen neue Kunden und bauen stabile Kundenbeziehungen auf mit Menschen, denen die Weiterentwicklung der Region auch am Herzen liegt. Ein Netzwerk der beteiligten Unternehmen entsteht.\n\nGemeinnützige Vereine bekommen durch den Regionalbeitrag regelmäßige Zuwendungen, sie werden bekannter und gewinnen ein zusätzliches Profil.\n\nBürger unterstützen ihren Verein und tragen durch die Verwendung der BürgerBlüte zum Erhalt vielfältiger gewerblicher und kultureller Angebote bei, fördern so die Lebensqualität in der Region.\n\nBürgerBlüten erzeugen so ein neues und solidarisches Miteinander aller lokalen Akteure und Akteurinnen.\n\n\nmail: info@buergerbluete.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.443145990371706,
+          51.31348396214455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Die Kopiloten e.V.",
+        "description": "politische Bildung im kommunalen Raum \n\nhttp://www.diekopiloten.de\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.489768147468569,
+          51.31861388409087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/park2-24_1.png"
+        },
+        "name": "Dorothe Görgen",
+        "description": "\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.143993854522707,
+          51.14385102846109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foodsharing Kassel Verteiler",
+        "description": "Foodsharing Kassel Verteiler ist geöffnet zu den Öffnungszeiten vom AstA ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.503672719001772,
+          51.3223117661104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DarkTurquoise",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/art-gallery-24.png"
+        },
+        "name": "Karnak Kunstwerkstatt",
+        "description": "Kunstatelier, Ausstellungen, African Culture, Bühne, regelmäßige Jam-Sessions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.499568939208986,
+          51.325878615506845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/airport-24_1.png",
+          "color": "Lime"
+        },
+        "name": "KNUTSCHBRUECKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.514149427413942,
+          51.35138154760325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DarkGreen",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24_1.png"
+        },
+        "name": "Neue Allmende Schleusenpark",
+        "description": "2013 im Rahmen von fortlaufendem Essbare Stadt Projekt \"StadtFruchtGeNuss\" gepflanzt: 7 Apfelbäume, 2 Walnussbäume\n2016: neues Modul: Erweiterter Blühstreifen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.513752460479738,
+          51.31658545411084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DarkGreen",
+          "iconClass": "Drop",
+          "iconUrl": "/uploads/pictogram/park2-24_1.png"
+        },
+        "name": "Neue Allmende Zollmauerpark",
+        "description": "2013 (Projekt StadtFruchtGeNuss) gepflanzt: 2 Hochstamm Apfelbäume und weitere Gehölze\n(Aronia, Quitte, Josta, Johannis, Felsenbirne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.505158662796022,
+          51.31306482552708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/theatre-24.png",
+          "color": "DarkOrchid"
+        },
+        "name": "Panoptikum",
+        "description": "Kulturhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.558287858963014,
+          51.293958190891416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/harbor-24.png",
+          "color": "Red"
+        },
+        "name": "Rothe Ecke",
+        "description": "Die Rothe Ecke – das sind Leute, die sich gegenseitig unterstützen in gemeinsamen Kämpfen für gerechtere Arbeitsbedingungen, einen Nahverkehr für alle, bessere Wohnverhältnisse oder für ein humaneres System als Hartz IV. //\n\nRothe Ecke – People who support each other in common struggles for more just working and housing conditions, a public transport for all or for a more humane system than Hartz IV. We stand together to accomplish our goals. //\n\nOn se soutient avec les problèmes divers, soit-ils avec les autorités at l’administration, les propriétaires de logement ou les patrons. On tient ensemble, car l’union fait la force. //"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.474860429763796,
+          51.32478411838391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/ferry-24_1.png",
+          "color": "DarkTurquoise"
+        },
+        "name": "Saunawagenwelt.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.557021856307985,
+          51.354966236094945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Umsonstladen Wolfhagen",
+        "description": "Im Umsonstladen Wolfhagen können gebrauchte Dinge abgegeben werden, die dann neue Nutzer gegen eine Spende in selbstgewählter Höhe zur Verfügung gestellt werden."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.168959856033327,
+          51.32460812483147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DarkTurquoise",
+          "iconClass": "Ball",
+          "iconUrl": "/uploads/pictogram/toilets-24-white.png"
+        },
+        "name": "Wandelbar / Domaine Wehlheiden",
+        "description": "Verortung von Transition Town Kassel / Essbare Stadt e.V., Veranstaltungsraum, Küche, schöner Hinterhof, jeden Samstag  15 Uhr  Foodsharing Verteiler\nwww.ttkassel.de\nwww.essbare-stadt.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.469394087791445,
+          51.309017445357775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/garden-24_1.png",
+          "color": "LawnGreen"
+        },
+        "name": "o-k-computer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.465740919113161,
+          51.316250167790336
+        ]
+      }
+    }
+  ]
+}
